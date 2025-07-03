@@ -1,0 +1,202 @@
+body {
+  font-family: 'Noto Sans JP', 'Roboto', sans-serif;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 20px;
+  min-height: 100vh;
+  margin: 0;
+  color: #333;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 650px;
+  width: 100%;
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e0e0e0;
+  animation: fadeIn 0.8s ease-out;
+  margin: 0 auto; /* 中央揃え */
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+input {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 20px;
+  font-size: 1.1rem;
+  box-sizing: border-box;
+  border: 1px solid #c0c0c0;
+  border-radius: 10px;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  -webkit-appearance: none; /* Remove default styles for some browsers */
+}
+
+input:focus {
+  border-color: #008C8C;
+  box-shadow: 0 0 12px rgba(0, 140, 140, 0.25);
+  outline: none;
+}
+
+button {
+  width: 100%;
+  padding: 15px 20px;
+  font-size: 1.15rem;
+  font-weight: 700;
+  cursor: pointer;
+  background-color: #008C8C;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+
+button:hover {
+  background-color: #007070;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 15px rgba(0, 140, 140, 0.3);
+}
+
+button:active {
+  transform: translateY(0);
+  box-shadow: 0 4px 10px rgba(0, 140, 140, 0.2);
+}
+
+#result {
+    margin-top: 35px;
+    padding-top: 25px;
+    border-top: 1px solid #eee;
+    animation: slideIn 0.6s ease-out;
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.word-entry {
+    margin-bottom: 30px; /* 各エントリの下に余白 */
+    padding-bottom: 20px; /* 区切り線と内容の間に余白 */
+}
+
+.word-entry:not(:last-child) {
+    border-bottom: 1px solid #e0e0e0; /* 区切り線 */
+}
+
+.word-translation {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 0 10px 0;
+    color: #008C8C;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.05);
+}
+
+.word-details {
+    font-size: 1.3rem;
+    text-align: center;
+    color: #555;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    line-height: 1.8;
+}
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin-top: 25px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+  border-radius: 10px;
+  overflow: hidden; /* Ensures rounded corners apply to table content */
+}
+
+th, td {
+  border: 1px solid #e9ecef;
+  padding: 15px;
+  text-align: left;
+}
+
+th {
+  background-color: #e9ecef;
+  font-weight: 600;
+  color: #495057;
+  text-transform: uppercase;
+  font-size: 1rem;
+  border-bottom: 2px solid #dee2e6;
+}
+
+tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+tr:hover {
+  background-color: #E6F5F5;
+  transition: background-color 0.2s ease;
+}
+
+tr:first-child th:first-child {
+  border-top-left-radius: 10px;
+}
+
+tr:first-child th:last-child {
+  border-top-right-radius: 10px;
+}
+
+tr:last-child td:first-child {
+  border-bottom-left-radius: 10px;
+}
+
+tr:last-child td:last-child {
+  border-bottom-right-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 25px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  input, button {
+    font-size: 1rem;
+    padding: 12px;
+  }
+
+  .word-translation {
+    font-size: 2rem;
+  }
+
+  .word-details {
+    font-size: 1.1rem;
+  }
+
+  th, td {
+    padding: 10px;
+  }
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #777;
+  font-size: 0.9rem;
+}
