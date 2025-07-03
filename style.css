@@ -1,23 +1,27 @@
+* {
+  box-sizing: border-box; /* これを追加 */
+}
+
 body {
   font-family: 'Noto Sans JP', 'Roboto', sans-serif;
   background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-  padding: 20px;
   min-height: 100vh;
   margin: 0;
   color: #333;
   line-height: 1.6;
+  overflow-x: hidden; /* これを追加 */
 }
 
 .container {
   max-width: 650px;
-  width: 100%;
+  width: calc(100% - 40px); /* 左右に20pxの余白を確保 */
   background: #ffffff;
   padding: 40px;
   border-radius: 15px;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
   border: 1px solid #e0e0e0;
   animation: fadeIn 0.8s ease-out;
-  margin: 0 auto; /* 中央揃え */
+  margin: 20px auto; /* 上下に20pxの余白、左右中央揃え */
 }
 
 @keyframes fadeIn {
@@ -163,14 +167,25 @@ tr:first-child th:last-child {
 tr:last-child td:first-child {
   border-bottom-left-radius: 10px;
 }
+}
 
-tr:last-child td:last-child {
-  border-bottom-right-radius: 10px;
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* iOSでのスムーズなスクロール */
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #777;
+  font-size: 0.9rem;
 }
 
 @media (max-width: 768px) {
   .container {
     padding: 25px;
+    width: calc(100% - 20px); /* スマホでは左右に10pxの余白 */
+    margin: 10px auto; /* スマホでは上下に10pxの余白 */
   }
 
   h1 {
@@ -195,14 +210,6 @@ tr:last-child td:last-child {
   }
 }
 
-.table-responsive {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch; /* iOSでのスムーズなスクロール */
-}
-
-footer {
-  text-align: center;
-  margin-top: 40px;
-  color: #777;
-  font-size: 0.9rem;
+tr:last-child td:last-child {
+  border-bottom-right-radius: 10px;
 }
