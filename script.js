@@ -64,17 +64,19 @@ document.addEventListener('DOMContentLoaded', () => {
               <div class="word-entry">
                 <p class="word-translation"><strong>${jp_word}</strong> → ${de}</p>
                 <p class="word-details">[${pronunciation}] (${genderMap[gender]})</p>
-                <table>
-                  <thead>
-                    <tr><th>格</th><th>単数</th><th>複数</th></tr>
-                  </thead>
-                  <tbody>
-                    <tr><td>主格</td><td>${forms.nominative || '-'}</td><td>${plural.nominative || '-'}</td></tr>
-                    <tr><td>属格</td><td>${forms.genitive || '-'}</td><td>${plural.genitive || '-'}</td></tr>
-                    <tr><td>与格</td><td>${forms.dative || '-'}</td><td>${plural.dative || '-'}</td></tr>
-                    <tr><td>対格</td><td>${forms.accusative || '-'}</td><td>${plural.accusative || '-'}</td></tr>
-                  </tbody>
-                </table>
+                <div class="table-responsive">
+                  <table>
+                    <thead>
+                      <tr><th>格</th><th>単数</th><th>複数</th></tr>
+                    </thead>
+                    <tbody>
+                      <tr><td>主格</td><td>${forms.nominative || '-'}</td><td>${plural.nominative || '-'}</td></tr>
+                      <tr><td>属格</td><td>${forms.genitive || '-'}</td><td>${plural.genitive || '-'}</td></tr>
+                      <tr><td>与格</td><td>${forms.dative || '-'}</td><td>${plural.dative || '-'}</td></tr>
+                      <tr><td>対格</td><td>${forms.accusative || '-'}</td><td>${plural.accusative || '-'}</td></tr>
+                    </tbody>
+                  </table>
+                </div>
               </div>
             `;
         });

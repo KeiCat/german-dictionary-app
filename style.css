@@ -127,6 +127,7 @@ table {
   overflow: hidden; /* Ensures rounded corners apply to table content */
 }
 
+
 th, td {
   border: 1px solid #e9ecef;
   padding: 15px;
@@ -192,6 +193,11 @@ tr:last-child td:last-child {
   th, td {
     padding: 10px;
   }
+}
+
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* iOSでのスムーズなスクロール */
 }
 
 footer {
