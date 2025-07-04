@@ -1,0 +1,990 @@
+{
+  "人": [
+    {
+      "de": "Mensch",
+      "gender": "der",
+      "pronunciation": "メンシュ",
+      "forms": {
+        "nominative": "der Mensch",
+        "genitive": "des Menschen",
+        "dative": "dem Menschen",
+        "accusative": "den Menschen"
+      },
+      "plural": {
+        "nominative": "die Menschen",
+        "genitive": "der Menschen",
+        "dative": "den Menschen",
+        "accusative": "die Menschen"
+      }
+    },
+    {
+      "de": "Kind",
+      "gender": "das",
+      "pronunciation": "キント",
+      "forms": {
+        "nominative": "das Kind",
+        "genitive": "des Kindes",
+        "dative": "dem Kind",
+        "accusative": "das Kind"
+      },
+      "plural": {
+        "nominative": "die Kinder",
+        "genitive": "der Kinder",
+        "dative": "den Kindern",
+        "accusative": "die Kinder"
+      }
+    },
+    {
+      "de": "Erwachsener",
+      "gender": "der",
+      "pronunciation": "エアヴァクセナー",
+      "forms": {
+        "nominative": "der Erwachsene",
+        "genitive": "des Erwachsenen",
+        "dative": "dem Erwachsenen",
+        "accusative": "den Erwachsenen"
+      },
+      "plural": {
+        "nominative": "die Erwachsenen",
+        "genitive": "der Erwachsenen",
+        "dative": "den Erwachsenen",
+        "accusative": "die Erwachsenen"
+      }
+    }
+  ],
+  "リビング": [
+    {
+      "de": "Wohnzimmer",
+      "gender": "das",
+      "pronunciation": "ヴォーンツィマー",
+      "forms": {
+        "nominative": "das Wohnzimmer",
+        "genitive": "des Wohnzimmers",
+        "dative": "dem Wohnzimmer",
+        "accusative": "das Wohnzimmer"
+      },
+      "plural": {
+        "nominative": "die Wohnzimmer",
+        "genitive": "der Wohnzimmer",
+        "dative": "den Wohnzimmern",
+        "accusative": "die Wohnzimmer"
+      }
+    }
+  ],
+  "寝室": [
+    {
+      "de": "Schlafzimmer",
+      "gender": "das",
+      "pronunciation": "シュラーフツィマー",
+      "forms": {
+        "nominative": "das Schlafzimmer",
+        "genitive": "des Schlafzimmers",
+        "dative": "dem Schlafzimmer",
+        "accusative": "das Schlafzimmer"
+      },
+      "plural": {
+        "nominative": "die Schlafzimmer",
+        "genitive": "der Schlafzimmer",
+        "dative": "den Schlafzimmern",
+        "accusative": "die Schlafzimmer"
+      }
+    }
+  ],
+  "浴室": [
+    {
+      "de": "Badezimmer",
+      "gender": "das",
+      "pronunciation": "バーデツィマー",
+      "forms": {
+        "nominative": "das Badezimmer",
+        "genitive": "des Badezimmers",
+        "dative": "dem Badezimmer",
+        "accusative": "das Badezimmer"
+      },
+      "plural": {
+        "nominative": "die Badezimmer",
+        "genitive": "der Badezimmer",
+        "dative": "den Badezimmern",
+        "accusative": "die Badezimmer"
+      }
+    }
+  ],
+  "自然": [
+    {
+      "de": "Natur",
+      "gender": "die",
+      "pronunciation": "ナトゥーア",
+      "forms": {
+        "nominative": "die Natur",
+        "genitive": "der Natur",
+        "dative": "der Natur",
+        "accusative": "die Natur"
+      },
+      "plural": {}
+    }
+  ],
+  "空気": [
+    {
+      "de": "Luft",
+      "gender": "die",
+      "pronunciation": "ルフト",
+      "forms": {
+        "nominative": "die Luft",
+        "genitive": "der Luft",
+        "dative": "der Luft",
+        "accusative": "die Luft"
+      },
+      "plural": {}
+    }
+  ],
+  "目的地": [
+    {
+      "de": "Reiseziel",
+      "gender": "das",
+      "pronunciation": "ライゼツィール",
+      "forms": {
+        "nominative": "das Reiseziel",
+        "genitive": "des Reiseziels",
+        "dative": "dem Reiseziel",
+        "accusative": "das Reiseziel"
+      },
+      "plural": {
+        "nominative": "die Reiseziele",
+        "genitive": "der Reiseziele",
+        "dative": "den Reisezielen",
+        "accusative": "die Reiseziele"
+      }
+    }
+  ],
+  "パスポート": [
+    {
+      "de": "Pass",
+      "gender": "der",
+      "pronunciation": "パス",
+      "forms": {
+        "nominative": "der Pass",
+        "genitive": "des Passes",
+        "dative": "dem Pass",
+        "accusative": "den Pass"
+      },
+      "plural": {
+        "nominative": "die Pässe",
+        "genitive": "der Pässe",
+        "dative": "den Pässen",
+        "accusative": "die Pässe"
+      }
+    }
+  ],
+  "荷物": [
+    {
+      "de": "Gepäck",
+      "gender": "das",
+      "pronunciation": "ゲペック",
+      "forms": {
+        "nominative": "das Gepäck",
+        "genitive": "des Gepäcks",
+        "dative": "dem Gepäck",
+        "accusative": "das Gepäck"
+      },
+      "plural": {}
+    }
+  ],
+  "電車": [
+    {
+      "de": "Zug",
+      "gender": "der",
+      "pronunciation": "ツーク",
+      "forms": {
+        "nominative": "der Zug",
+        "genitive": "des Zuges",
+        "dative": "dem Zug",
+        "accusative": "den Zug"
+      },
+      "plural": {
+        "nominative": "die Züge",
+        "genitive": "der Züge",
+        "dative": "den Zügen",
+        "accusative": "die Züge"
+      }
+    }
+  ],
+  "昼食": [
+    {
+      "de": "Mittagessen",
+      "gender": "das",
+      "pronunciation": "ミッタークエッセン",
+      "forms": {
+        "nominative": "das Mittagessen",
+        "genitive": "des Mittagessens",
+        "dative": "dem Mittagessen",
+        "accusative": "das Mittagessen"
+      },
+      "plural": {
+        "nominative": "die Mittagessen",
+        "genitive": "der Mittagessen",
+        "dative": "den Mittagessen",
+        "accusative": "die Mittagessen"
+      }
+    }
+  ],
+  "夕食": [
+    {
+      "de": "Abendessen",
+      "gender": "das",
+      "pronunciation": "アーベントエッセン",
+      "forms": {
+        "nominative": "das Abendessen",
+        "genitive": "des Abendessens",
+        "dative": "dem Abendessen",
+        "accusative": "das Abendessen"
+      },
+      "plural": {
+        "nominative": "die Abendessen",
+        "genitive": "der Abendessen",
+        "dative": "den Abendessen",
+        "accusative": "die Abendessen"
+      }
+    }
+  ],
+  "病院": [
+    {
+      "de": "Krankenhaus",
+      "gender": "das",
+      "pronunciation": "クランケンハウス",
+      "forms": {
+        "nominative": "das Krankenhaus",
+        "genitive": "des Krankenhauses",
+        "dative": "dem Krankenhaus",
+        "accusative": "das Krankenhaus"
+      },
+      "plural": {
+        "nominative": "die Krankenhäuser",
+        "genitive": "der Krankenhäuser",
+        "dative": "den Krankenhäusern",
+        "accusative": "die Krankenhäuser"
+      }
+    }
+  ],
+  "教師": [
+    {
+      "de": "Lehrer",
+      "gender": "der",
+      "pronunciation": "レーラー",
+      "forms": {
+        "nominative": "der Lehrer",
+        "genitive": "des Lehrers",
+        "dative": "dem Lehrer",
+        "accusative": "den Lehrer"
+      },
+      "plural": {
+        "nominative": "die Lehrer",
+        "genitive": "der Lehrer",
+        "dative": "den Lehrern",
+        "accusative": "die Lehrer"
+      }
+    }
+  ],
+  "職業": [
+    {
+      "de": "Beruf",
+      "gender": "der",
+      "pronunciation": "ベルーフ",
+      "forms": {
+        "nominative": "der Beruf",
+        "genitive": "des Berufes",
+        "dative": "dem Beruf",
+        "accusative": "den Beruf"
+      },
+      "plural": {
+        "nominative": "die Berufe",
+        "genitive": "der Berufe",
+        "dative": "den Berufen",
+        "accusative": "die Berufe"
+      }
+    }
+  ],
+  "オフィス": [
+    {
+      "de": "Büro",
+      "gender": "das",
+      "pronunciation": "ビューロー",
+      "forms": {
+        "nominative": "das Büro",
+        "genitive": "des Büros",
+        "dative": "dem Büro",
+        "accusative": "das Büro"
+      },
+      "plural": {
+        "nominative": "die Büros",
+        "genitive": "der Büros",
+        "dative": "den Büros",
+        "accusative": "die Büros"
+      }
+    }
+  ],
+  "同僚": [
+    {
+      "de": "Kollege",
+      "gender": "der",
+      "pronunciation": "コレーゲ",
+      "forms": {
+        "nominative": "der Kollege",
+        "genitive": "des Kollegen",
+        "dative": "dem Kollegen",
+        "accusative": "den Kollegen"
+      },
+      "plural": {
+        "nominative": "die Kollegen",
+        "genitive": "der Kollegen",
+        "dative": "den Kollegen",
+        "accusative": "die Kollegen"
+      }
+    }
+  ],
+  "祝日": [
+    {
+      "de": "Feiertag",
+      "gender": "der",
+      "pronunciation": "ファイアータク",
+      "forms": {
+        "nominative": "der Feiertag",
+        "genitive": "des Feiertages",
+        "dative": "dem Feiertag",
+        "accusative": "den Feiertag"
+      },
+      "plural": {
+        "nominative": "die Feiertage",
+        "genitive": "der Feiertage",
+        "dative": "den Feiertagen",
+        "accusative": "die Feiertage"
+      }
+    }
+  ],
+  "国": [
+    {
+      "de": "Land",
+      "gender": "das",
+      "pronunciation": "ラント",
+      "forms": {
+        "nominative": "das Land",
+        "genitive": "des Landes",
+        "dative": "dem Land",
+        "accusative": "das Land"
+      },
+      "plural": {
+        "nominative": "die Länder",
+        "genitive": "der Länder",
+        "dative": "den Ländern",
+        "accusative": "die Länder"
+      }
+    }
+  ],
+  "首都": [
+    {
+      "de": "Hauptstadt",
+      "gender": "die",
+      "pronunciation": "ハウプトシュタット",
+      "forms": {
+        "nominative": "die Hauptstadt",
+        "genitive": "der Hauptstadt",
+        "dative": "der Hauptstadt",
+        "accusative": "die Hauptstadt"
+      },
+      "plural": {
+        "nominative": "die Hauptstädte",
+        "genitive": "der Hauptstädte",
+        "dative": "den Hauptstädten",
+        "accusative": "die Hauptstädte"
+      }
+    }
+  ],
+  "北": [
+    {
+      "de": "Norden",
+      "gender": "der",
+      "pronunciation": "ノーデン",
+      "forms": {
+        "nominative": "der Norden",
+        "genitive": "des Nordens",
+        "dative": "dem Norden",
+        "accusative": "den Norden"
+      },
+      "plural": {}
+    }
+  ],
+  "南": [
+    {
+      "de": "Süden",
+      "gender": "der",
+      "pronunciation": "ズューデン",
+      "forms": {
+        "nominative": "der Süden",
+        "genitive": "des Südens",
+        "dative": "dem Süden",
+        "accusative": "den Süden"
+      },
+      "plural": {}
+    }
+  ],
+  "東": [
+    {
+      "de": "Osten",
+      "gender": "der",
+      "pronunciation": "オステン",
+      "forms": {
+        "nominative": "der Osten",
+        "genitive": "des Ostens",
+        "dative": "dem Osten",
+        "accusative": "den Osten"
+      },
+      "plural": {}
+    }
+  ],
+  "西": [
+    {
+      "de": "Westen",
+      "gender": "der",
+      "pronunciation": "ヴェステン",
+      "forms": {
+        "nominative": "der Westen",
+        "genitive": "des Westens",
+        "dative": "dem Westen","accusative": "den Westen"
+      },
+      "plural": {}
+    }
+  ],
+  "クリスマス": [
+    {
+      "de": "Weihnachten",
+      "gender": "-",
+      "pronunciation": "ヴァイナハテン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "イースター": [
+    {
+      "de": "Ostern",
+      "gender": "-",
+      "pronunciation": "オースターン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "新年": [
+    {
+      "de": "Neujahr",
+      "gender": "das",
+      "pronunciation": "ノイヤール",
+      "forms": {
+        "nominative": "das Neujahr",
+        "genitive": "des Neujahrs",
+        "dative": "dem Neujahr",
+        "accusative": "das Neujahr"
+      },
+      "plural": {}
+    }
+  ],
+  "春": [
+    {
+      "de": "Frühling",
+      "gender": "der",
+      "pronunciation": "フリューリング",
+      "forms": {
+        "nominative": "der Frühling",
+        "genitive": "des Frühlings",
+        "dative": "dem Frühling",
+        "accusative": "den Frühling"
+      },
+      "plural": {}
+    }
+  ],
+  "夏": [
+    {
+      "de": "Sommer",
+      "gender": "der",
+      "pronunciation": "ゾマー",
+      "forms": {
+        "nominative": "der Sommer",
+        "genitive": "des Sommers",
+        "dative": "dem Sommer",
+        "accusative": "den Sommer"
+      },
+      "plural": {
+        "nominative": "die Sommer",
+        "genitive": "der Sommer",
+        "dative": "den Sommern",
+        "accusative": "die Sommer"
+      }
+    }
+  ],
+  "秋": [
+    {
+      "de": "Herbst",
+      "gender": "der",
+      "pronunciation": "ヘルプスト",
+      "forms": {
+        "nominative": "der Herbst",
+        "genitive": "des Herbstes",
+        "dative": "dem Herbst",
+        "accusative": "den Herbst"
+      },
+      "plural": {
+        "nominative": "die Herbste",
+        "genitive": "der Herbste",
+        "dative": "den Herbst",
+        "accusative": "die Herbste"
+      }
+    }
+  ],
+  "1月": [
+    {
+      "de": "Januar",
+      "gender": "der",
+      "pronunciation": "ヤヌアー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "2月": [
+    {
+      "de": "Februar",
+      "gender": "der",
+      "pronunciation": "フェブルアー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "3月": [
+    {
+      "de": "März",
+      "gender": "der",
+      "pronunciation": "メルツ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "4月": [
+    {
+      "de": "April",
+      "gender": "der",
+      "pronunciation": "アプリル",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "5月": [
+    {
+      "de": "Mai",
+      "gender": "der",
+      "pronunciation": "マイ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "6月": [
+    {
+      "de": "Juni",
+      "gender": "der",
+      "pronunciation": "ユーニ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "7月": [
+    {
+      "de": "Juli",
+      "gender": "der",
+      "pronunciation": "ユーリ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "8月": [
+    {
+      "de": "August",
+      "gender": "der",
+      "pronunciation": "アウグスト",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "9月": [
+    {
+      "de": "September",
+      "gender": "der",
+      "pronunciation": "ゼプテンバー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "10月": [
+    {
+      "de": "Oktober",
+      "gender": "der",
+      "pronunciation": "オクトーバー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "11月": [
+    {
+      "de": "November",
+      "gender": "der",
+      "pronunciation": "ノヴェンバー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "12月": [
+    {
+      "de": "Dezember",
+      "gender": "der",
+      "pronunciation": "デツェンバー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "朝": [
+    {
+      "de": "Morgen",
+      "gender": "der",
+      "pronunciation": "モーゲン",
+      "forms": {
+        "nominative": "der Morgen",
+        "genitive": "des Morgens",
+        "dative": "dem Morgen",
+        "accusative": "den Morgen"
+      },
+      "plural": {
+        "nominative": "die Morgen",
+        "genitive": "der Morgen",
+        "dative": "den Morgen",
+        "accusative": "die Morgen"
+      }
+    }
+  ],
+  "昼": [
+    {
+      "de": "Mittag",
+      "gender": "der",
+      "pronunciation": "ミッターク",
+      "forms": {
+        "nominative": "der Mittag",
+        "genitive": "des Mittags",
+        "dative": "dem Mittag",
+        "accusative": "den Mittag"
+      },
+      "plural": {
+        "nominative": "die Mittage",
+        "genitive": "der Mittage",
+        "dative": "den Mittagen",
+        "accusative": "die Mittage"
+      }
+    }
+  ],
+  "夜": [
+    {
+      "de": "Nacht",
+      "gender": "die",
+      "pronunciation": "ナハト",
+      "forms": {
+        "nominative": "die Nacht",
+        "genitive": "der Nacht",
+        "dative": "der Nacht",
+        "accusative": "die Nacht"
+      },
+      "plural": {
+        "nominative": "die Nächte",
+        "genitive": "der Nächte",
+        "dative": "den Nächten",
+        "accusative": "die Nächte"
+      }
+    }
+  ],
+  "日": [
+    {
+      "de": "Tag",
+      "gender": "der",
+      "pronunciation": "ターク",
+      "forms": {
+        "nominative": "der Tag",
+        "genitive": "des Tages",
+        "dative": "dem Tag",
+        "accusative": "den Tag"
+      },
+      "plural": {
+        "nominative": "die Tage",
+        "genitive": "der Tage",
+        "dative": "den Tagen",
+        "accusative": "die Tage"
+      }
+    }
+  ],
+  "月（暦）": [
+    {
+      "de": "Monat",
+      "gender": "der",
+      "pronunciation": "モーナート",
+      "forms": {
+        "nominative": "der Monat",
+        "genitive": "des Monats",
+        "dative": "dem Monat",
+        "accusative": "den Monat"
+      },
+      "plural": {
+        "nominative": "die Monate",
+        "genitive": "der Monate",
+        "dative": "den Monaten",
+        "accusative": "die Monate"
+      }
+    }
+  ],
+  "年": [
+    {
+      "de": "Jahr",
+      "gender": "das",
+      "pronunciation": "ヤール",
+      "forms": {
+        "nominative": "das Jahr",
+        "genitive": "des Jahres",
+        "dative": "dem Jahr",
+        "accusative": "das Jahr"
+      },
+      "plural": {
+        "nominative": "die Jahre",
+        "genitive": "der Jahre",
+        "dative": "den Jahren",
+        "accusative": "die Jahre"
+      }
+    }
+  ],
+  "月曜日": [
+    {
+      "de": "Montag",
+      "gender": "der",
+      "pronunciation": "モンターク",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "火曜日": [
+    {
+      "de": "Dienstag",
+      "gender": "der",
+      "pronunciation": "ディーンスターク",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "水曜日": [
+    {
+      "de": "Mittwoch",
+      "gender": "der",
+      "pronunciation": "ミットヴォッホ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "木曜日": [
+    {
+      "de": "Donnerstag",
+      "gender": "der",
+      "pronunciation": "ドンナーシュターク",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "金曜日": [
+    {
+      "de": "Freitag",
+      "gender": "der",
+      "pronunciation": "フライターク",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "日曜日": [
+    {
+      "de": "Sonntag",
+      "gender": "der",
+      "pronunciation": "ゾンターク",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "1": [
+    {
+      "de": "eins",
+      "gender": "-",
+      "pronunciation": "アインス",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "2": [
+    {
+      "de": "zwei",
+      "gender": "-",
+      "pronunciation": "ツヴァイ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "3": [
+    {
+      "de": "drei",
+      "gender": "-",
+      "pronunciation": "ドライ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "4": [
+    {
+      "de": "vier",
+      "gender": "-",
+      "pronunciation": "フィーア",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "5": [
+    {
+      "de": "fünf",
+      "gender": "-",
+      "pronunciation": "フュンフ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "6": [
+    {
+      "de": "sechs",
+      "gender": "-",
+      "pronunciation": "ゼクス",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "7": [
+    {
+      "de": "sieben",
+      "gender": "-",
+      "pronunciation": "ズィーベン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "8": [
+    {
+      "de": "acht",
+      "gender": "-",
+      "pronunciation": "アハト",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "9": [
+    {
+      "de": "neun",
+      "gender": "-",
+      "pronunciation": "ノイン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "10": [
+    {
+      "de": "zehn",
+      "gender": "-",
+      "pronunciation": "ツェーン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "メートル": [
+    {
+      "de": "Meter",
+      "gender": "der",
+      "pronunciation": "メーター",
+      "forms": {
+        "nominative": "der Meter",
+        "genitive": "des Meters",
+        "dative": "dem Meter",
+        "accusative": "den Meter"
+      },
+      "plural": {
+        "nominative": "die Meter",
+        "genitive": "der Meter",
+        "dative": "den Metern",
+        "accusative": "die Meter"
+      }
+    }
+  ],
+  "キログラム": [
+    {
+      "de": "Kilogramm",
+      "gender": "das",
+      "pronunciation": "キログラム",
+      "forms": {
+        "nominative": "das Kilogramm",
+        "genitive": "des Kilogramms",
+        "dative": "dem Kilogramm",
+        "accusative": "das Kilogramm"
+      },
+      "plural": {
+        "nominative": "die Kilogramm",
+        "genitive": "der Kilogramm",
+        "dative": "den Kilogramm",
+        "accusative": "die Kilogramm"
+      }
+    }
+  ],
+  "リットル": [
+    {
+      "de": "Liter",
+      "gender": "der",
+      "pronunciation": "リーター",
+      "forms": {
+        "nominative": "der Liter",
+        "genitive": "des Liters",
+        "dative": "dem Liter",
+        "accusative": "den Liter"
+      },
+      "plural": {
+        "nominative": "die Liter",
+        "genitive": "der Liter",
+        "dative": "den Litern",
+        "accusative": "die Liter"
+      }
+    }
+  ],
+  "赤": [
+    {
+      "de": "rot",
+      "gender": "-",
+      "pronunciation": "ロート",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "青": [
+    {
+      "de": "blau",
+      "gender": "-",
+      "pronunciation": "ブラウ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "緑": [
+    {
+      "de": "grün",
+      "gender": "-",
+      "pronunciation": "グリュン",
+      "forms": {},
+      "plural": {}
+    }
+  ]
+}

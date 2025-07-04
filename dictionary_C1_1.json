@@ -1,0 +1,295 @@
+{
+  "農民": [
+    {
+      "de": "Bauer",
+      "gender": "der",
+      "pronunciation": "バウアー",
+      "forms": {
+        "nominative": "der Bauer",
+        "genitive": "des Bauern",
+        "dative": "dem Bauern",
+        "accusative": "den Bauern"
+      },
+      "plural": {
+        "nominative": "die Bauern",
+        "genitive": "der Bauern",
+        "dative": "den Bauern",
+        "accusative": "die Bauern"
+      }
+    }
+  ],
+  "氷河期": [
+    {
+      "de": "Eiszeit",
+      "gender": "die",
+      "pronunciation": "アイスツァイト",
+      "forms": {
+        "nominative": "die Eiszeit",
+        "genitive": "der Eiszeit",
+        "dative": "der Eiszeit",
+        "accusative": "die Eiszeit"
+      },
+      "plural": {
+        "nominative": "die Eiszeiten",
+        "genitive": "der Eiszeiten",
+        "dative": "den Eiszeiten",
+        "accusative": "die Eiszeiten"
+      }
+    }
+  ],
+  "能力": [
+    {
+      "de": "Fähigkeit",
+      "gender": "die",
+      "pronunciation": "フェーイヒカイト",
+      "forms": {
+        "nominative": "die Fähigkeit",
+        "genitive": "der Fähigkeit",
+        "dative": "der Fähigkeit",
+        "accusative": "die Fähigkeit"
+      },
+      "plural": {
+        "nominative": "die Fähigkeiten",
+        "genitive": "der Fähigkeiten",
+        "dative": "den Fähigkeiten",
+        "accusative": "die Fähigkeiten"
+      }
+    }
+  ],
+  "技能": [
+    {
+      "de": "Fertigkeit",
+      "gender": "die",
+      "pronunciation": "フェルティヒカイト",
+      "forms": {
+        "nominative": "die Fertigkeit",
+        "genitive": "der Fertigkeit",
+        "dative": "der Fertigkeit",
+        "accusative": "die Fertigkeit"
+      },
+      "plural": {
+        "nominative": "die Fertigkeiten",
+        "genitive": "der Fertigkeiten",
+        "dative": "den Fertigkeiten",
+        "accusative": "die Fertigkeiten"
+      }
+    }
+  ],
+  "器用さ": [
+    {
+      "de": "Geschicklichkeit",
+      "gender": "die",
+      "pronunciation": "ゲシクリヒカイト",
+      "forms": {}
+      ,"plural": {}
+    }
+  ],
+  "狩人": [
+    {
+      "de": "Jäger",
+      "gender": "der",
+      "pronunciation": "イェーガー",
+      "forms": {
+        "nominative": "der Jäger",
+        "genitive": "des Jägers",
+        "dative": "dem Jäger",
+        "accusative": "den Jäger"
+      },
+      "plural": {
+        "nominative": "die Jäger",
+        "genitive": "der Jäger",
+        "dative": "den Jägern",
+        "accusative": "die Jäger"
+      }
+    }
+  ],
+  "戦士": [
+    {
+      "de": "Krieger",
+      "gender": "der",
+      "pronunciation": "クリーガー",
+      "forms": {
+        "nominative": "der Krieger",
+        "genitive": "des Kriegers",
+        "dative": "dem Krieger",
+        "accusative": "den Krieger"
+      },
+      "plural": {
+        "nominative": "die Krieger",
+        "genitive": "der Krieger",
+        "dative": "den Kriegern",
+        "accusative": "die Krieger"
+      }
+    }
+  ],
+  "中世": [
+    {
+      "de": "Mittelalter",
+      "gender": "das",
+      "pronunciation": "ミッテルアルター",
+      "forms": {
+        "nominative": "das Mittelalter",
+        "genitive": "des Mittelalters",
+        "dative": "dem Mittelalter",
+        "accusative": "das Mittelalter"
+      },
+      "plural": {}
+    }
+  ],
+  "騎士": [
+    {
+      "de": "Ritter",
+      "gender": "der",
+      "pronunciation": "リッター",
+      "forms": {
+        "nominative": "der Ritter",
+        "genitive": "des Ritters",
+        "dative": "dem Ritter",
+        "accusative": "den Ritter"
+      },
+      "plural": {
+        "nominative": "die Ritter",
+        "genitive": "der Ritter",
+        "dative": "den Rittern",
+        "accusative": "die Ritter"
+      }
+    }
+  ],
+  "収集家": [
+    {
+      "de": "Sammler",
+      "gender": "der",
+      "pronunciation": "ザムラー",
+      "forms": {
+        "nominative": "der Sammler",
+        "genitive": "des Sammlers",
+        "dative": "dem Sammler",
+        "accusative": "den Sammler"
+      },
+      "plural": {
+        "nominative": "die Sammler",
+        "genitive": "der Sammler",
+        "dative": "den Sammlern",
+        "accusative": "die Sammler"
+      }
+    }
+  ],
+  "入植者": [
+    {
+      "de": "Siedler",
+      "gender": "der",
+      "pronunciation": "ズィードラー",
+      "forms": {
+        "nominative": "der Siedler",
+        "genitive": "des Siedlers",
+        "dative": "dem Siedler",
+        "accusative": "den Siedler"
+      },
+      "plural": {
+        "nominative": "die Siedler",
+        "genitive": "der Siedler",
+        "dative": "den Siedlern",
+        "accusative": "die Siedler"
+      }
+    }
+  ],
+  "石器時代": [
+    {
+      "de": "Steinzeit",
+      "gender": "die",
+      "pronunciation": "シュタインツァイト",
+      "forms": {
+        "nominative": "die Steinzeit",
+        "genitive": "der Steinzeit",
+        "dative": "der Steinzeit",
+        "accusative": "die Steinzeit"
+      },
+      "plural": {}
+    }
+  ],
+  "注意": [
+    {
+      "de": "Vorsicht",
+      "gender": "die",
+      "pronunciation": "フォーアズィヒト",
+      "forms": {
+        "nominative": "die Vorsicht",
+        "genitive": "der Vorsicht",
+        "dative": "der Vorsicht",
+        "accusative": "die Vorsicht"
+      },
+      "plural": {}
+    }
+  ],
+  "ゲストブックエントリ": [
+    {
+      "de": "Gästebucheintrag",
+      "gender": "der",
+      "pronunciation": "ゲストブーフアイントラーク",
+      "forms": {
+        "nominative": "der Gästebucheintrag",
+        "genitive": "des Gästebucheintrages",
+        "dative": "dem Gästebucheintrag",
+        "accusative": "den Gästebucheintrag"
+      },
+      "plural": {
+        "nominative": "die Gästebucheinträge",
+        "genitive": "der Gästebucheinträge",
+        "dative": "den Gästebucheinträgen",
+        "accusative": "die Gästebucheinträge"
+      }
+    }
+  ],
+  "データ統合": [
+    {
+      "de": "Datenzusammenführung",
+      "gender": "die",
+      "pronunciation": "ダーテンツザンメンフューレング",
+      "forms": {
+        "nominative": "die Datenzusammenführung",
+        "genitive": "der Datenzusammenführung",
+        "dative": "der Datenzusammenführung",
+        "accusative": "die Datenzusammenführung"
+      },
+      "plural": {
+        "nominative": "die Datenzusammenführungen",
+        "genitive": "der Datenzusammenführungen",
+        "dative": "den Datenzusammenführungen",
+        "accusative": "die Datenzusammenführungen"
+      }
+    }
+  ],
+  "プライバシー": [
+    {
+      "de": "Privatsphäre",
+      "gender": "die",
+      "pronunciation": "プリヴァートスフェーレ",
+      "forms": {
+        "nominative": "die Privatsphäre",
+        "genitive": "der Privatsphäre",
+        "dative": "der Privatsphäre",
+        "accusative": "die Privatsphäre"
+      },
+      "plural": {
+        "nominative": "die Privatsphären",
+        "genitive": "der Privatsphären",
+        "dative": "den Privatsphären",
+        "accusative": "die Privatsphären"
+      }
+    }
+  ],
+  "消費者保護": [
+    {
+      "de": "Verbraucherschutz",
+      "gender": "der",
+      "pronunciation": "フェアブラウハーシュッツ",
+      "forms": {
+        "nominative": "der Verbraucherschutz",
+        "genitive": "des Verbraucherschutzes",
+        "dative": "dem Verbraucherschutz",
+        "accusative": "den Verbraucherschutz"
+      },
+      "plural": {}
+    }
+  ]
+}

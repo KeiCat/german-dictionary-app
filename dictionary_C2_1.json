@@ -1,0 +1,168 @@
+{
+  "事実関係": [
+    {
+      "de": "Sachverhalt",
+      "gender": "der",
+      "pronunciation": "ザッハフェルハルト",
+      "forms": {
+        "nominative": "der Sachverhalt",
+        "genitive": "des Sachverhalts",
+        "dative": "dem Sachverhalt",
+        "accusative": "den Sachverhalt"
+      },
+      "plural": {
+        "nominative": "die Sachverhalte",
+        "genitive": "der Sachverhalte",
+        "dative": "den Sachverhalten",
+        "accusative": "die Sachverhalte"
+      }
+    }
+  ],
+  "成果": [
+    {
+      "de": "Errungenschaft",
+      "gender": "die",
+      "pronunciation": "エルングンシャフト",
+      "forms": {
+        "nominative": "die Errungenschaft",
+        "genitive": "der Errungenschaft",
+        "dative": "der Errungenschaft",
+        "accusative": "die Errungenschaft"
+      },
+      "plural": {
+        "nominative": "die Errungenschaften",
+        "genitive": "der Errungenschaften",
+        "dative": "den Errungenschaften",
+        "accusative": "die Errungenschaften"
+      }
+    }
+  ],
+  "現象": [
+    {
+      "de": "Phänomen",
+      "gender": "das",
+      "pronunciation": "フェノメーン",
+      "forms": {
+        "nominative": "das Phänomen",
+        "genitive": "des Phänomens",
+        "dative": "dem Phänomen",
+        "accusative": "das Phänomen"
+      },
+      "plural": {
+        "nominative": "die Phänomene",
+        "genitive": "der Phänomene",
+        "dative": "den Phänomenen",
+        "accusative": "die Phänomene"
+      }
+    }
+  ],
+  "持続可能性": [
+    {
+      "de": "Nachhaltigkeit",
+      "gender": "die",
+      "pronunciation": "ナーハハルティヒカイト",
+      "forms": {
+        "nominative": "die Nachhaltigkeit",
+        "genitive": "der Nachhaltigkeit",
+        "dative": "der Nachhaltigkeit",
+        "accusative": "die Nachhaltigkeit"
+      },
+      "plural": {}
+    }
+  ],
+  "合意": [
+    {
+      "de": "Konsens",
+      "gender": "der",
+      "pronunciation": "コンゼンス",
+      "forms": {
+        "nominative": "der Konsens",
+        "genitive": "des Konsenses",
+        "dative": "dem Konsens",
+        "accusative": "den Konsens"
+      },
+      "plural": {
+        "nominative": "die Konsense",
+        "genitive": "der Konsense",
+        "dative": "den Konsensen",
+        "accusative": "die Konsense"
+      }
+    }
+  ],
+  "不一致": [
+    {
+      "de": "Diskrepanz",
+      "gender": "die",
+      "pronunciation": "ディスクレパンツ",
+      "forms": {
+        "nominative": "die Diskrepanz",
+        "genitive": "der Diskrepanz",
+        "dative": "der Diskrepanz",
+        "accusative": "die Diskrepanz"
+      },
+      "plural": {
+        "nominative": "die Diskrepanzen",
+        "genitive": "der Diskrepanzen",
+        "dative": "den Diskrepanzen",
+        "accusative": "die Diskrepanzen"
+      }
+    }
+  ],
+  "ジレンマ": [
+    {
+      "de": "Dilemma",
+      "gender": "das",
+      "pronunciation": "ディレンマ",
+      "forms": {
+        "nominative": "das Dilemma",
+        "genitive": "des Dilemmas",
+        "dative": "dem Dilemma",
+        "accusative": "das Dilemma"
+      },
+      "plural": {
+        "nominative": "die Dilemmata",
+        "genitive": "der Dilemmata",
+        "dative": "den Dilemmata",
+        "accusative": "die Dilemmata"
+      }
+    }
+  ],
+  "結果": [
+    {
+      "de": "Konsequenz",
+      "gender": "die",
+      "pronunciation": "コンゼクヴェンツ",
+      "forms": {
+        "nominative": "die Konsequenz",
+        "genitive": "der Konsequenz",
+        "dative": "der Konsequenz",
+        "accusative": "die Konsequenz"
+      },
+      "plural": {
+        "nominative": "die Konsequenzen",
+        "genitive": "der Konsequenzen",
+        "dative": "den Konsequenzen",
+        "accusative": "die Konsequenzen"
+      }
+    }
+  ],
+  "パラダイムシフト": [
+    {
+      "de": "Paradigmenwechsel",
+      "gender": "der",
+      "pronunciation": "パラダイグメンヴェクセル",
+      "forms": {
+        "nominative": "der Paradigmenwechsel",
+        "genitive": "des Paradigmenwechsels",
+        "dative": "dem Paradigmenwechsel",
+        "accusative": "den Paradigmenwechsel"
+      },
+      "plural": {
+        "nominative": "die Paradigmenwechsel",
+        "genitive": "der Paradigmenwechsel",
+        "dative": "den Paradigmenwechseln",
+        "accusative": "die Paradigmenwechsel"
+      }
+    }
+  ]
+}

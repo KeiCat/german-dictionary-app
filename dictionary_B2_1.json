@@ -1,0 +1,1475 @@
+{
+  "株式": [
+    {
+      "de": "Aktie",
+      "gender": "die",
+      "pronunciation": "アクツィエ",
+      "forms": {
+        "nominative": "die Aktie",
+        "genitive": "der Aktie",
+        "dative": "der Aktie",
+        "accusative": "die Aktie"
+      },
+      "plural": {
+        "nominative": "die Aktien",
+        "genitive": "der Aktien",
+        "dative": "den Aktien",
+        "accusative": "die Aktien"
+      }
+    }
+  ],
+  "市場シェア": [
+    {
+      "de": "Marktanteil",
+      "gender": "der",
+      "pronunciation": "マルクトアンタイル",
+      "forms": {
+        "nominative": "der Marktanteil",
+        "genitive": "des Marktanteils",
+        "dative": "dem Marktanteil",
+        "accusative": "den Marktanteil"
+      },
+      "plural": {
+        "nominative": "die Marktanteile",
+        "genitive": "der Marktanteile",
+        "dative": "den Marktanteilen",
+        "accusative": "die Marktanteile"
+      }
+    }
+  ],
+  "性別": [
+    {
+      "de": "Geschlecht",
+      "gender": "das",
+      "pronunciation": "ゲシュレヒト",
+      "forms": {
+        "nominative": "das Geschlecht",
+        "genitive": "des Geschlechtes",
+        "dative": "dem Geschlecht",
+        "accusative": "das Geschlecht"
+      },
+      "plural": {
+        "nominative": "die Geschlechter",
+        "genitive": "der Geschlechter",
+        "dative": "den Geschlechtern",
+        "accusative": "die Geschlechter"
+      }
+    }
+  ],
+  "兄弟姉妹": [
+    {
+      "de": "Geschwister",
+      "gender": "-",
+      "pronunciation": "ゲシュヴィスター",
+      "forms": {},
+      "plural": {
+        "nominative": "die Geschwister",
+        "genitive": "der Geschwister",
+        "dative": "den Geschwistern",
+        "accusative": "die Geschwister"
+      }
+    }
+  ],
+  "能力": [
+    {
+      "de": "Fähigkeit",
+      "gender": "die",
+      "pronunciation": "フェーイヒカイト",
+      "forms": {
+        "nominative": "die Fähigkeit",
+        "genitive": "der Fähigkeit",
+        "dative": "der Fähigkeit",
+        "accusative": "die Fähigkeit"
+      },
+      "plural": {
+        "nominative": "die Fähigkeiten",
+        "genitive": "der Fähigkeiten",
+        "dative": "den Fähigkeiten",
+        "accusative": "die Fähigkeiten"
+      }
+    }
+  ],
+  "責任": [
+    {
+      "de": "Verantwortung",
+      "gender": "die",
+      "pronunciation": "フェアアントヴォルトゥング",
+      "forms": {
+        "nominative": "die Verantwortung",
+        "genitive": "der Verantwortung",
+        "dative": "der Verantwortung",
+        "accusative": "die Verantwortung"
+      },
+      "plural": {
+        "nominative": "die Verantwortungen",
+        "genitive": "der Verantwortungen",
+        "dative": "den Verantwortungen",
+        "accusative": "die Verantwortungen"
+      }
+    }
+  ],
+  "解決策": [
+    {
+      "de": "Lösung",
+      "gender": "die",
+      "pronunciation": "レーズング",
+      "forms": {
+        "nominative": "die Lösung",
+        "genitive": "der Lösung",
+        "dative": "der Lösung",
+        "accusative": "die Lösung"
+      },
+      "plural": {
+        "nominative": "die Lösungen",
+        "genitive": "der Lösungen",
+        "dative": "den Lösungen",
+        "accusative": "die Lösungen"
+      }
+    }
+  ],
+  "発展": [
+    {
+      "de": "Entwicklung",
+      "gender": "die",
+      "pronunciation": "エントヴィックルング",
+      "forms": {
+        "nominative": "die Entwicklung",
+        "genitive": "der Entwicklung",
+        "dative": "der Entwicklung",
+        "accusative": "die Entwicklung"
+      },
+      "plural": {
+        "nominative": "die Entwicklungen",
+        "genitive": "der Entwicklungen",
+        "dative": "den Entwicklungen",
+        "accusative": "die Entwicklungen"
+      }
+    }
+  ],
+  "影響": [
+    {
+      "de": "Einfluss",
+      "gender": "der",
+      "pronunciation": "アインフルス",
+      "forms": {
+        "nominative": "der Einfluss",
+        "genitive": "des Einflusses",
+        "dative": "dem Einfluss",
+        "accusative": "den Einfluss"
+      },
+      "plural": {
+        "nominative": "die Einflüsse",
+        "genitive": "der Einflüsse",
+        "dative": "den Einflüssen",
+        "accusative": "die Einflüsse"
+      }
+    }
+  ],
+  "機会": [
+    {
+      "de": "Gelegenheit",
+      "gender": "die",
+      "pronunciation": "ゲレーゲンハイト",
+      "forms": {
+        "nominative": "die Gelegenheit",
+        "genitive": "der Gelegenheit",
+        "dative": "der Gelegenheit",
+        "accusative": "die Gelegenheit"
+      },
+      "plural": {
+        "nominative": "die Gelegenheiten",
+        "genitive": "der Gelegenheiten",
+        "dative": "den Gelegenheiten",
+        "accusative": "die Gelegenheiten"
+      }
+    }
+  ],
+  "挑戦": [
+    {
+      "de": "Herausforderung",
+      "gender": "die",
+      "pronunciation": "ヘラウスフォーデルング",
+      "forms": {
+        "nominative": "die Herausforderung",
+        "genitive": "der Herausforderung",
+        "dative": "der Herausforderung",
+        "accusative": "die Herausforderung"
+      },
+      "plural": {
+        "nominative": "die Herausforderungen",
+        "genitive": "der Herausforderungen",
+        "dative": "den Herausforderungen",
+        "accusative": "die Herausforderungen"
+      }
+    }
+  ],
+  "目標": [
+    {
+      "de": "Ziel",
+      "gender": "das",
+      "pronunciation": "ツィール",
+      "forms": {
+        "nominative": "das Ziel",
+        "genitive": "des Zieles",
+        "dative": "dem Ziel",
+        "accusative": "das Ziel"
+      },
+      "plural": {
+        "nominative": "die Ziele",
+        "genitive": "der Ziele",
+        "dative": "den Zielen",
+        "accusative": "die Ziele"
+      }
+    }
+  ],
+  "成功": [
+    {
+      "de": "Erfolg",
+      "gender": "der",
+      "pronunciation": "エアフォルク",
+      "forms": {
+        "nominative": "der Erfolg",
+        "genitive": "des Erfolges",
+        "dative": "dem Erfolg",
+        "accusative": "den Erfolg"
+      },
+      "plural": {
+        "nominative": "die Erfolge",
+        "genitive": "der Erfolge",
+        "dative": "den Erfolgen",
+        "accusative": "die Erfolge"
+      }
+    }
+  ],
+  "失敗": [
+    {
+      "de": "Misserfolg",
+      "gender": "der",
+      "pronunciation": "ミッセアフォルク",
+      "forms": {
+        "nominative": "der Misserfolg",
+        "genitive": "des Misserfolges",
+        "dative": "dem Misserfolg",
+        "accusative": "den Misserfolg"
+      },
+      "plural": {
+        "nominative": "die Misserfolge",
+        "genitive": "der Misserfolge",
+        "dative": "den Misserfolgen",
+        "accusative": "die Misserfolge"
+      }
+    }
+  ],
+  "知識": [
+    {
+      "de": "Wissen",
+      "gender": "das",
+      "pronunciation": "ヴィッセン",
+      "forms": {
+        "nominative": "das Wissen",
+        "genitive": "des Wissens",
+        "dative": "dem Wissen",
+        "accusative": "das Wissen"
+      },
+      "plural": {}
+    }
+  ],
+  "経験": [
+    {
+      "de": "Erfahrung",
+      "gender": "die",
+      "pronunciation": "エアファーレング",
+      "forms": {
+        "nominative": "die Erfahrung",
+        "genitive": "der Erfahrung",
+        "dative": "der Erfahrung",
+        "accusative": "die Erfahrung"
+      },
+      "plural": {
+        "nominative": "die Erfahrungen",
+        "genitive": "der Erfahrungen",
+        "dative": "den Erfahrungen",
+        "accusative": "die Erfahrungen"
+      }
+    }
+  ],
+  "意見": [
+    {
+      "de": "Meinung",
+      "gender": "die",
+      "pronunciation": "マイヌング",
+      "forms": {
+        "nominative": "die Meinung",
+        "genitive": "der Meinung",
+        "dative": "der Meinung",
+        "accusative": "die Meinung"
+      },
+      "plural": {
+        "nominative": "die Meinungen",
+        "genitive": "der Meinungen",
+        "dative": "den Meinungen",
+        "accusative": "die Meinungen"
+      }
+    }
+  ],
+  "議論": [
+    {
+      "de": "Diskussion",
+      "gender": "die",
+      "pronunciation": "ディスカスィオーン",
+      "forms": {
+        "nominative": "die Diskussion",
+        "genitive": "der Diskussion",
+        "dative": "der Diskussion",
+        "accusative": "die Diskussion"
+      },
+      "plural": {
+        "nominative": "die Diskussionen",
+        "genitive": "der Diskussionen",
+        "dative": "den Diskussionen",
+        "accusative": "die Diskussionen"
+      }
+    }
+  ],
+  "解決": [
+    {
+      "de": "Lösung",
+      "gender": "die",
+      "pronunciation": "レーズング",
+      "forms": {
+        "nominative": "die Lösung",
+        "genitive": "der Lösung",
+        "dative": "der Lösung",
+        "accusative": "die Lösung"
+      },
+      "plural": {
+        "nominative": "die Lösungen",
+        "genitive": "der Lösungen",
+        "dative": "den Lösungen",
+        "accusative": "die Lösungen"
+      }
+    }
+  ],
+  "提案": [
+    {
+      "de": "Vorschlag",
+      "gender": "der",
+      "pronunciation": "フォーアシュラーク",
+      "forms": {
+        "nominative": "der Vorschlag",
+        "genitive": "des Vorschlages",
+        "dative": "dem Vorschlag",
+        "accusative": "den Vorschlag"
+      },
+      "plural": {
+        "nominative": "die Vorschläge",
+        "genitive": "der Vorschläge",
+        "dative": "den Vorschlägen",
+        "accusative": "die Vorschläge"
+      }
+    }
+  ],
+  "決定": [
+    {
+      "de": "Entscheidung",
+      "gender": "die",
+      "pronunciation": "エントシャイドゥング",
+      "forms": {
+        "nominative": "die Entscheidung",
+        "genitive": "der Entscheidung",
+        "dative": "der Entscheidung",
+        "accusative": "die Entscheidung"
+      },
+      "plural": {
+        "nominative": "die Entscheidungen",
+        "genitive": "der Entscheidungen",
+        "dative": "den Entscheidungen",
+        "accusative": "die Entscheidungen"
+      }
+    }
+  ],
+  "責任": [
+    {
+      "de": "Verantwortung",
+      "gender": "die",
+      "pronunciation": "フェアアントヴォルトゥング",
+      "forms": {
+        "nominative": "die Verantwortung",
+        "genitive": "der Verantwortung",
+        "dative": "der Verantwortung",
+        "accusative": "die Verantwortung"
+      },
+      "plural": {
+        "nominative": "die Verantwortungen",
+        "genitive": "der Verantwortungen",
+        "dative": "den Verantwortungen",
+        "accusative": "die Verantwortungen"
+      }
+    }
+  ],
+  "協力": [
+    {
+      "de": "Zusammenarbeit",
+      "gender": "die",
+      "pronunciation": "ツザンメンアルバイト",
+      "forms": {
+        "nominative": "die Zusammenarbeit",
+        "genitive": "der Zusammenarbeit",
+        "dative": "der Zusammenarbeit",
+        "accusative": "die Zusammenarbeit"
+      },
+      "plural": {}
+    }
+  ],
+  "コミュニケーション": [
+    {
+      "de": "Kommunikation",
+      "gender": "die",
+      "pronunciation": "コムニカツィオーン",
+      "forms": {
+        "nominative": "die Kommunikation",
+        "genitive": "der Kommunikation",
+        "dative": "der Kommunikation",
+        "accusative": "die Kommunikation"
+      },
+      "plural": {
+        "nominative": "die Kommunikationen",
+        "genitive": "der Kommunikationen",
+        "dative": "den Kommunikationen",
+        "accusative": "die Kommunikationen"
+      }
+    }
+  ],
+  "理解": [
+    {
+      "de": "Verständnis",
+      "gender": "das",
+      "pronunciation": "フェアシュテンドニス",
+      "forms": {
+        "nominative": "das Verständnis",
+        "genitive": "des Verständnisses",
+        "dative": "dem Verständnis",
+        "accusative": "das Verständnis"
+      },
+      "plural": {}
+    }
+  ],
+  "信頼": [
+    {
+      "de": "Vertrauen",
+      "gender": "das",
+      "pronunciation": "フェルトラウエン",
+      "forms": {
+        "nominative": "das Vertrauen",
+        "genitive": "des Vertrauens",
+        "dative": "dem Vertrauen",
+        "accusative": "das Vertrauen"
+      },
+      "plural": {}
+    }
+  ],
+  "関係": [
+    {
+      "de": "Beziehung",
+      "gender": "die",
+      "pronunciation": "ベツィーウング",
+      "forms": {
+        "nominative": "die Beziehung",
+        "genitive": "der Beziehung",
+        "dative": "der Beziehung",
+        "accusative": "die Beziehung"
+      },
+      "plural": {
+        "nominative": "die Beziehungen",
+        "genitive": "der Beziehungen",
+        "dative": "den Beziehungen",
+        "accusative": "die Beziehungen"
+      }
+    }
+  ],
+  "社会": [
+    {
+      "de": "Gesellschaft",
+      "gender": "die",
+      "pronunciation": "ゲゼルシャフト",
+      "forms": {
+        "nominative": "die Gesellschaft",
+        "genitive": "der Gesellschaft",
+        "dative": "der Gesellschaft",
+        "accusative": "die Gesellschaft"
+      },
+      "plural": {
+        "nominative": "die Gesellschaften",
+        "genitive": "der Gesellschaften",
+        "dative": "den Gesellschaften",
+        "accusative": "die Gesellschaften"
+      }
+    }
+  ],
+  "文化": [
+    {
+      "de": "Kultur",
+      "gender": "die",
+      "pronunciation": "クルトゥーア",
+      "forms": {
+        "nominative": "die Kultur",
+        "genitive": "der Kultur",
+        "dative": "der Kultur",
+        "accusative": "die Kultur"
+      },
+      "plural": {
+        "nominative": "die Kulturen",
+        "genitive": "der Kulturen",
+        "dative": "den Kulturen",
+        "accusative": "die Kulturen"
+      }
+    }
+  ],
+  "政治": [
+    {
+      "de": "Politik",
+      "gender": "die",
+      "pronunciation": "ポリティーク",
+      "forms": {
+        "nominative": "die Politik",
+        "genitive": "der Politik",
+        "dative": "der Politik",
+        "accusative": "die Politik"
+      },
+      "plural": {}
+    }
+  ],
+  "経済": [
+    {
+      "de": "Wirtschaft",
+      "gender": "die",
+      "pronunciation": "ヴィルトシャフト",
+      "forms": {
+        "nominative": "die Wirtschaft",
+        "genitive": "der Wirtschaft",
+        "dative": "der Wirtschaft",
+        "accusative": "die Wirtschaft"
+      },
+      "plural": {}
+    }
+  ],
+  "環境": [
+    {
+      "de": "Umwelt",
+      "gender": "die",
+      "pronunciation": "ウムヴェルト",
+      "forms": {
+        "nominative": "die Umwelt",
+        "genitive": "der Umwelt",
+        "dative": "der Umwelt",
+        "accusative": "die Umwelt"
+      },
+      "plural": {}
+    }
+  ],
+  "教育": [
+    {
+      "de": "Bildung",
+      "gender": "die",
+      "pronunciation": "ビルドゥング",
+      "forms": {
+        "nominative": "die Bildung",
+        "genitive": "der Bildung",
+        "dative": "der Bildung",
+        "accusative": "die Bildung"
+      },
+      "plural": {}
+    }
+  ],
+  "健康": [
+    {
+      "de": "Gesundheit",
+      "gender": "die",
+      "pronunciation": "ゲズントハイト",
+      "forms": {
+        "nominative": "die Gesundheit",
+        "genitive": "der Gesundheit",
+        "dative": "der Gesundheit",
+        "accusative": "die Gesundheit"
+      },
+      "plural": {}
+    }
+  ],
+  "研究": [
+    {
+      "de": "Forschung",
+      "gender": "die",
+      "pronunciation": "フォルシュング",
+      "forms": {
+        "nominative": "die Forschung",
+        "genitive": "der Forschung",
+        "dative": "der Forschung",
+        "accusative": "die Forschung"
+      },
+      "plural": {
+        "nominative": "die Forschungen",
+        "genitive": "der Forschungen",
+        "dative": "den Forschungen",
+        "accusative": "die Forschungen"
+      }
+    }
+  ],
+  "技術": [
+    {
+      "de": "Technologie",
+      "gender": "die",
+      "pronunciation": "テクノロギー",
+      "forms": {
+        "nominative": "die Technologie",
+        "genitive": "der Technologie",
+        "dative": "der Technologie",
+        "accusative": "die Technologie"
+      },
+      "plural": {
+        "nominative": "die Technologien",
+        "genitive": "der Technologien",
+        "dative": "den Technologien",
+        "accusative": "die Technologien"
+      }
+    }
+  ],
+  "未来": [
+    {
+      "de": "Zukunft",
+      "gender": "die",
+      "pronunciation": "ツークンフト",
+      "forms": {
+        "nominative": "die Zukunft",
+        "genitive": "der Zukunft",
+        "dative": "der Zukunft",
+        "accusative": "die Zukunft"
+      },
+      "plural": {}
+    }
+  ],
+  "過去": [
+    {
+      "de": "Vergangenheit",
+      "gender": "die",
+      "pronunciation": "フェアガンゲンハイト",
+      "forms": {
+        "nominative": "die Vergangenheit",
+        "genitive": "der Vergangenheit",
+        "dative": "der Vergangenheit",
+        "accusative": "die Vergangenheit"
+      },
+      "plural": {}
+    }
+  ],
+  "現在": [
+    {
+      "de": "Gegenwart",
+      "gender": "die",
+      "pronunciation": "ゲーゲンヴァルト",
+      "forms": {
+        "nominative": "die Gegenwart",
+        "genitive": "der Gegenwart",
+        "dative": "der Gegenwart",
+        "accusative": "die Gegenwart"
+      },
+      "plural": {}
+    }
+  ],
+  "変化": [
+    {
+      "de": "Veränderung",
+      "gender": "die",
+      "pronunciation": "フェアエンデルング",
+      "forms": {
+        "nominative": "die Veränderung",
+        "genitive": "der Veränderung",
+        "dative": "der Veränderung",
+        "accusative": "die Veränderung"
+      },
+      "plural": {
+        "nominative": "die Veränderungen",
+        "genitive": "der Veränderungen",
+        "dative": "den Veränderungen",
+        "accusative": "die Veränderungen"
+      }
+    }
+  ],
+  "発展": [
+    {
+      "de": "Entwicklung",
+      "gender": "die",
+      "pronunciation": "エントヴィックルング",
+      "forms": {
+        "nominative": "die Entwicklung",
+        "genitive": "der Entwicklung",
+        "dative": "der Entwicklung",
+        "accusative": "die Entwicklung"
+      },
+      "plural": {
+        "nominative": "die Entwicklungen",
+        "genitive": "der Entwicklungen",
+        "dative": "den Entwicklungen",
+        "accusative": "die Entwicklungen"
+      }
+    }
+  ],
+  "進歩": [
+    {
+      "de": "Fortschritt",
+      "gender": "der",
+      "pronunciation": "フォアトシュリット",
+      "forms": {
+        "nominative": "der Fortschritt",
+        "genitive": "des Fortschritts",
+        "dative": "dem Fortschritt",
+        "accusative": "den Fortschritt"
+      },
+      "plural": {
+        "nominative": "die Fortschritte",
+        "genitive": "der Fortschritte",
+        "dative": "den Fortschritten",
+        "accusative": "die Fortschritte"
+      }
+    }
+  ],
+  "問題": [
+    {
+      "de": "Problem",
+      "gender": "das",
+      "pronunciation": "プロブレーム",
+      "forms": {
+        "nominative": "das Problem",
+        "genitive": "des Problems",
+        "dative": "dem Problem",
+        "accusative": "das Problem"
+      },
+      "plural": {
+        "nominative": "die Probleme",
+        "genitive": "der Probleme",
+        "dative": "den Problemen",
+        "accusative": "die Probleme"
+      }
+    }
+  ],
+  "解決策": [
+    {
+      "de": "Lösung",
+      "gender": "die",
+      "pronunciation": "レーズング",
+      "forms": {
+        "nominative": "die Lösung",
+        "genitive": "der Lösung",
+        "dative": "der Lösung",
+        "accusative": "die Lösung"
+      },
+      "plural": {
+        "nominative": "die Lösungen",
+        "genitive": "der Lösungen",
+        "dative": "den Lösungen",
+        "accusative": "die Lösungen"
+      }
+    }
+  ],
+  "原因": [
+    {
+      "de": "Ursache",
+      "gender": "die",
+      "pronunciation": "ウアザッヘ",
+      "forms": {
+        "nominative": "die Ursache",
+        "genitive": "der Ursache",
+        "dative": "der Ursache",
+        "accusative": "die Ursache"
+      },
+      "plural": {
+        "nominative": "die Ursachen",
+        "genitive": "der Ursachen",
+        "dative": "den Ursachen",
+        "accusative": "die Ursachen"
+      }
+    }
+  ],
+  "結果": [
+    {
+      "de": "Folge",
+      "gender": "die",
+      "pronunciation": "フォルゲ",
+      "forms": {
+        "nominative": "die Folge",
+        "genitive": "der Folge",
+        "dative": "der Folge",
+        "accusative": "die Folge"
+      },
+      "plural": {
+        "nominative": "die Folgen",
+        "genitive": "der Folgen",
+        "dative": "den Folgen",
+        "accusative": "die Folgen"
+      }
+    }
+  ],
+  "影響": [
+    {
+      "de": "Auswirkung",
+      "gender": "die",
+      "pronunciation": "アウスヴィルクング",
+      "forms": {
+        "nominative": "die Auswirkung",
+        "genitive": "der Auswirkung",
+        "dative": "der Auswirkung",
+        "accusative": "die Auswirkung"
+      },
+      "plural": {
+        "nominative": "die Auswirkungen",
+        "genitive": "der Auswirkungen",
+        "dative": "den Auswirkungen",
+        "accusative": "die Auswirkungen"
+      }
+    }
+  ],
+  "重要性": [
+    {
+      "de": "Bedeutung",
+      "gender": "die",
+      "pronunciation": "ベドイトゥング",
+      "forms": {
+        "nominative": "die Bedeutung",
+        "genitive": "der Bedeutung",
+        "dative": "der Bedeutung",
+        "accusative": "die Bedeutung"
+      },
+      "plural": {
+        "nominative": "die Bedeutungen",
+        "genitive": "der Bedeutungen",
+        "dative": "den Bedeutungen",
+        "accusative": "die Bedeutungen"
+      }
+    }
+  ],
+  "目的": [
+    {
+      "de": "Zweck",
+      "gender": "der",
+      "pronunciation": "ツヴェック",
+      "forms": {
+        "nominative": "der Zweck",
+        "genitive": "des Zweckes",
+        "dative": "dem Zweck",
+        "accusative": "den Zweck"
+      },
+      "plural": {
+        "nominative": "die Zwecke",
+        "genitive": "der Zwecke",
+        "dative": "den Zwecken",
+        "accusative": "die Zwecke"
+      }
+    }
+  ],
+  "方法": [
+    {
+      "de": "Methode",
+      "gender": "die",
+      "pronunciation": "メトーデ",
+      "forms": {
+        "nominative": "die Methode",
+        "genitive": "der Methode",
+        "dative": "der Methode",
+        "accusative": "die Methode"
+      },
+      "plural": {
+        "nominative": "die Methoden",
+        "genitive": "der Methoden",
+        "dative": "den Methoden",
+        "accusative": "die Methoden"
+      }
+    }
+  ],
+  "手段": [
+    {
+      "de": "Mittel",
+      "gender": "das",
+      "pronunciation": "ミッテル",
+      "forms": {
+        "nominative": "das Mittel",
+        "genitive": "des Mittels",
+        "dative": "dem Mittel",
+        "accusative": "das Mittel"
+      },
+      "plural": {
+        "nominative": "die Mittel",
+        "genitive": "der Mittel",
+        "dative": "den Mitteln",
+        "accusative": "die Mittel"
+      }
+    }
+  ],
+  "原則": [
+    {
+      "de": "Prinzip",
+      "gender": "das",
+      "pronunciation": "プリンツィープ",
+      "forms": {
+        "nominative": "das Prinzip",
+        "genitive": "des Prinzips",
+        "dative": "dem Prinzip",
+        "accusative": "das Prinzip"
+      },
+      "plural": {
+        "nominative": "die Prinzipien",
+        "genitive": "der Prinzipien",
+        "dative": "den Prinzipien",
+        "accusative": "die Prinzipien"
+      }
+    }
+  ],
+  "規則": [
+    {
+      "de": "Regel",
+      "gender": "die",
+      "pronunciation": "レーゲル",
+      "forms": {
+        "nominative": "die Regel",
+        "genitive": "der Regel",
+        "dative": "der Regel",
+        "accusative": "die Regel"
+      },
+      "plural": {
+        "nominative": "die Regeln",
+        "genitive": "der Regeln",
+        "dative": "den Regeln",
+        "accusative": "die Regeln"
+      }
+    }
+  ],
+  "法律": [
+    {
+      "de": "Gesetz",
+      "gender": "das",
+      "pronunciation": "ゲゼッツ",
+      "forms": {
+        "nominative": "das Gesetz",
+        "genitive": "des Gesetzes",
+        "dative": "dem Gesetz",
+        "accusative": "das Gesetz"
+      },
+      "plural": {
+        "nominative": "die Gesetze",
+        "genitive": "der Gesetze",
+        "dative": "den Gesetzen",
+        "accusative": "die Gesetze"
+      }
+    }
+  ],
+  "権利": [
+    {
+      "de": "Recht",
+      "gender": "das",
+      "pronunciation": "レヒト",
+      "forms": {
+        "nominative": "das Recht",
+        "genitive": "des Rechtes",
+        "dative": "dem Recht",
+        "accusative": "das Recht"
+      },
+      "plural": {
+        "nominative": "die Rechte",
+        "genitive": "der Rechte",
+        "dative": "den Rechten",
+        "accusative": "die Rechte"
+      }
+    }
+  ],
+  "義務": [
+    {
+      "de": "Pflicht",
+      "gender": "die",
+      "pronunciation": "プフリヒト",
+      "forms": {
+        "nominative": "die Pflicht",
+        "genitive": "der Pflicht",
+        "dative": "der Pflicht",
+        "accusative": "die Pflicht"
+      },
+      "plural": {
+        "nominative": "die Pflichten",
+        "genitive": "der Pflichten",
+        "dative": "den Pflichten",
+        "accusative": "die Pflichten"
+      }
+    }
+  ],
+  "自由": [
+    {
+      "de": "Freiheit",
+      "gender": "die",
+      "pronunciation": "フライハイト",
+      "forms": {
+        "nominative": "die Freiheit",
+        "genitive": "der Freiheit",
+        "dative": "der Freiheit",
+        "accusative": "die Freiheit"
+      },
+      "plural": {
+        "nominative": "die Freiheiten",
+        "genitive": "der Freiheiten",
+        "dative": "den Freiheiten",
+        "accusative": "die Freiheiten"
+      }
+    }
+  ],
+  "平等": [
+    {
+      "de": "Gleichheit",
+      "gender": "die",
+      "pronunciation": "グライヒハイト",
+      "forms": {
+        "nominative": "die Gleichheit",
+        "genitive": "der Gleichheit",
+        "dative": "der Gleichheit",
+        "accusative": "die Gleichheit"
+      },
+      "plural": {}
+    }
+  ],
+  "正義": [
+    {
+      "de": "Gerechtigkeit",
+      "gender": "die",
+      "pronunciation": "ゲレヒティヒカイト",
+      "forms": {
+        "nominative": "die Gerechtigkeit",
+        "genitive": "der Gerechtigkeit",
+        "dative": "der Gerechtigkeit",
+        "accusative": "die Gerechtigkeit"
+      },
+      "plural": {}
+    }
+  ],
+  "平和": [
+    {
+      "de": "Frieden",
+      "gender": "der",
+      "pronunciation": "フリーデン",
+      "forms": {
+        "nominative": "der Frieden",
+        "genitive": "des Friedens",
+        "dative": "dem Frieden",
+        "accusative": "den Frieden"
+      },
+      "plural": {}
+    }
+  ],
+  "戦争": [
+    {
+      "de": "Krieg",
+      "gender": "der",
+      "pronunciation": "クリーク",
+      "forms": {
+        "nominative": "der Krieg",
+        "genitive": "des Krieges",
+        "dative": "dem Krieg",
+        "accusative": "den Krieg"
+      },
+      "plural": {
+        "nominative": "die Kriege",
+        "genitive": "der Kriege",
+        "dative": "den Kriegen",
+        "accusative": "die Kriege"
+      }
+    }
+  ],
+  "暴力": [
+    {
+      "de": "Gewalt",
+      "gender": "die",
+      "pronunciation": "ゲヴァルト",
+      "forms": {
+        "nominative": "die Gewalt",
+        "genitive": "der Gewalt",
+        "dative": "der Gewalt",
+        "accusative": "die Gewalt"
+      },
+      "plural": {
+        "nominative": "die Gewalten",
+        "genitive": "der Gewalten",
+        "dative": "den Gewalten",
+        "accusative": "die Gewalten"
+      }
+    }
+  ],
+  "紛争": [
+    {
+      "de": "Konflikt",
+      "gender": "der",
+      "pronunciation": "コンフリクト",
+      "forms": {
+        "nominative": "der Konflikt",
+        "genitive": "des Konfliktes",
+        "dative": "dem Konflikt",
+        "accusative": "den Konflikt"
+      },
+      "plural": {
+        "nominative": "die Konflikte",
+        "genitive": "der Konflikte",
+        "dative": "den Konflikten",
+        "accusative": "die Konflikte"
+      }
+    }
+  ],
+  "解決": [
+    {
+      "de": "Lösung",
+      "gender": "die",
+      "pronunciation": "レーズング",
+      "forms": {
+        "nominative": "die Lösung",
+        "genitive": "der Lösung",
+        "dative": "der Lösung",
+        "accusative": "die Lösung"
+      },
+      "plural": {
+        "nominative": "die Lösungen",
+        "genitive": "der Lösungen",
+        "dative": "den Lösungen",
+        "accusative": "die Lösungen"
+      }
+    }
+  ],
+  "交渉": [
+    {
+      "de": "Verhandlung",
+      "gender": "die",
+      "pronunciation": "フェアハンドゥルング",
+      "forms": {
+        "nominative": "die Verhandlung",
+        "genitive": "der Verhandlung",
+        "dative": "der Verhandlung",
+        "accusative": "die Verhandlung"
+      },
+      "plural": {
+        "nominative": "die Verhandlungen",
+        "genitive": "der Verhandlungen",
+        "dative": "den Verhandlungen",
+        "accusative": "die Verhandlungen"
+      }
+    }
+  ],
+  "合意": [
+    {
+      "de": "Einigung",
+      "gender": "die",
+      "pronunciation": "アイニグング",
+      "forms": {
+        "nominative": "die Einigung",
+        "genitive": "der Einigung",
+        "dative": "der Einigung",
+        "accusative": "die Einigung"
+      },
+      "plural": {
+        "nominative": "die Einigungen",
+        "genitive": "der Einigungen",
+        "dative": "den Einigungen",
+        "accusative": "die Einigungen"
+      }
+    }
+  ],
+  "契約": [
+    {
+      "de": "Vertrag",
+      "gender": "der",
+      "pronunciation": "フェルトラート",
+      "forms": {
+        "nominative": "der Vertrag",
+        "genitive": "des Vertrages",
+        "dative": "dem Vertrag",
+        "accusative": "den Vertrag"
+      },
+      "plural": {
+        "nominative": "die Verträge",
+        "genitive": "der Verträge",
+        "dative": "den Verträgen",
+        "accusative": "die Verträge"
+      }
+    }
+  ],
+  "法律": [
+    {
+      "de": "Gesetz",
+      "gender": "das",
+      "pronunciation": "ゲゼッツ",
+      "forms": {
+        "nominative": "das Gesetz",
+        "genitive": "des Gesetzes",
+        "dative": "dem Gesetz",
+        "accusative": "das Gesetz"
+      },
+      "plural": {
+        "nominative": "die Gesetze",
+        "genitive": "der Gesetze",
+        "dative": "den Gesetzen",
+        "accusative": "die Gesetze"
+      }
+    }
+  ],
+  "裁判所": [
+    {
+      "de": "Gericht",
+      "gender": "das",
+      "pronunciation": "ゲリヒト",
+      "forms": {
+        "nominative": "das Gericht",
+        "genitive": "des Gerichtes",
+        "dative": "dem Gericht",
+        "accusative": "das Gericht"
+      },
+      "plural": {
+        "nominative": "die Gerichte",
+        "genitive": "der Gerichte",
+        "dative": "den Gerichten",
+        "accusative": "die Gerichte"
+      }
+    }
+  ],
+  "犯罪": [
+    {
+      "de": "Verbrechen",
+      "gender": "das",
+      "pronunciation": "フェアブレッヒェン",
+      "forms": {
+        "nominative": "das Verbrechen",
+        "genitive": "des Verbrechens",
+        "dative": "dem Verbrechen",
+        "accusative": "das Verbrechen"
+      },
+      "plural": {
+        "nominative": "die Verbrechen",
+        "genitive": "der Verbrechen",
+        "dative": "den Verbrechen",
+        "accusative": "die Verbrechen"
+      }
+    }
+  ],
+  "罰": [
+    {
+      "de": "Strafe",
+      "gender": "die",
+      "pronunciation": "シュトラーフェ",
+      "forms": {
+        "nominative": "die Strafe",
+        "genitive": "der Strafe",
+        "dative": "der Strafe",
+        "accusative": "die Strafe"
+      },
+      "plural": {
+        "nominative": "die Strafen",
+        "genitive": "der Strafen",
+        "dative": "den Strafen",
+        "accusative": "die Strafen"
+      }
+    }
+  ],
+  "証拠": [
+    {
+      "de": "Beweis",
+      "gender": "der",
+      "pronunciation": "ベヴァイス",
+      "forms": {
+        "nominative": "der Beweis",
+        "genitive": "des Beweises",
+        "dative": "dem Beweis",
+        "accusative": "den Beweis"
+      },
+      "plural": {
+        "nominative": "die Beweise",
+        "genitive": "der Beweise",
+        "dative": "den Beweisen",
+        "accusative": "die Beweise"
+      }
+    }
+  ],
+  "証人": [
+    {
+      "de": "Zeuge",
+      "gender": "der",
+      "pronunciation": "ツォイゲ",
+      "forms": {
+        "nominative": "der Zeuge",
+        "genitive": "des Zeugen",
+        "dative": "dem Zeugen",
+        "accusative": "den Zeugen"
+      },
+      "plural": {
+        "nominative": "die Zeugen",
+        "genitive": "der Zeugen",
+        "dative": "den Zeugen",
+        "accusative": "die Zeugen"
+      }
+    }
+  ],
+  "被害者": [
+    {
+      "de": "Opfer",
+      "gender": "das",
+      "pronunciation": "オプファー",
+      "forms": {
+        "nominative": "das Opfer",
+        "genitive": "des Opfers",
+        "dative": "dem Opfer",
+        "accusative": "das Opfer"
+      },
+      "plural": {
+        "nominative": "die Opfer",
+        "genitive": "der Opfer",
+        "dative": "den Opfern",
+        "accusative": "die Opfer"
+      }
+    }
+  ],
+  "加害者": [
+    {
+      "de": "Täter",
+      "gender": "der",
+      "pronunciation": "テータ",
+      "forms": {
+        "nominative": "der Täter",
+        "genitive": "des Täters",
+        "dative": "dem Täter",
+        "accusative": "den Täter"
+      },
+      "plural": {
+        "nominative": "die Täter",
+        "genitive": "der Täter",
+        "dative": "den Tätern",
+        "accusative": "die Täter"
+      }
+    }
+  ],
+  "警察": [
+    {
+      "de": "Polizei",
+      "gender": "die",
+      "pronunciation": "ポリツァイ",
+      "forms": {
+        "nominative": "die Polizei",
+        "genitive": "der Polizei",
+        "dative": "der Polizei",
+        "accusative": "die Polizei"
+      },
+      "plural": {}
+    }
+  ],
+  "調査": [
+    {
+      "de": "Ermittlung",
+      "gender": "die",
+      "pronunciation": "エルミットルング",
+      "forms": {
+        "nominative": "die Ermittlung",
+        "genitive": "der Ermittlung",
+        "dative": "der Ermittlung",
+        "accusative": "die Ermittlung"
+      },
+      "plural": {
+        "nominative": "die Ermittlungen",
+        "genitive": "der Ermittlungen",
+        "dative": "den Ermittlungen",
+        "accusative": "die Ermittlungen"
+      }
+    }
+  ],
+  "逮捕": [
+    {
+      "de": "Verhaftung",
+      "gender": "die",
+      "pronunciation": "フェアハフトゥング",
+      "forms": {
+        "nominative": "die Verhaftung",
+        "genitive": "der Verhaftung",
+        "dative": "der Verhaftung",
+        "accusative": "die Verhaftung"
+      },
+      "plural": {
+        "nominative": "die Verhaftungen",
+        "genitive": "der Verhaftungen",
+        "dative": "den Verhaftungen",
+        "accusative": "die Verhaftungen"
+      }
+    }
+  ],
+  "裁判": [
+    {
+      "de": "Prozess",
+      "gender": "der",
+      "pronunciation": "プロツェス",
+      "forms": {
+        "nominative": "der Prozess",
+        "genitive": "des Prozesses",
+        "dative": "dem Prozess",
+        "accusative": "den Prozess"
+      },
+      "plural": {
+        "nominative": "die Prozesse",
+        "genitive": "der Prozesse",
+        "dative": "den Prozessen",
+        "accusative": "die Prozesse"
+      }
+    }
+  ],
+  "判決": [
+    {
+      "de": "Urteil",
+      "gender": "das",
+      "pronunciation": "ウアタイル",
+      "forms": {
+        "nominative": "das Urteil",
+        "genitive": "des Urteils",
+        "dative": "dem Urteil",
+        "accusative": "das Urteil"
+      },
+      "plural": {
+        "nominative": "die Urteile",
+        "genitive": "der Urteile",
+        "dative": "den Urteilen",
+        "accusative": "die Urteile"
+      }
+    }
+  ],
+  "無罪": [
+    {
+      "de": "Freispruch",
+      "gender": "der",
+      "pronunciation": "フライシュプルッフ",
+      "forms": {
+        "nominative": "der Freispruch",
+        "genitive": "des Freispruchs",
+        "dative": "dem Freispruch",
+        "accusative": "den Freispruch"
+      },
+      "plural": {
+        "nominative": "die Freisprüche",
+        "genitive": "der Freisprüche",
+        "dative": "den Freisprüchen",
+        "accusative": "die Freisprüche"
+      }
+    }
+  ],
+  "有罪": [
+    {
+      "de": "Schuldspruch",
+      "gender": "der",
+      "pronunciation": "シュルトシュプルッフ",
+      "forms": {
+        "nominative": "der Schuldspruch",
+        "genitive": "des Schuldspruchs",
+        "dative": "dem Schuldspruch",
+        "accusative": "den Schuldspruch"
+      },
+      "plural": {
+        "nominative": "die Schuldsprüche",
+        "genitive": "der Schuldsprüche",
+        "dative": "den Schuldsprüchen",
+        "accusative": "die Schuldsprüche"
+      }
+    }
+  ]
+}

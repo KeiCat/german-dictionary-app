@@ -1,0 +1,704 @@
+{
+  "廃棄物": [
+    {
+      "de": "Abfall",
+      "gender": "der",
+      "pronunciation": "アプファル",
+      "forms": {
+        "nominative": "der Abfall",
+        "genitive": "des Abfalls",
+        "dative": "dem Abfall",
+        "accusative": "den Abfall"
+      },
+      "plural": {
+        "nominative": "die Abfälle",
+        "genitive": "der Abfälle",
+        "dative": "den Abfällen",
+        "accusative": "die Abfälle"
+      }
+    }
+  ],
+  "出発": [
+    {
+      "de": "Abflug",
+      "gender": "der",
+      "pronunciation": "アプフルーク",
+      "forms": {
+        "nominative": "der Abflug",
+        "genitive": "des Abfluges",
+        "dative": "dem Abflug",
+        "accusative": "den Abflug"
+      },
+      "plural": {
+        "nominative": "die Abflüge",
+        "genitive": "der Abflüge",
+        "dative": "den Abflügen",
+        "accusative": "die Abflüge"
+      }
+    }
+  ],
+  "意図": [
+    {
+      "de": "Absicht",
+      "gender": "die",
+      "pronunciation": "アプズィヒト",
+      "forms": {
+        "nominative": "die Absicht",
+        "genitive": "der Absicht",
+        "dative": "der Absicht",
+        "accusative": "die Absicht"
+      },
+      "plural": {
+        "nominative": "die Absichten",
+        "genitive": "der Absichten",
+        "dative": "den Absichten",
+        "accusative": "die Absichten"
+      }
+    }
+  ],
+  "セクション": [
+    {
+      "de": "Abschnitt",
+      "gender": "der",
+      "pronunciation": "アプシュニット",
+      "forms": {
+        "nominative": "der Abschnitt",
+        "genitive": "des Abschnittes",
+        "dative": "dem Abschnitt",
+        "accusative": "den Abschnitt"
+      },
+      "plural": {
+        "nominative": "die Abschnitte",
+        "genitive": "der Abschnitte",
+        "dative": "den Abschnitten",
+        "accusative": "die Abschnitte"
+      }
+    }
+  ],
+  "表示板": [
+    {
+      "de": "Anzeigetafel",
+      "gender": "die",
+      "pronunciation": "アンツァイゲターフェル",
+      "forms": {
+        "nominative": "die Anzeigetafel",
+        "genitive": "der Anzeigetafel",
+        "dative": "der Anzeigetafel",
+        "accusative": "die Anzeigetafel"
+      },
+      "plural": {
+        "nominative": "die Anzeigetafeln",
+        "genitive": "der Anzeigetafeln",
+        "dative": "den Anzeigetafeln",
+        "accusative": "die Anzeigetafeln"
+      }
+    }
+  ],
+  "怒り": [
+    {
+      "de": "Ärger",
+      "gender": "der",
+      "pronunciation": "エアガー",
+      "forms": {
+        "nominative": "der Ärger",
+        "genitive": "des Ärgers",
+        "dative": "dem Ärger",
+        "accusative": "den Ärger"
+      },
+      "plural": {}
+    }
+  ],
+  "興奮": [
+    {
+      "de": "Aufregung",
+      "gender": "die",
+      "pronunciation": "アウフレグング",
+      "forms": {
+        "nominative": "die Aufregung",
+        "genitive": "der Aufregung",
+        "dative": "der Aufregung",
+        "accusative": "die Aufregung"
+      },
+      "plural": {}
+    }
+  ],
+  "例外": [
+    {
+      "de": "Ausnahme",
+      "gender": "die",
+      "pronunciation": "アウスナーメ",
+      "forms": {
+        "nominative": "die Ausnahme",
+        "genitive": "der Ausnahme",
+        "dative": "der Ausnahme",
+        "accusative": "die Ausnahme"
+      },
+      "plural": {
+        "nominative": "die Ausnahmen",
+        "genitive": "der Ausnahmen",
+        "dative": "den Ausnahmen",
+        "accusative": "die Ausnahmen"
+      }
+    }
+  ],
+  "バルコニーの手すり": [
+    {
+      "de": "Balkongeländer",
+      "gender": "das",
+      "pronunciation": "バルコンゲレンダー",
+      "forms": {
+        "nominative": "das Balkongeländer",
+        "genitive": "des Balkongeländers",
+        "dative": "dem Balkongeländer",
+        "accusative": "das Balkongeländer"
+      },
+      "plural": {
+        "nominative": "die Balkongeländer",
+        "genitive": "der Balkongeländer",
+        "dative": "den Balkongeländern",
+        "accusative": "die Balkongeländer"
+      }
+    }
+  ],
+  "木": [
+    {
+      "de": "Baum",
+      "gender": "der",
+      "pronunciation": "バウム",
+      "forms": {
+        "nominative": "der Baum",
+        "genitive": "des Baumes",
+        "dative": "dem Baum",
+        "accusative": "den Baum"
+      },
+      "plural": {
+        "nominative": "die Bäume",
+        "genitive": "der Bäume",
+        "dative": "den Bäumen",
+        "accusative": "die Bäume"
+      }
+    }
+  ],
+  "山": [
+    {
+      "de": "Berg",
+      "gender": "der",
+      "pronunciation": "ベルク",
+      "forms": {
+        "nominative": "der Berg",
+        "genitive": "des Berges",
+        "dative": "dem Berg",
+        "accusative": "den Berg"
+      },
+      "plural": {
+        "nominative": "die Berge",
+        "genitive": "der Berge",
+        "dative": "den Bergen",
+        "accusative": "die Berge"
+      }
+    }
+  ],
+  "植木鉢": [
+    {
+      "de": "Blumentopf",
+      "gender": "der",
+      "pronunciation": "ブルーメントプフ",
+      "forms": {
+        "nominative": "der Blumentopf",
+        "genitive": "des Blumentopfes",
+        "dative": "dem Blumentopf",
+        "accusative": "den Blumentopf"
+      },
+      "plural": {
+        "nominative": "die Blumentöpfe",
+        "genitive": "der Blumentöpfe",
+        "dative": "den Blumentöpfen",
+        "accusative": "die Blumentöpfe"
+      }
+    }
+  ],
+  "チャンス": [
+    {
+      "de": "Chance",
+      "gender": "die",
+      "pronunciation": "シャーンス",
+      "forms": {
+        "nominative": "die Chance",
+        "genitive": "der Chance",
+        "dative": "der Chance",
+        "accusative": "die Chance"
+      },
+      "plural": {
+        "nominative": "die Chancen",
+        "genitive": "der Chancen",
+        "dative": "den Chancen",
+        "accusative": "die Chancen"
+      }
+    }
+  ],
+  "決定": [
+    {
+      "de": "Entscheidung",
+      "gender": "die",
+      "pronunciation": "エントシャイドゥング",
+      "forms": {
+        "nominative": "die Entscheidung",
+        "genitive": "der Entscheidung",
+        "dative": "der Entscheidung",
+        "accusative": "die Entscheidung"
+      },
+      "plural": {
+        "nominative": "die Entscheidungen",
+        "genitive": "der Entscheidungen",
+        "dative": "den Entscheidungen",
+        "accusative": "die Entscheidungen"
+      }
+    }
+  ],
+  "川": [
+    {
+      "de": "Fluss",
+      "gender": "der",
+      "pronunciation": "フルス",
+      "forms": {
+        "nominative": "der Fluss",
+        "genitive": "des Flusses",
+        "dative": "dem Fluss",
+        "accusative": "den Fluss"
+      },
+      "plural": {
+        "nominative": "die Flüsse",
+        "genitive": "der Flüsse",
+        "dative": "den Flüssen",
+        "accusative": "die Flüsse"
+      }
+    }
+  ],
+  "喜び": [
+    {
+      "de": "Freude",
+      "gender": "die",
+      "pronunciation": "フロイデ",
+      "forms": {
+        "nominative": "die Freude",
+        "genitive": "der Freude",
+        "dative": "der Freude",
+        "accusative": "die Freude"
+      },
+      "plural": {
+        "nominative": "die Freuden",
+        "genitive": "der Freuden",
+        "dative": "den Freuden",
+        "accusative": "die Freuden"
+      }
+    }
+  ],
+  "期限": [
+    {
+      "de": "Frist",
+      "gender": "die",
+      "pronunciation": "フリスト",
+      "forms": {
+        "nominative": "die Frist",
+        "genitive": "der Frist",
+        "dative": "der Frist",
+        "accusative": "die Frist"
+      },
+      "plural": {
+        "nominative": "die Fristen",
+        "genitive": "der Fristen",
+        "dative": "den Fristen",
+        "accusative": "die Fristen"
+      }
+    }
+  ],
+  "性別": [
+    {
+      "de": "Geschlecht",
+      "gender": "das",
+      "pronunciation": "ゲシュレヒト",
+      "forms": {
+        "nominative": "das Geschlecht",
+        "genitive": "des Geschlechtes",
+        "dative": "dem Geschlecht",
+        "accusative": "das Geschlecht"
+      },
+      "plural": {
+        "nominative": "die Geschlechter",
+        "genitive": "der Geschlechter",
+        "dative": "den Geschlechtern",
+        "accusative": "die Geschlechter"
+      }
+    }
+  ],
+  "暴力": [
+    {
+      "de": "Gewalt",
+      "gender": "die",
+      "pronunciation": "ゲヴァルト",
+      "forms": {
+        "nominative": "die Gewalt",
+        "genitive": "der Gewalt",
+        "dative": "der Gewalt",
+        "accusative": "die Gewalt"
+      },
+      "plural": {
+        "nominative": "die Gewalten",
+        "genitive": "der Gewalten",
+        "dative": "den Gewalten",
+        "accusative": "die Gewalten"
+      }
+    }
+  ],
+  "ギムナジウム": [
+    {
+      "de": "Gymnasium",
+      "gender": "das",
+      "pronunciation": "ギムナジウム",
+      "forms": {
+        "nominative": "das Gymnasium",
+        "genitive": "des Gymnasiums",
+        "dative": "dem Gymnasium",
+        "accusative": "das Gymnasium"
+      },
+      "plural": {
+        "nominative": "die Gymnasien",
+        "genitive": "der Gymnasien",
+        "dative": "den Gymnasien",
+        "accusative": "die Gymnasien"
+      }
+    }
+  ],
+  "ペット": [
+    {
+      "de": "Haustier",
+      "gender": "das",
+      "pronunciation": "ハウスティア",
+      "forms": {
+        "nominative": "das Haustier",
+        "genitive": "des Haustieres",
+        "dative": "dem Haustier",
+        "accusative": "das Haustier"
+      },
+      "plural": {
+        "nominative": "die Haustiere",
+        "genitive": "der Haustiere",
+        "dative": "den Haustieren",
+        "accusative": "die Haustiere"
+      }
+    }
+  ],
+  "丘": [
+    {
+      "de": "Hügel",
+      "gender": "der",
+      "pronunciation": "ヒューゲル",
+      "forms": {
+        "nominative": "der Hügel",
+        "genitive": "des Hügels",
+        "dative": "dem Hügel",
+        "accusative": "den Hügel"
+      },
+      "plural": {
+        "nominative": "die Hügel",
+        "genitive": "der Hügel",
+        "dative": "den Hügeln",
+        "accusative": "die Hügel"
+      }
+    }
+  ],
+  "犬": [
+    {
+      "de": "Hund",
+      "gender": "der",
+      "pronunciation": "フント",
+      "forms": {
+        "nominative": "der Hund",
+        "genitive": "des Hundes",
+        "dative": "dem Hund",
+        "accusative": "den Hund"
+      },
+      "plural": {
+        "nominative": "die Hunde",
+        "genitive": "der Hunde",
+        "dative": "den Hunden",
+        "accusative": "die Hunde"
+      }
+    }
+  ],
+  "島": [
+    {
+      "de": "Insel",
+      "gender": "die",
+      "pronunciation": "インゼル",
+      "forms": {
+        "nominative": "die Insel",
+        "genitive": "der Insel",
+        "dative": "der Insel",
+        "accusative": "die Insel"
+      },
+      "plural": {
+        "nominative": "die Inseln",
+        "genitive": "der Inseln",
+        "dative": "den Inseln",
+        "accusative": "die Inseln"
+      }
+    }
+  ],
+  "解雇通知": [
+    {
+      "de": "Kündigung",
+      "gender": "die",
+      "pronunciation": "キュンディグング",
+      "forms": {
+        "nominative": "die Kündigung",
+        "genitive": "der Kündigung",
+        "dative": "der Kündigung",
+        "accusative": "die Kündigung"
+      },
+      "plural": {
+        "nominative": "die Kündigungen",
+        "genitive": "der Kündigungen",
+        "dative": "den Kündigungen",
+        "accusative": "die Kündigungen"
+      }
+    }
+  ],
+  "風景": [
+    {
+      "de": "Landschaft",
+      "gender": "die",
+      "pronunciation": "ラントシャフト",
+      "forms": {
+        "nominative": "die Landschaft",
+        "genitive": "der Landschaft",
+        "dative": "der Landschaft",
+        "accusative": "die Landschaft"
+      },
+      "plural": {
+        "nominative": "die Landschaften",
+        "genitive": "der Landschaften",
+        "dative": "den Landschaften",
+        "accusative": "die Landschaften"
+      }
+    }
+  ],
+  "家賃の値上げ": [
+    {
+      "de": "Mieterhöhung",
+      "gender": "die",
+      "pronunciation": "ミーテアヘーウング",
+      "forms": {
+        "nominative": "die Mieterhöhung",
+        "genitive": "der Mieterhöhung",
+        "dative": "der Mieterhöhung",
+        "accusative": "die Mieterhöhung"
+      },
+      "plural": {
+        "nominative": "die Mieterhöhungen",
+        "genitive": "der Mieterhöhungen",
+        "dative": "den Mieterhöhungen",
+        "accusative": "die Mieterhöhungen"
+      }
+    }
+  ],
+  "家賃相場": [
+    {
+      "de": "Mietspiegel",
+      "gender": "der",
+      "pronunciation": "ミートシュピーゲル",
+      "forms": {
+        "nominative": "der Mietspiegel",
+        "genitive": "des Mietspiegels",
+        "dative": "dem Mietspiegel",
+        "accusative": "den Mietspiegel"
+      },
+      "plural": {
+        "nominative": "die Mietspiegel",
+        "genitive": "der Mietspiegel",
+        "dative": "den Mietspiegeln",
+        "accusative": "die Mietspiegel"
+      }
+    }
+  ],
+  "賃貸契約": [
+    {
+      "de": "Mietvertrag",
+      "gender": "der",
+      "pronunciation": "ミートフェルトラーク",
+      "forms": {
+        "nominative": "der Mietvertrag",
+        "genitive": "des Mietvertrages",
+        "dative": "dem Mietvertrag",
+        "accusative": "den Mietvertrag"
+      },
+      "plural": {
+        "nominative": "die Mietverträge",
+        "genitive": "der Mietverträge",
+        "dative": "den Mietverträgen",
+        "accusative": "die Mietverträge"
+      }
+    }
+  ],
+  "近代化": [
+    {
+      "de": "Modernisierung",
+      "gender": "die",
+      "pronunciation": "モダニズィールング",
+      "forms": {
+        "nominative": "die Modernisierung",
+        "genitive": "der Modernisierung",
+        "dative": "der Modernisierung",
+        "accusative": "die Modernisierung"
+      },
+      "plural": {
+        "nominative": "die Modernisierungen",
+        "genitive": "der Modernisierungen",
+        "dative": "den Modernisierungen",
+        "accusative": "die Modernisierungen"
+      }
+    }
+  ],
+  "学期": [
+    {
+      "de": "Semester",
+      "gender": "das",
+      "pronunciation": "ゼメスター",
+      "forms": {
+        "nominative": "das Semester",
+        "genitive": "des Semesters",
+        "dative": "dem Semester",
+        "accusative": "das Semester"
+      },
+      "plural": {
+        "nominative": "die Semester",
+        "genitive": "der Semester",
+        "dative": "den Semestern",
+        "accusative": "die Semester"
+      }
+    }
+  ],
+  "専攻": [
+    {
+      "de": "Studiengang",
+      "gender": "der",
+      "pronunciation": "シュトゥーディエンガング",
+      "forms": {
+        "nominative": "der Studiengang",
+        "genitive": "des Studienganges",
+        "dative": "dem Studiengang",
+        "accusative": "den Studiengang"
+      },
+      "plural": {
+        "nominative": "die Studiengänge",
+        "genitive": "der Studiengänge",
+        "dative": "den Studiengängen",
+        "accusative": "die Studiengänge"
+      }
+    }
+  ],
+  "谷": [
+    {
+      "de": "Tal",
+      "gender": "das",
+      "pronunciation": "タール",
+      "forms": {
+        "nominative": "das Tal",
+        "genitive": "des Tales",
+        "dative": "dem Tal",
+        "accusative": "das Tal"
+      },
+      "plural": {
+        "nominative": "die Täler",
+        "genitive": "der Täler",
+        "dative": "den Tälern",
+        "accusative": "die Täler"
+      }
+    }
+  ],
+  "大学": [
+    {
+      "de": "Universität",
+      "gender": "die",
+      "pronunciation": "ウニヴェルズィテート",
+      "forms": {
+        "nominative": "die Universität",
+        "genitive": "der Universität",
+        "dative": "der Universität",
+        "accusative": "die Universität"
+      },
+      "plural": {
+        "nominative": "die Universitäten",
+        "genitive": "der Universitäten",
+        "dative": "den Universitäten",
+        "accusative": "die Universitäten"
+      }
+    }
+  ],
+  "理解": [
+    {
+      "de": "Verständnis",
+      "gender": "das",
+      "pronunciation": "フェアシュテンドニス",
+      "forms": {
+        "nominative": "das Verständnis",
+        "genitive": "des Verständnisses",
+        "dative": "dem Verständnis",
+        "accusative": "das Verständnis"
+      },
+      "plural": {}
+    }
+  ],
+  "講義": [
+    {
+      "de": "Vorlesung",
+      "gender": "die",
+      "pronunciation": "フォーアレーズング",
+      "forms": {
+        "nominative": "die Vorlesung",
+        "genitive": "der Vorlesung",
+        "dative": "der Vorlesung",
+        "accusative": "die Vorlesung"
+      },
+      "plural": {
+        "nominative": "die Vorlesungen",
+        "genitive": "der Vorlesungen",
+        "dative": "den Vorlesungen",
+        "accusative": "die Vorlesungen"
+      }
+    }
+  ],
+  "森": [
+    {
+      "de": "Wald",
+      "gender": "der",
+      "pronunciation": "ヴァルト",
+      "forms": {
+        "nominative": "der Wald",
+        "genitive": "des Waldes",
+        "dative": "dem Wald",
+        "accusative": "den Wald"
+      },
+      "plural": {
+        "nominative": "die Wälder",
+        "genitive": "der Wälder",
+        "dative": "den Wäldern",
+        "accusative": "die Wälder"
+      }
+    }
+  ],
+  "天気": [
+    {
+      "de": "Wetter",
+      "gender": "das",
+      "pronunciation": "ヴェッター",
+      "forms": {
+        "nominative": "das Wetter",
+        "genitive": "des Wetters",
+        "dative": "dem Wetter",
+        "accusative": "das Wetter"
+      },
+      "plural": {}
+    }
+  ]
+}
