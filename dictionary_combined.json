@@ -54,6 +54,23 @@
         "dative": "den Ärzten",
         "accusative": "die Ärzte"
       }
+    },
+    {
+      "de": "Arzt",
+      "gender": "der",
+      "pronunciation": "アルツト",
+      "forms": {
+        "nominative": "der Arzt",
+        "genitive": "des Arztes",
+        "dative": "dem Arzt",
+        "accusative": "den Arzt"
+      },
+      "plural": {
+        "nominative": "die Ärzte",
+        "genitive": "der Ärzte",
+        "dative": "den Ärzten",
+        "accusative": "die Ärzte"
+      }
     }
   ],
   "車": [
@@ -128,9 +145,43 @@
         "dative": "den Banken",
         "accusative": "die Banken"
       }
+    },
+    {
+      "de": "Bank",
+      "gender": "die",
+      "pronunciation": "バンク",
+      "forms": {
+        "nominative": "die Bank",
+        "genitive": "der Bank",
+        "dative": "der Bank",
+        "accusative": "die Bank"
+      },
+      "plural": {
+        "nominative": "die Banken",
+        "genitive": "der Banken",
+        "dative": "den Banken",
+        "accusative": "die Banken"
+      }
     }
   ],
   "パン": [
+    {
+      "de": "Brot",
+      "gender": "das",
+      "pronunciation": "ブロート",
+      "forms": {
+        "nominative": "das Brot",
+        "genitive": "des Brotes",
+        "dative": "dem Brot",
+        "accusative": "das Brot"
+      },
+      "plural": {
+        "nominative": "die Brote",
+        "genitive": "der Brote",
+        "dative": "den Broten",
+        "accusative": "die Brote"
+      }
+    },
     {
       "de": "Brot",
       "gender": "das",
@@ -204,9 +255,38 @@
         "dative": "den Buttern",
         "accusative": "die Butter"
       }
+    },
+    {
+      "de": "Butter",
+      "gender": "die",
+      "pronunciation": "ブッター",
+      "forms": {
+        "nominative": "die Butter",
+        "genitive": "der Butter",
+        "dative": "der Butter",
+        "accusative": "die Butter"
+      },
+      "plural": {}
     }
   ],
   "カフェ": [
+    {
+      "de": "Café",
+      "gender": "das",
+      "pronunciation": "カフェー",
+      "forms": {
+        "nominative": "das Café",
+        "genitive": "des Cafés",
+        "dative": "dem Café",
+        "accusative": "das Café"
+      },
+      "plural": {
+        "nominative": "die Cafés",
+        "genitive": "der Cafés",
+        "dative": "den Cafés",
+        "accusative": "die Cafés"
+      }
+    },
     {
       "de": "Café",
       "gender": "das",
@@ -335,6 +415,23 @@
     }
   ],
   "卵": [
+    {
+      "de": "Ei",
+      "gender": "das",
+      "pronunciation": "アイ",
+      "forms": {
+        "nominative": "das Ei",
+        "genitive": "des Eies",
+        "dative": "dem Ei",
+        "accusative": "das Ei"
+      },
+      "plural": {
+        "nominative": "die Eier",
+        "genitive": "der Eier",
+        "dative": "den Eiern",
+        "accusative": "die Eier"
+      }
+    },
     {
       "de": "Ei",
       "gender": "das",
@@ -496,6 +593,23 @@
         "dative": "den Fenstern",
         "accusative": "die Fenster"
       }
+    },
+    {
+      "de": "Fenster",
+      "gender": "das",
+      "pronunciation": "フェンスター",
+      "forms": {
+        "nominative": "das Fenster",
+        "genitive": "des Fensters",
+        "dative": "dem Fenster",
+        "accusative": "das Fenster"
+      },
+      "plural": {
+        "nominative": "die Fenster",
+        "genitive": "der Fenster",
+        "dative": "den Fenstern",
+        "accusative": "die Fenster"
+      }
     }
   ],
   "映画": [
@@ -534,9 +648,38 @@
         "dative": "den Fischen",
         "accusative": "die Fische"
       }
+    },
+    {
+      "de": "Fisch",
+      "gender": "der",
+      "pronunciation": "フィッシュ",
+      "forms": {
+        "nominative": "der Fisch",
+        "genitive": "des Fisches",
+        "dative": "dem Fisch",
+        "accusative": "den Fisch"
+      },
+      "plural": {
+        "nominative": "die Fische",
+        "genitive": "der Fische",
+        "dative": "den Fischen",
+        "accusative": "die Fische"
+      }
     }
   ],
   "肉": [
+    {
+      "de": "Fleisch",
+      "gender": "das",
+      "pronunciation": "フライシュ",
+      "forms": {
+        "nominative": "das Fleisch",
+        "genitive": "des Fleisches",
+        "dative": "dem Fleisch",
+        "accusative": "das Fleisch"
+      },
+      "plural": {}
+    },
     {
       "de": "Fleisch",
       "gender": "das",
@@ -660,6 +803,23 @@
         "dative": "den Frühstücken",
         "accusative": "die Frühstücke"
       }
+    },
+    {
+      "de": "Frühstück",
+      "gender": "das",
+      "pronunciation": "フリューシュトゥック",
+      "forms": {
+        "nominative": "das Frühstück",
+        "genitive": "des Frühstücks",
+        "dative": "dem Frühstück",
+        "accusative": "das Frühstück"
+      },
+      "plural": {
+        "nominative": "die Frühstücke",
+        "genitive": "der Frühstücke",
+        "dative": "den Frühstücken",
+        "accusative": "die Frühstücke"
+      }
     }
   ],
   "庭": [
@@ -693,9 +853,38 @@
         "accusative": "das Geld"
       },
       "plural": {}
+    },
+    {
+      "de": "Geld",
+      "gender": "das",
+      "pronunciation": "ゲルト",
+      "forms": {
+        "nominative": "das Geld",
+        "genitive": "des Geldes",
+        "dative": "dem Geld",
+        "accusative": "das Geld"
+      },
+      "plural": {}
     }
   ],
   "野菜": [
+    {
+      "de": "Gemüse",
+      "gender": "das",
+      "pronunciation": "ゲミューゼ",
+      "forms": {
+        "nominative": "das Gemüse",
+        "genitive": "des Gemüses",
+        "dative": "dem Gemüse",
+        "accusative": "das Gemüse"
+      },
+      "plural": {
+        "nominative": "die Gemüse",
+        "genitive": "der Gemüse",
+        "dative": "den Gemüsen",
+        "accusative": "die Gemüse"
+      }
+    },
     {
       "de": "Gemüse",
       "gender": "das",
@@ -872,6 +1061,23 @@
     }
   ],
   "オレンジ": [
+    {
+      "de": "Orange",
+      "gender": "die",
+      "pronunciation": "オランジェ",
+      "forms": {
+        "nominative": "die Orange",
+        "genitive": "der Orange",
+        "dative": "der Orange",
+        "accusative": "die Orange"
+      },
+      "plural": {
+        "nominative": "die Orangen",
+        "genitive": "der Orangen",
+        "dative": "den Orangen",
+        "accusative": "die Orangen"
+      }
+    },
     {
       "de": "Orange",
       "gender": "die",
@@ -1077,6 +1283,18 @@
         "accusative": "die Polizei"
       },
       "plural": {}
+    },
+    {
+      "de": "Polizei",
+      "gender": "die",
+      "pronunciation": "ポリツァイ",
+      "forms": {
+        "nominative": "die Polizei",
+        "genitive": "der Polizei",
+        "dative": "der Polizei",
+        "accusative": "die Polizei"
+      },
+      "plural": {}
     }
   ],
   "郵便": [
@@ -1193,6 +1411,18 @@
         "accusative": "den Reis"
       },
       "plural": {}
+    },
+    {
+      "de": "Reis",
+      "gender": "der",
+      "pronunciation": "ライス",
+      "forms": {
+        "nominative": "der Reis",
+        "genitive": "des Reises",
+        "dative": "dem Reis",
+        "accusative": "das Reis"
+      },
+      "plural": {}
     }
   ],
   "旅行": [
@@ -1232,6 +1462,23 @@
     }
   ],
   "レストラン": [
+    {
+      "de": "Restaurant",
+      "gender": "das",
+      "pronunciation": "レストラン",
+      "forms": {
+        "nominative": "das Restaurant",
+        "genitive": "des Restaurants",
+        "dative": "dem Restaurant",
+        "accusative": "das Restaurant"
+      },
+      "plural": {
+        "nominative": "die Restaurants",
+        "genitive": "der Restaurants",
+        "dative": "den Restaurants",
+        "accusative": "die Restaurants"
+      }
+    },
     {
       "de": "Restaurant",
       "gender": "das",
@@ -1391,6 +1638,23 @@
         "dative": "den Säften",
         "accusative": "die Säfte"
       }
+    },
+    {
+      "de": "Saft",
+      "gender": "der",
+      "pronunciation": "ザフト",
+      "forms": {
+        "nominative": "der Saft",
+        "genitive": "des Saftes",
+        "dative": "dem Saft",
+        "accusative": "den Saft"
+      },
+      "plural": {
+        "nominative": "die Säfte",
+        "genitive": "der Säfte",
+        "dative": "den Säften",
+        "accusative": "die Säfte"
+      }
     }
   ],
   "サラダ": [
@@ -1413,6 +1677,18 @@
     }
   ],
   "塩": [
+    {
+      "de": "Salz",
+      "gender": "das",
+      "pronunciation": "ザルツ",
+      "forms": {
+        "nominative": "das Salz",
+        "genitive": "des Salzes",
+        "dative": "dem Salz",
+        "accusative": "das Salz"
+      },
+      "plural": {}
+    },
     {
       "de": "Salz",
       "gender": "das",
@@ -1743,6 +2019,23 @@
     }
   ],
   "メニュー": [
+    {
+      "de": "Speisekarte",
+      "gender": "die",
+      "pronunciation": "シュパイゼカルテ",
+      "forms": {
+        "nominative": "die Speisekarte",
+        "genitive": "der Speisekarte",
+        "dative": "der Speisekarte",
+        "accusative": "die Speisekarte"
+      },
+      "plural": {
+        "nominative": "die Speisekarten",
+        "genitive": "der Speisekarten",
+        "dative": "den Speisekarten",
+        "accusative": "die Speisekarten"
+      }
+    },
     {
       "de": "Speisekarte",
       "gender": "die",
@@ -2144,6 +2437,23 @@
         "dative": "den Suppen",
         "accusative": "die Suppen"
       }
+    },
+    {
+      "de": "Suppe",
+      "gender": "die",
+      "pronunciation": "ズッペ",
+      "forms": {
+        "nominative": "die Suppe",
+        "genitive": "der Suppe",
+        "dative": "der Suppe",
+        "accusative": "die Suppe"
+      },
+      "plural": {
+        "nominative": "die Suppen",
+        "genitive": "der Suppen",
+        "dative": "den Suppen",
+        "accusative": "die Suppen"
+      }
     }
   ],
   "タブレット": [
@@ -2456,6 +2766,23 @@
         "accusative": "das Wasser"
       },
       "plural": {}
+    },
+    {
+      "de": "Wasser",
+      "gender": "das",
+      "pronunciation": "ヴァッサー",
+      "forms": {
+        "nominative": "das Wasser",
+        "genitive": "des Wassers",
+        "dative": "dem Wasser",
+        "accusative": "das Wasser"
+      },
+      "plural": {
+        "nominative": "die Wasser",
+        "genitive": "der Wasser",
+        "dative": "den Wassern",
+        "accusative": "die Wasser"
+      }
     }
   ],
   "道": [
@@ -2478,6 +2805,23 @@
     }
   ],
   "ワイン": [
+    {
+      "de": "Wein",
+      "gender": "der",
+      "pronunciation": "ヴァイン",
+      "forms": {
+        "nominative": "der Wein",
+        "genitive": "des Weines",
+        "dative": "dem Wein",
+        "accusative": "den Wein"
+      },
+      "plural": {
+        "nominative": "die Weine",
+        "genitive": "der Weine",
+        "dative": "den Weinen",
+        "accusative": "die Weine"
+      }
+    },
     {
       "de": "Wein",
       "gender": "der",
@@ -2720,6 +3064,18 @@
         "accusative": "den Zucker"
       },
       "plural": {}
+    },
+    {
+      "de": "Zucker",
+      "gender": "der",
+      "pronunciation": "ツッカー",
+      "forms": {
+        "nominative": "der Zucker",
+        "genitive": "des Zuckers",
+        "dative": "dem Zucker",
+        "accusative": "den Zucker"
+      },
+      "plural": {}
     }
   ],
   "時間（期間）": [
@@ -2934,6 +3290,18 @@
         "dative": "den Angaben",
         "accusative": "die Angaben"
       }
+    },
+    {
+      "de": "Auskunft",
+      "gender": "die",
+      "pronunciation": "アウスクンフト",
+      "forms": {
+        "nominative": "die Auskunft",
+        "genitive": "der Auskunft",
+        "dative": "der Auskunft",
+        "accusative": "die Auskunft"
+      },
+      "plural": {}
     }
   ],
   "申し出": [
@@ -3144,6 +3512,23 @@
     }
   ],
   "薬局": [
+    {
+      "de": "Apotheke",
+      "gender": "die",
+      "pronunciation": "アポテーケ",
+      "forms": {
+        "nominative": "die Apotheke",
+        "genitive": "der Apotheke",
+        "dative": "der Apotheke",
+        "accusative": "die Apotheke"
+      },
+      "plural": {
+        "nominative": "die Apotheken",
+        "genitive": "der Apotheken",
+        "dative": "den Apotheken",
+        "accusative": "die Apotheken"
+      }
+    },
     {
       "de": "Apotheke",
       "gender": "die",
@@ -3486,9 +3871,38 @@
         "dative": "den Käsen",
         "accusative": "die Käse"
       }
+    },
+    {
+      "de": "Käse",
+      "gender": "der",
+      "pronunciation": "ケーゼ",
+      "forms": {
+        "nominative": "der Käse",
+        "genitive": "des Käses",
+        "dative": "dem Käse",
+        "accusative": "den Käse"
+      },
+      "plural": {
+        "nominative": "die Käse",
+        "genitive": "der Käse",
+        "dative": "den Käsen",
+        "accusative": "die Käse"
+      }
     }
   ],
   "コーヒー": [
+    {
+      "de": "Kaffee",
+      "gender": "der",
+      "pronunciation": "カッフェー",
+      "forms": {
+        "nominative": "der Kaffee",
+        "genitive": "des Kaffees",
+        "dative": "dem Kaffee",
+        "accusative": "den Kaffee"
+      },
+      "plural": {}
+    },
     {
       "de": "Kaffee",
       "gender": "der",
@@ -3514,6 +3928,18 @@
         "accusative": "das Obst"
       },
       "plural": {}
+    },
+    {
+      "de": "Obst",
+      "gender": "das",
+      "pronunciation": "オブスト",
+      "forms": {
+        "nominative": "das Obst",
+        "genitive": "des Obstes",
+        "dative": "dem Obst",
+        "accusative": "das Obst"
+      },
+      "plural": {}
     }
   ],
   "牛乳": [
@@ -3528,9 +3954,38 @@
         "accusative": "die Milch"
       },
       "plural": {}
+    },
+    {
+      "de": "Milch",
+      "gender": "die",
+      "pronunciation": "ミルヒ",
+      "forms": {
+        "nominative": "die Milch",
+        "genitive": "der Milch",
+        "dative": "der Milch",
+        "accusative": "die Milch"
+      },
+      "plural": {}
     }
   ],
   "ビール": [
+    {
+      "de": "Bier",
+      "gender": "das",
+      "pronunciation": "ビーア",
+      "forms": {
+        "nominative": "das Bier",
+        "genitive": "des Bieres",
+        "dative": "dem Bier",
+        "accusative": "das Bier"
+      },
+      "plural": {
+        "nominative": "die Biere",
+        "genitive": "der Biere",
+        "dative": "den Bieren",
+        "accusative": "die Biere"
+      }
+    },
     {
       "de": "Bier",
       "gender": "das",
@@ -3569,6 +4024,23 @@
     }
   ],
   "スーパーマーケット": [
+    {
+      "de": "Supermarkt",
+      "gender": "der",
+      "pronunciation": "ズーパーマルクト",
+      "forms": {
+        "nominative": "der Supermarkt",
+        "genitive": "des Supermarktes",
+        "dative": "dem Supermarkt",
+        "accusative": "den Supermarkt"
+      },
+      "plural": {
+        "nominative": "die Supermärkte",
+        "genitive": "der Supermärkte",
+        "dative": "den Supermärkten",
+        "accusative": "die Supermärkte"
+      }
+    },
     {
       "de": "Supermarkt",
       "gender": "der",
@@ -3933,9 +4405,21 @@
       "pronunciation": "エッセン",
       "forms": {},
       "plural": {}
+    },
+    {
+      "de": "essen",
+      "pronunciation": "エッセン",
+      "forms": {},
+      "plural": {}
     }
   ],
   "飲む": [
+    {
+      "de": "trinken",
+      "pronunciation": "トリンケン",
+      "forms": {},
+      "plural": {}
+    },
     {
       "de": "trinken",
       "pronunciation": "トリンケン",
@@ -3949,9 +4433,21 @@
       "pronunciation": "シュラーフェン",
       "forms": {},
       "plural": {}
+    },
+    {
+      "de": "schlafen",
+      "pronunciation": "シュラーフェン",
+      "forms": {},
+      "plural": {}
     }
   ],
   "働く": [
+    {
+      "de": "arbeiten",
+      "pronunciation": "アルバイテン",
+      "forms": {},
+      "plural": {}
+    },
     {
       "de": "arbeiten",
       "pronunciation": "アルバイテン",
@@ -3965,9 +4461,21 @@
       "pronunciation": "レルネン",
       "forms": {},
       "plural": {}
+    },
+    {
+      "de": "lernen",
+      "pronunciation": "レルネン",
+      "forms": {},
+      "plural": {}
     }
   ],
   "読む": [
+    {
+      "de": "lesen",
+      "pronunciation": "レーゼン",
+      "forms": {},
+      "plural": {}
+    },
     {
       "de": "lesen",
       "pronunciation": "レーゼン",
@@ -3981,6 +4489,12 @@
       "pronunciation": "シュライベン",
       "forms": {},
       "plural": {}
+    },
+    {
+      "de": "schreiben",
+      "pronunciation": "シュライベン",
+      "forms": {},
+      "plural": {}
     }
   ],
   "話す": [
@@ -3989,9 +4503,21 @@
       "pronunciation": "シュプレッヒェン",
       "forms": {},
       "plural": {}
+    },
+    {
+      "de": "sprechen",
+      "pronunciation": "シュプレッヒェン",
+      "forms": {},
+      "plural": {}
     }
   ],
   "行く": [
+    {
+      "de": "gehen",
+      "pronunciation": "ゲーエン",
+      "forms": {},
+      "plural": {}
+    },
     {
       "de": "gehen",
       "pronunciation": "ゲーエン",
@@ -4008,6 +4534,12 @@
     }
   ],
   "来る": [
+    {
+      "de": "kommen",
+      "pronunciation": "コメン",
+      "forms": {},
+      "plural": {}
+    },
     {
       "de": "kommen",
       "pronunciation": "コメン",
@@ -4069,9 +4601,21 @@
       "pronunciation": "ゼーエン",
       "forms": {},
       "plural": {}
+    },
+    {
+      "de": "sehen",
+      "pronunciation": "ゼーエン",
+      "forms": {},
+      "plural": {}
     }
   ],
   "聞く": [
+    {
+      "de": "hören",
+      "pronunciation": "ヘーレン",
+      "forms": {},
+      "plural": {}
+    },
     {
       "de": "hören",
       "pronunciation": "ヘーレン",
@@ -4085,6 +4629,12 @@
       "pronunciation": "フィンデン",
       "forms": {},
       "plural": {}
+    },
+    {
+      "de": "finden",
+      "pronunciation": "フィンデン",
+      "forms": {},
+      "plural": {}
     }
   ],
   "尋ねる": [
@@ -4093,9 +4643,21 @@
       "pronunciation": "フラーゲン",
       "forms": {},
       "plural": {}
+    },
+    {
+      "de": "fragen",
+      "pronunciation": "フラーゲン",
+      "forms": {},
+      "plural": {}
     }
   ],
   "買う": [
+    {
+      "de": "kaufen",
+      "pronunciation": "カウフェン",
+      "forms": {},
+      "plural": {}
+    },
     {
       "de": "kaufen",
       "pronunciation": "カウフェン",
@@ -4270,6 +4832,23 @@
     }
   ],
   "木": [
+    {
+      "de": "Baum",
+      "gender": "der",
+      "pronunciation": "バウム",
+      "forms": {
+        "nominative": "der Baum",
+        "genitive": "des Baumes",
+        "dative": "dem Baum",
+        "accusative": "den Baum"
+      },
+      "plural": {
+        "nominative": "die Bäume",
+        "genitive": "der Bäume",
+        "dative": "den Bäumen",
+        "accusative": "die Bäume"
+      }
+    },
     {
       "de": "Baum",
       "gender": "der",
@@ -6267,6 +6846,12 @@
         "accusative": "die Vorsicht"
       },
       "plural": {}
+    },
+    {
+      "de": "Achtung",
+      "pronunciation": "アハトゥング",
+      "forms": {},
+      "plural": {}
     }
   ],
   "ゲストブックエントリ": [
@@ -6641,6 +7226,23 @@
         "dative": "den Mittagessen",
         "accusative": "die Mittagessen"
       }
+    },
+    {
+      "de": "Mittagessen",
+      "gender": "das",
+      "pronunciation": "ミッタークエッセン",
+      "forms": {
+        "nominative": "das Mittagessen",
+        "genitive": "des Mittagessens",
+        "dative": "dem Mittagessen",
+        "accusative": "das Mittagessen"
+      },
+      "plural": {
+        "nominative": "die Mittagessen",
+        "genitive": "der Mittagessen",
+        "dative": "den Mittagessen",
+        "accusative": "die Mittagessen"
+      }
     }
   ],
   "夕食": [
@@ -6660,9 +7262,43 @@
         "dative": "den Abendessen",
         "accusative": "die Abendessen"
       }
+    },
+    {
+      "de": "Abendessen",
+      "gender": "das",
+      "pronunciation": "アーベントエッセン",
+      "forms": {
+        "nominative": "das Abendessen",
+        "genitive": "des Abendessens",
+        "dative": "dem Abendessen",
+        "accusative": "das Abendessen"
+      },
+      "plural": {
+        "nominative": "die Abendessen",
+        "genitive": "der Abendessen",
+        "dative": "den Abendessen",
+        "accusative": "die Abendessen"
+      }
     }
   ],
   "病院": [
+    {
+      "de": "Krankenhaus",
+      "gender": "das",
+      "pronunciation": "クランケンハウス",
+      "forms": {
+        "nominative": "das Krankenhaus",
+        "genitive": "des Krankenhauses",
+        "dative": "dem Krankenhaus",
+        "accusative": "das Krankenhaus"
+      },
+      "plural": {
+        "nominative": "die Krankenhäuser",
+        "genitive": "der Krankenhäuser",
+        "dative": "den Krankenhäusern",
+        "accusative": "die Krankenhäuser"
+      }
+    },
     {
       "de": "Krankenhaus",
       "gender": "das",
@@ -7117,6 +7753,23 @@
         "dative": "den Nächten",
         "accusative": "die Nächte"
       }
+    },
+    {
+      "de": "Nacht",
+      "gender": "die",
+      "pronunciation": "ナハト",
+      "forms": {
+        "nominative": "die Nacht",
+        "genitive": "der Nacht",
+        "dative": "der Nacht",
+        "accusative": "die Nacht"
+      },
+      "plural": {
+        "nominative": "die Nächte",
+        "genitive": "der Nächte",
+        "dative": "den Nächten",
+        "accusative": "die Nächte"
+      }
     }
   ],
   "日": [
@@ -7400,6 +8053,2740 @@
       "de": "grün",
       "gender": "-",
       "pronunciation": "グリュン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "ドア": [
+    {
+      "de": "Tür",
+      "gender": "die",
+      "pronunciation": "テューア",
+      "forms": {
+        "nominative": "die Tür",
+        "genitive": "der Tür",
+        "dative": "der Tür",
+        "accusative": "die Tür"
+      },
+      "plural": {
+        "nominative": "die Türen",
+        "genitive": "der Türen",
+        "dative": "den Türen",
+        "accusative": "die Türen"
+      }
+    }
+  ],
+  "花": [
+    {
+      "de": "Blume",
+      "gender": "die",
+      "pronunciation": "ブルーメ",
+      "forms": {
+        "nominative": "die Blume",
+        "genitive": "der Blume",
+        "dative": "der Blume",
+        "accusative": "die Blume"
+      },
+      "plural": {
+        "nominative": "die Blumen",
+        "genitive": "der Blumen",
+        "dative": "den Blumen",
+        "accusative": "die Blumen"
+      }
+    }
+  ],
+  "食べ物": [
+    {
+      "de": "Essen",
+      "gender": "das",
+      "pronunciation": "エッセン",
+      "forms": {
+        "nominative": "das Essen",
+        "genitive": "des Essens",
+        "dative": "dem Essen",
+        "accusative": "das Essen"
+      },
+      "plural": {
+        "nominative": "die Essen",
+        "genitive": "der Essen",
+        "dative": "den Essen",
+        "accusative": "die Essen"
+      }
+    }
+  ],
+  "携帯電話": [
+    {
+      "de": "Handy",
+      "gender": "das",
+      "pronunciation": "ハンディ",
+      "forms": {
+        "nominative": "das Handy",
+        "genitive": "des Handys",
+        "dative": "dem Handy",
+        "accusative": "das Handy"
+      },
+      "plural": {
+        "nominative": "die Handys",
+        "genitive": "der Handys",
+        "dative": "den Handys",
+        "accusative": "die Handys"
+      }
+    }
+  ],
+  "音楽": [
+    {
+      "de": "Musik",
+      "gender": "die",
+      "pronunciation": "ムズィーク",
+      "forms": {
+        "nominative": "die Musik",
+        "genitive": "der Musik",
+        "dative": "der Musik",
+        "accusative": "die Musik"
+      },
+      "plural": {}
+    }
+  ],
+  "猫": [
+    {
+      "de": "Katze",
+      "gender": "die",
+      "pronunciation": "カッツェ",
+      "forms": {
+        "nominative": "die Katze",
+        "genitive": "der Katze",
+        "dative": "der Katze",
+        "accusative": "die Katze"
+      },
+      "plural": {
+        "nominative": "die Katzen",
+        "genitive": "der Katzen",
+        "dative": "den Katzen",
+        "accusative": "die Katzen"
+      }
+    }
+  ],
+  "〜から": [
+    {
+      "de": "ab",
+      "pronunciation": "アプ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "しかし": [
+    {
+      "de": "aber",
+      "pronunciation": "アーバー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "出発する": [
+    {
+      "de": "abfahren",
+      "pronunciation": "アプファーレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "手渡す": [
+    {
+      "de": "abgeben",
+      "pronunciation": "アプゲーベン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "迎えに行く": [
+    {
+      "de": "abholen",
+      "pronunciation": "アプホーレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "全て": [
+    {
+      "de": "all-",
+      "pronunciation": "アル",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "一人で": [
+    {
+      "de": "allein",
+      "pronunciation": "アライン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "したがって": [
+    {
+      "de": "also",
+      "pronunciation": "アルゾー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜に": [
+    {
+      "de": "an",
+      "pronunciation": "アン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "クリックする": [
+    {
+      "de": "anklicken",
+      "pronunciation": "アンクリッケン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "到着する": [
+    {
+      "de": "ankommen",
+      "pronunciation": "アンコメン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "チェックする": [
+    {
+      "de": "ankreuzen",
+      "pronunciation": "アンクロイツェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電源を入れる": [
+    {
+      "de": "anmachen",
+      "pronunciation": "アンマッヘン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "登録する": [
+    {
+      "de": "anmelden",
+      "pronunciation": "アンメルデン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電話をかける": [
+    {
+      "de": "anrufen",
+      "pronunciation": "アンルーフェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電源が入っている": [
+    {
+      "de": "an sein",
+      "pronunciation": "アン ザイン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "答える": [
+    {
+      "de": "antworten",
+      "pronunciation": "アントヴォルテン",
+      "forms": {},
+      "plural": {}
+    },
+    {
+      "de": "antworten",
+      "pronunciation": "アントヴォルテン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "着替える": [
+    {
+      "de": "anziehen",
+      "pronunciation": "アンツィーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "食欲": [
+    {
+      "de": "Appetit",
+      "gender": "der",
+      "pronunciation": "アペティート",
+      "forms": {
+        "nominative": "der Appetit",
+        "genitive": "des Appetits",
+        "dative": "dem Appetit",
+        "accusative": "den Appetit"
+      },
+      "plural": {}
+    }
+  ],
+  "失業中の": [
+    {
+      "de": "arbeitslos",
+      "pronunciation": "アルバイツロース",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜の上に": [
+    {
+      "de": "auf",
+      "pronunciation": "アウフ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "やめる": [
+    {
+      "de": "aufhören",
+      "pronunciation": "アウフヘーレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "開いている": [
+    {
+      "de": "auf sein",
+      "pronunciation": "アウフ ザイン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "起きる": [
+    {
+      "de": "aufstehen",
+      "pronunciation": "アウフシュテーエン",
+      "forms": {},
+      "plural": {}
+    },
+    {
+      "de": "aufstehen",
+      "pronunciation": "アウフシュテーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "エレベーター": [
+    {
+      "de": "Aufzug",
+      "gender": "der",
+      "pronunciation": "アウフツーク",
+      "forms": {
+        "nominative": "der Aufzug",
+        "genitive": "des Aufzuges",
+        "dative": "dem Aufzug",
+        "accusative": "den Aufzug"
+      },
+      "plural": {
+        "nominative": "die Aufzüge",
+        "genitive": "der Aufzüge",
+        "dative": "den Aufzügen",
+        "accusative": "die Aufzüge"
+      }
+    }
+  ],
+  "〜から（出身）": [
+    {
+      "de": "aus",
+      "pronunciation": "アウス",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "小旅行": [
+    {
+      "de": "Ausflug",
+      "gender": "der",
+      "pronunciation": "アウスフルーク",
+      "forms": {
+        "nominative": "der Ausflug",
+        "genitive": "des Ausfluges",
+        "dative": "dem Ausflug",
+        "accusative": "den Ausflug"
+      },
+      "plural": {
+        "nominative": "die Ausflüge",
+        "genitive": "der Ausflüge",
+        "dative": "den Ausflügen",
+        "accusative": "die Ausflüge"
+      }
+    }
+  ],
+  "記入する": [
+    {
+      "de": "ausfüllen",
+      "pronunciation": "アウスフュレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "外国": [
+    {
+      "de": "Ausland",
+      "gender": "das",
+      "pronunciation": "アウスラント",
+      "forms": {
+        "nominative": "das Ausland",
+        "genitive": "des Auslandes",
+        "dative": "dem Ausland",
+        "accusative": "das Ausland"
+      },
+      "plural": {}
+    }
+  ],
+  "外国人": [
+    {
+      "de": "Ausländer",
+      "gender": "der",
+      "pronunciation": "アウスレンダー",
+      "forms": {
+        "nominative": "der Ausländer",
+        "genitive": "des Ausländers",
+        "dative": "dem Ausländer",
+        "accusative": "den Ausländer"
+      },
+      "plural": {
+        "nominative": "die Ausländer",
+        "genitive": "der Ausländer",
+        "dative": "den Ausländern",
+        "accusative": "die Ausländer"
+      }
+    }
+  ],
+  "外国の": [
+    {
+      "de": "ausländisch",
+      "pronunciation": "アウスレンディッシュ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電源を切る": [
+    {
+      "de": "ausmachen",
+      "pronunciation": "アウスマッヘン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "発言": [
+    {
+      "de": "Aussage",
+      "gender": "die",
+      "pronunciation": "アウスザーゲ",
+      "forms": {
+        "nominative": "die Aussage",
+        "genitive": "der Aussage",
+        "dative": "der Aussage",
+        "accusative": "die Aussage"
+      },
+      "plural": {
+        "nominative": "die Aussagen",
+        "genitive": "der Aussagen",
+        "dative": "den Aussagen",
+        "accusative": "die Aussagen"
+      }
+    }
+  ],
+  "〜のように見える": [
+    {
+      "de": "aussehen",
+      "pronunciation": "アウスゼーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電源が切れている": [
+    {
+      "de": "aus sein",
+      "pronunciation": "アウス ザイン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "身分証明書": [
+    {
+      "de": "Ausweis",
+      "gender": "der",
+      "pronunciation": "アウスヴァイス",
+      "forms": {
+        "nominative": "der Ausweis",
+        "genitive": "des Ausweises",
+        "dative": "dem Ausweis",
+        "accusative": "den Ausweis"
+      },
+      "plural": {
+        "nominative": "die Ausweise",
+        "genitive": "der Ausweise",
+        "dative": "den Ausweisen",
+        "accusative": "die Ausweise"
+      }
+    }
+  ],
+  "服を脱ぐ": [
+    {
+      "de": "ausziehen",
+      "pronunciation": "アウスツィーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "高速道路": [
+    {
+      "de": "Autobahn",
+      "gender": "die",
+      "pronunciation": "アウトバーン",
+      "forms": {
+        "nominative": "die Autobahn",
+        "genitive": "der Autobahn",
+        "dative": "der Autobahn",
+        "accusative": "die Autobahn"
+      },
+      "plural": {
+        "nominative": "die Autobahnen",
+        "genitive": "der Autobahnen",
+        "dative": "den Autobahnen",
+        "accusative": "die Autobahnen"
+      }
+    }
+  ],
+  "自動販売機": [
+    {
+      "de": "Automat",
+      "gender": "der",
+      "pronunciation": "アウトマート",
+      "forms": {
+        "nominative": "der Automat",
+        "genitive": "des Automaten",
+        "dative": "dem Automaten",
+        "accusative": "den Automaten"
+      },
+      "plural": {
+        "nominative": "die Automaten",
+        "genitive": "der Automaten",
+        "dative": "den Automaten",
+        "accusative": "die Automaten"
+      }
+    }
+  ],
+  "自動の": [
+    {
+      "de": "automatisch",
+      "pronunciation": "アウトマーティッシュ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "皿": [
+    {
+      "de": "Teller",
+      "gender": "der",
+      "pronunciation": "テラー",
+      "forms": {
+        "nominative": "der Teller",
+        "genitive": "des Tellers",
+        "dative": "dem Teller",
+        "accusative": "den Teller"
+      },
+      "plural": {
+        "nominative": "die Teller",
+        "genitive": "der Teller",
+        "dative": "den Tellern",
+        "accusative": "die Teller"
+      }
+    }
+  ],
+  "スプーン": [
+    {
+      "de": "Löffel",
+      "gender": "der",
+      "pronunciation": "レフェル",
+      "forms": {
+        "nominative": "der Löffel",
+        "genitive": "des Löffels",
+        "dative": "dem Löffel",
+        "accusative": "den Löffel"
+      },
+      "plural": {
+        "nominative": "die Löffel",
+        "genitive": "der Löffel",
+        "dative": "den Löffeln",
+        "accusative": "die Löffel"
+      }
+    }
+  ],
+  "フォーク": [
+    {
+      "de": "Gabel",
+      "gender": "die",
+      "pronunciation": "ガーベル",
+      "forms": {
+        "nominative": "die Gabel",
+        "genitive": "der Gabel",
+        "dative": "der Gabel",
+        "accusative": "die Gabel"
+      },
+      "plural": {
+        "nominative": "die Gabeln",
+        "genitive": "der Gabeln",
+        "dative": "den Gabeln",
+        "accusative": "die Gabeln"
+      }
+    }
+  ],
+  "ナイフ": [
+    {
+      "de": "Messer",
+      "gender": "das",
+      "pronunciation": "メッサー",
+      "forms": {
+        "nominative": "das Messer",
+        "genitive": "des Messers",
+        "dative": "dem Messer",
+        "accusative": "das Messer"
+      },
+      "plural": {
+        "nominative": "die Messer",
+        "genitive": "der Messer",
+        "dative": "den Messern",
+        "accusative": "die Messer"
+      }
+    }
+  ],
+  "コップ": [
+    {
+      "de": "Glas",
+      "gender": "das",
+      "pronunciation": "グラス",
+      "forms": {
+        "nominative": "das Glas",
+        "genitive": "des Glases",
+        "dative": "dem Glas",
+        "accusative": "das Glas"
+      },
+      "plural": {
+        "nominative": "die Gläser",
+        "genitive": "der Gläser",
+        "dative": "den Gläsern",
+        "accusative": "die Gläser"
+      }
+    }
+  ],
+  "カップ": [
+    {
+      "de": "Tasse",
+      "gender": "die",
+      "pronunciation": "タッセ",
+      "forms": {
+        "nominative": "die Tasse",
+        "genitive": "der Tasse",
+        "dative": "der Tasse",
+        "accusative": "die Tasse"
+      },
+      "plural": {
+        "nominative": "die Tassen",
+        "genitive": "der Tassen",
+        "dative": "den Tassen",
+        "accusative": "die Tassen"
+      }
+    }
+  ],
+  "ボトル": [
+    {
+      "de": "Flasche",
+      "gender": "die",
+      "pronunciation": "フラッシェ",
+      "forms": {
+        "nominative": "die Flasche",
+        "genitive": "der Flasche",
+        "dative": "der Flasche",
+        "accusative": "die Flasche"
+      },
+      "plural": {
+        "nominative": "die Flaschen",
+        "genitive": "der Flaschen",
+        "dative": "den Flaschen",
+        "accusative": "die Flaschen"
+      }
+    }
+  ],
+  "鍋": [
+    {
+      "de": "Topf",
+      "gender": "der",
+      "pronunciation": "トプフ",
+      "forms": {
+        "nominative": "der Topf",
+        "genitive": "des Topfes",
+        "dative": "dem Topf",
+        "accusative": "den Topf"
+      },
+      "plural": {
+        "nominative": "die Töpfe",
+        "genitive": "der Töpfe",
+        "dative": "den Töpfen",
+        "accusative": "die Töpfe"
+      }
+    }
+  ],
+  "フライパン": [
+    {
+      "de": "Pfanne",
+      "gender": "die",
+      "pronunciation": "プファンネ",
+      "forms": {
+        "nominative": "die Pfanne",
+        "genitive": "der Pfanne",
+        "dative": "der Pfanne",
+        "accusative": "die Pfanne"
+      },
+      "plural": {
+        "nominative": "die Pfannen",
+        "genitive": "der Pfannen",
+        "dative": "den Pfannen",
+        "accusative": "die Pfannen"
+      }
+    }
+  ],
+  "冷蔵庫": [
+    {
+      "de": "Kühlschrank",
+      "gender": "der",
+      "pronunciation": "クールシュランク",
+      "forms": {
+        "nominative": "der Kühlschrank",
+        "genitive": "des Kühlschrankes",
+        "dative": "dem Kühlschrank",
+        "accusative": "den Kühlschrank"
+      },
+      "plural": {
+        "nominative": "die Kühlschränke",
+        "genitive": "der Kühlschränke",
+        "dative": "den Kühlschränken",
+        "accusative": "die Kühlschränke"
+      }
+    }
+  ],
+  "オーブン": [
+    {
+      "de": "Backofen",
+      "gender": "der",
+      "pronunciation": "バックオーフェン",
+      "forms": {
+        "nominative": "der Backofen",
+        "genitive": "des Backofens",
+        "dative": "dem Backofen",
+        "accusative": "den Backofen"
+      },
+      "plural": {
+        "nominative": "die Backöfen",
+        "genitive": "der Backöfen",
+        "dative": "den Backöfen",
+        "accusative": "die Backöfen"
+      }
+    }
+  ],
+  "電子レンジ": [
+    {
+      "de": "Mikrowelle",
+      "gender": "die",
+      "pronunciation": "ミクロヴェレ",
+      "forms": {
+        "nominative": "die Mikrowelle",
+        "genitive": "der Mikrowelle",
+        "dative": "der Mikrowelle",
+        "accusative": "die Mikrowelle"
+      },
+      "plural": {
+        "nominative": "die Mikrowellen",
+        "genitive": "der Mikrowellen",
+        "dative": "den Mikrowellen",
+        "accusative": "die Mikrowellen"
+      }
+    }
+  ],
+  "食料品": [
+    {
+      "de": "Lebensmittel",
+      "gender": "das",
+      "pronunciation": "レーベンスミッテル",
+      "forms": {
+        "nominative": "das Lebensmittel",
+        "genitive": "des Lebensmittels",
+        "dative": "dem Lebensmittel",
+        "accusative": "das Lebensmittel"
+      },
+      "plural": {
+        "nominative": "die Lebensmittel",
+        "genitive": "der Lebensmittel",
+        "dative": "den Lebensmitteln",
+        "accusative": "die Lebensmittel"
+      }
+    }
+  ],
+  "鶏肉": [
+    {
+      "de": "Hähnchen",
+      "gender": "das",
+      "pronunciation": "ヘーンヒェン",
+      "forms": {
+        "nominative": "das Hähnchen",
+        "genitive": "des Hähnchens",
+        "dative": "dem Hähnchen",
+        "accusative": "das Hähnchen"
+      },
+      "plural": {
+        "nominative": "die Hähnchen",
+        "genitive": "der Hähnchen",
+        "dative": "den Hähnchen",
+        "accusative": "die Hähnchen"
+      }
+    }
+  ],
+  "牛肉": [
+    {
+      "de": "Rindfleisch",
+      "gender": "das",
+      "pronunciation": "リントフライシュ",
+      "forms": {
+        "nominative": "das Rindfleisch",
+        "genitive": "des Rindfleisches",
+        "dative": "dem Rindfleisch",
+        "accusative": "das Rindfleisch"
+      },
+      "plural": {}
+    }
+  ],
+  "豚肉": [
+    {
+      "de": "Schweinefleisch",
+      "gender": "das",
+      "pronunciation": "シュヴァイネフライシュ",
+      "forms": {
+        "nominative": "das Schweinefleisch",
+        "genitive": "des Schweinefleisches",
+        "dative": "dem Schweinefleisch",
+        "accusative": "das Schweinefleisch"
+      },
+      "plural": {}
+    }
+  ],
+  "ロールパン": [
+    {
+      "de": "Brötchen",
+      "gender": "das",
+      "pronunciation": "ブレットヒェン",
+      "forms": {
+        "nominative": "das Brötchen",
+        "genitive": "des Brötchens",
+        "dative": "dem Brötchen",
+        "accusative": "das Brötchen"
+      },
+      "plural": {
+        "nominative": "die Brötchen",
+        "genitive": "der Brötchen",
+        "dative": "den Brötchen",
+        "accusative": "die Brötchen"
+      }
+    }
+  ],
+  "ヨーグルト": [
+    {
+      "de": "Joghurt",
+      "gender": "der",
+      "pronunciation": "ヨーグルト",
+      "forms": {
+        "nominative": "der Joghurt",
+        "genitive": "des Joghurts",
+        "dative": "dem Joghurt",
+        "accusative": "den Joghurt"
+      },
+      "plural": {
+        "nominative": "die Joghurts",
+        "genitive": "der Joghurts",
+        "dative": "den Joghurts",
+        "accusative": "die Joghurts"
+      }
+    }
+  ],
+  "リンゴ": [
+    {
+      "de": "Apfel",
+      "gender": "der",
+      "pronunciation": "アプフェル",
+      "forms": {
+        "nominative": "der Apfel",
+        "genitive": "des Apfels",
+        "dative": "dem Apfel",
+        "accusative": "den Apfel"
+      },
+      "plural": {
+        "nominative": "die Äpfel",
+        "genitive": "der Äpfel",
+        "dative": "den Äpfeln",
+        "accusative": "die Äpfel"
+      }
+    }
+  ],
+  "バナナ": [
+    {
+      "de": "Banane",
+      "gender": "die",
+      "pronunciation": "バナーネ",
+      "forms": {
+        "nominative": "die Banane",
+        "genitive": "der Banane",
+        "dative": "der Banane",
+        "accusative": "die Banane"
+      },
+      "plural": {
+        "nominative": "die Bananen",
+        "genitive": "der Bananen",
+        "dative": "den Bananen",
+        "accusative": "die Bananen"
+      }
+    }
+  ],
+  "ジャガイモ": [
+    {
+      "de": "Kartoffel",
+      "gender": "die",
+      "pronunciation": "カルトッフェル",
+      "forms": {
+        "nominative": "die Kartoffel",
+        "genitive": "der Kartoffel",
+        "dative": "der Kartoffel",
+        "accusative": "die Kartoffel"
+      },
+      "plural": {
+        "nominative": "die Kartoffeln",
+        "genitive": "der Kartoffeln",
+        "dative": "den Kartoffeln",
+        "accusative": "die Kartoffeln"
+      }
+    }
+  ],
+  "トマト": [
+    {
+      "de": "Tomate",
+      "gender": "die",
+      "pronunciation": "トマーテ",
+      "forms": {
+        "nominative": "die Tomate",
+        "genitive": "der Tomate",
+        "dative": "der Tomate",
+        "accusative": "die Tomate"
+      },
+      "plural": {
+        "nominative": "die Tomaten",
+        "genitive": "der Tomaten",
+        "dative": "den Tomaten",
+        "accusative": "die Tomaten"
+      }
+    }
+  ],
+  "玉ねぎ": [
+    {
+      "de": "Zwiebel",
+      "gender": "die",
+      "pronunciation": "ツヴィーベル",
+      "forms": {
+        "nominative": "die Zwiebel",
+        "genitive": "der Zwiebel",
+        "dative": "der Zwiebel",
+        "accusative": "die Zwiebel"
+      },
+      "plural": {
+        "nominative": "die Zwiebeln",
+        "genitive": "der Zwiebeln",
+        "dative": "den Zwiebeln",
+        "accusative": "die Zwiebeln"
+      }
+    }
+  ],
+  "ニンジン": [
+    {
+      "de": "Karotte",
+      "gender": "die",
+      "pronunciation": "カロッテ",
+      "forms": {
+        "nominative": "die Karotte",
+        "genitive": "der Karotte",
+        "dative": "der Karotte",
+        "accusative": "die Karotte"
+      },
+      "plural": {
+        "nominative": "die Karotten",
+        "genitive": "der Karotten",
+        "dative": "den Karotten",
+        "accusative": "die Karotten"
+      }
+    }
+  ],
+  "キュウリ": [
+    {
+      "de": "Gurke",
+      "gender": "die",
+      "pronunciation": "グルケ",
+      "forms": {
+        "nominative": "die Gurke",
+        "genitive": "der Gurke",
+        "dative": "der Gurke",
+        "accusative": "die Gurke"
+      },
+      "plural": {
+        "nominative": "die Gurken",
+        "genitive": "der Gurken",
+        "dative": "den Gurken",
+        "accusative": "die Gurken"
+      }
+    }
+  ],
+  "レタス": [
+    {
+      "de": "Salat",
+      "gender": "der",
+      "pronunciation": "ザラート",
+      "forms": {
+        "nominative": "der Salat",
+        "genitive": "des Salates",
+        "dative": "dem Salat",
+        "accusative": "den Salat"
+      },
+      "plural": {
+        "nominative": "die Salate",
+        "genitive": "der Salate",
+        "dative": "den Salaten",
+        "accusative": "die Salate"
+      }
+    }
+  ],
+  "パスタ": [
+    {
+      "de": "Nudeln",
+      "gender": "die",
+      "pronunciation": "ヌーデルン",
+      "forms": {},
+      "plural": {
+        "nominative": "die Nudeln",
+        "genitive": "der Nudeln",
+        "dative": "den Nudeln",
+        "accusative": "die Nudeln"
+      }
+    }
+  ],
+  "ケーキ": [
+    {
+      "de": "Kuchen",
+      "gender": "der",
+      "pronunciation": "クーヘン",
+      "forms": {
+        "nominative": "der Kuchen",
+        "genitive": "des Kuchens",
+        "dative": "dem Kuchen",
+        "accusative": "den Kuchen"
+      },
+      "plural": {
+        "nominative": "die Kuchen",
+        "genitive": "der Kuchen",
+        "dative": "den Kuchen",
+        "accusative": "die Kuchen"
+      }
+    }
+  ],
+  "クッキー": [
+    {
+      "de": "Keks",
+      "gender": "der",
+      "pronunciation": "ケークス",
+      "forms": {
+        "nominative": "der Keks",
+        "genitive": "des Kekses",
+        "dative": "dem Keks",
+        "accusative": "den Keks"
+      },
+      "plural": {
+        "nominative": "die Kekse",
+        "genitive": "der Kekse",
+        "dative": "den Keksen",
+        "accusative": "die Kekse"
+      }
+    }
+  ],
+  "胡椒": [
+    {
+      "de": "Pfeffer",
+      "gender": "der",
+      "pronunciation": "プフェッファー",
+      "forms": {
+        "nominative": "der Pfeffer",
+        "genitive": "des Pfeffers",
+        "dative": "dem Pfeffer",
+        "accusative": "den Pfeffer"
+      },
+      "plural": {}
+    }
+  ],
+  "油": [
+    {
+      "de": "Öl",
+      "gender": "das",
+      "pronunciation": "エル",
+      "forms": {
+        "nominative": "das Öl",
+        "genitive": "des Öles",
+        "dative": "dem Öl",
+        "accusative": "das Öl"
+      },
+      "plural": {
+        "nominative": "die Öle",
+        "genitive": "der Öle",
+        "dative": "den Ölen",
+        "accusative": "die Öle"
+      }
+    }
+  ],
+  "酢": [
+    {
+      "de": "Essig",
+      "gender": "der",
+      "pronunciation": "エッスィヒ",
+      "forms": {
+        "nominative": "der Essig",
+        "genitive": "des Essigs",
+        "dative": "dem Essig",
+        "accusative": "den Essig"
+      },
+      "plural": {}
+    }
+  ],
+  "紅茶": [
+    {
+      "de": "Tee",
+      "gender": "der",
+      "pronunciation": "テー",
+      "forms": {
+        "nominative": "der Tee",
+        "genitive": "des Tees",
+        "dative": "dem Tee",
+        "accusative": "den Tee"
+      },
+      "plural": {
+        "nominative": "die Tees",
+        "genitive": "der Tees",
+        "dative": "den Tees",
+        "accusative": "die Tees"
+      }
+    }
+  ],
+  "料理する": [
+    {
+      "de": "kochen",
+      "pronunciation": "コッヘン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "焼く": [
+    {
+      "de": "backen",
+      "pronunciation": "バッケン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "揚げる": [
+    {
+      "de": "braten",
+      "pronunciation": "ブラーテン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "切る": [
+    {
+      "de": "schneiden",
+      "pronunciation": "シュナイデン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "混ぜる": [
+    {
+      "de": "mischen",
+      "pronunciation": "ミッシェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "洗う": [
+    {
+      "de": "waschen",
+      "pronunciation": "ヴァッシェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "美味しい": [
+    {
+      "de": "lecker",
+      "pronunciation": "レッカー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "お腹が空いた": [
+    {
+      "de": "hungrig",
+      "pronunciation": "フングリヒ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "喉が渇いた": [
+    {
+      "de": "durstig",
+      "pronunciation": "ドゥルスティヒ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "満腹の": [
+    {
+      "de": "satt",
+      "pronunciation": "ザット",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "朝食をとる": [
+    {
+      "de": "frühstücken",
+      "pronunciation": "フリューシュトゥッケン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "昼食をとる": [
+    {
+      "de": "zu Mittag essen",
+      "pronunciation": "ツー ミッターク エッセン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "夕食をとる": [
+    {
+      "de": "zu Abend essen",
+      "pronunciation": "ツー アーベント エッセン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "注文する": [
+    {
+      "de": "bestellen",
+      "pronunciation": "ベシュテレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "支払う": [
+    {
+      "de": "bezahlen",
+      "pronunciation": "ベツァーレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "チップ": [
+    {
+      "de": "Trinkgeld",
+      "gender": "das",
+      "pronunciation": "トリンクゲルト",
+      "forms": {
+        "nominative": "das Trinkgeld",
+        "genitive": "des Trinkgeldes",
+        "dative": "dem Trinkgeld",
+        "accusative": "das Trinkgeld"
+      },
+      "plural": {
+        "nominative": "die Trinkgelder",
+        "genitive": "der Trinkgelder",
+        "dative": "den Trinkgeldern",
+        "accusative": "die Trinkgelder"
+      }
+    }
+  ],
+  "パン屋": [
+    {
+      "de": "Bäckerei",
+      "gender": "die",
+      "pronunciation": "ベッケライ",
+      "forms": {
+        "nominative": "die Bäckerei",
+        "genitive": "der Bäckerei",
+        "dative": "der Bäckerei",
+        "accusative": "die Bäckerei"
+      },
+      "plural": {
+        "nominative": "die Bäckereien",
+        "genitive": "der Bäckereien",
+        "dative": "den Bäckereien",
+        "accusative": "die Bäckereien"
+      }
+    }
+  ],
+  "肉屋": [
+    {
+      "de": "Metzgerei",
+      "gender": "die",
+      "pronunciation": "メッツゲライ",
+      "forms": {
+        "nominative": "die Metzgerei",
+        "genitive": "der Metzgerei",
+        "dative": "der Metzgerei",
+        "accusative": "die Metzgerei"
+      },
+      "plural": {
+        "nominative": "die Metzgereien",
+        "genitive": "der Metzgereien",
+        "dative": "den Metzgereien",
+        "accusative": "die Metzgereien"
+      }
+    }
+  ],
+  "魚屋": [
+    {
+      "de": "Fischgeschäft",
+      "gender": "das",
+      "pronunciation": "フィッシュゲシェフト",
+      "forms": {
+        "nominative": "das Fischgeschäft",
+        "genitive": "des Fischgeschäftes",
+        "dative": "dem Fischgeschäft",
+        "accusative": "das Fischgeschäft"
+      },
+      "plural": {
+        "nominative": "die Fischgeschäfte",
+        "genitive": "der Fischgeschäfte",
+        "dative": "den Fischgeschäften",
+        "accusative": "die Fischgeschäfte"
+      }
+    }
+  ],
+  "市場": [
+    {
+      "de": "Markt",
+      "gender": "der",
+      "pronunciation": "マルクト",
+      "forms": {
+        "nominative": "der Markt",
+        "genitive": "des Marktes",
+        "dative": "dem Markt",
+        "accusative": "den Markt"
+      },
+      "plural": {
+        "nominative": "die Märkte",
+        "genitive": "der Märkte",
+        "dative": "den Märkten",
+        "accusative": "die Märkte"
+      }
+    }
+  ],
+  "買い物リスト": [
+    {
+      "de": "Einkaufszettel",
+      "gender": "der",
+      "pronunciation": "アインカウフスツェッテル",
+      "forms": {
+        "nominative": "der Einkaufszettel",
+        "genitive": "des Einkaufszettels",
+        "dative": "dem Einkaufszettel",
+        "accusative": "den Einkaufszettel"
+      },
+      "plural": {
+        "nominative": "die Einkaufszettel",
+        "genitive": "der Einkaufszettel",
+        "dative": "den Einkaufszetteln",
+        "accusative": "die Einkaufszettel"
+      }
+    }
+  ],
+  "買い物かご": [
+    {
+      "de": "Einkaufskorb",
+      "gender": "der",
+      "pronunciation": "アインカウフスコルプ",
+      "forms": {
+        "nominative": "der Einkaufskorb",
+        "genitive": "des Einkaufskorbes",
+        "dative": "dem Einkaufskorb",
+        "accusative": "den Einkaufskorb"
+      },
+      "plural": {
+        "nominative": "die Einkaufskörbe",
+        "genitive": "der Einkaufskörbe",
+        "dative": "den Einkaufskörben",
+        "accusative": "die Einkaufskörbe"
+      }
+    }
+  ],
+  "レジ": [
+    {
+      "de": "Kasse",
+      "gender": "die",
+      "pronunciation": "カッセ",
+      "forms": {
+        "nominative": "die Kasse",
+        "genitive": "der Kasse",
+        "dative": "der Kasse",
+        "accusative": "die Kasse"
+      },
+      "plural": {
+        "nominative": "die Kassen",
+        "genitive": "der Kassen",
+        "dative": "den Kassen",
+        "accusative": "die Kassen"
+      }
+    }
+  ],
+  "現金": [
+    {
+      "de": "Bargeld",
+      "gender": "das",
+      "pronunciation": "バーゲルト",
+      "forms": {
+        "nominative": "das Bargeld",
+        "genitive": "des Bargeldes",
+        "dative": "dem Bargeld",
+        "accusative": "das Bargeld"
+      },
+      "plural": {}
+    }
+  ],
+  "カード": [
+    {
+      "de": "Karte",
+      "gender": "die",
+      "pronunciation": "カルテ",
+      "forms": {
+        "nominative": "die Karte",
+        "genitive": "der Karte",
+        "dative": "der Karte",
+        "accusative": "die Karte"
+      },
+      "plural": {
+        "nominative": "die Karten",
+        "genitive": "der Karten",
+        "dative": "den Karten",
+        "accusative": "die Karten"
+      }
+    }
+  ],
+  "領収書": [
+    {
+      "de": "Quittung",
+      "gender": "die",
+      "pronunciation": "クヴィットゥング",
+      "forms": {
+        "nominative": "die Quittung",
+        "genitive": "der Quittung",
+        "dative": "der Quittung",
+        "accusative": "die Quittung"
+      },
+      "plural": {
+        "nominative": "die Quittungen",
+        "genitive": "der Quittungen",
+        "dative": "den Quittungen",
+        "accusative": "die Quittungen"
+      }
+    }
+  ],
+  "割引": [
+    {
+      "de": "Rabatt",
+      "gender": "der",
+      "pronunciation": "ラバット",
+      "forms": {
+        "nominative": "der Rabatt",
+        "genitive": "des Rabattes",
+        "dative": "dem Rabatt",
+        "accusative": "den Rabatt"
+      },
+      "plural": {
+        "nominative": "die Rabatte",
+        "genitive": "der Rabatte",
+        "dative": "den Rabatten",
+        "accusative": "die Rabatte"
+      }
+    }
+  ],
+  "セール": [
+    {
+      "de": "Angebot",
+      "gender": "das",
+      "pronunciation": "アンゲボート",
+      "forms": {
+        "nominative": "das Angebot",
+        "genitive": "des Angebots",
+        "dative": "dem Angebot",
+        "accusative": "das Angebot"
+      },
+      "plural": {
+        "nominative": "die Angebote",
+        "genitive": "der Angebote",
+        "dative": "den Angeboten",
+        "accusative": "die Angebote"
+      }
+    }
+  ],
+  "試着室": [
+    {
+      "de": "Umkleidekabine",
+      "gender": "die",
+      "pronunciation": "ウムクライデカビーネ",
+      "forms": {
+        "nominative": "die Umkleidekabine",
+        "genitive": "der Umkleidekabine",
+        "dative": "der Umkleidekabine",
+        "accusative": "die Umkleidekabine"
+      },
+      "plural": {
+        "nominative": "die Umkleidekabinen",
+        "genitive": "der Umkleidekabinen",
+        "dative": "den Umkleidekabinen",
+        "accusative": "die Umkleidekabinen"
+      }
+    }
+  ],
+  "サイズ": [
+    {
+      "de": "Größe",
+      "gender": "die",
+      "pronunciation": "グレーセ",
+      "forms": {
+        "nominative": "die Größe",
+        "genitive": "der Größe",
+        "dative": "der Größe",
+        "accusative": "die Größe"
+      },
+      "plural": {
+        "nominative": "die Größen",
+        "genitive": "der Größen",
+        "dative": "den Größen",
+        "accusative": "die Größen"
+      }
+    }
+  ],
+  "色": [
+    {
+      "de": "Farbe",
+      "gender": "die",
+      "pronunciation": "ファルベ",
+      "forms": {
+        "nominative": "die Farbe",
+        "genitive": "der Farbe",
+        "dative": "der Farbe",
+        "accusative": "die Farbe"
+      },
+      "plural": {
+        "nominative": "die Farben",
+        "genitive": "der Farben",
+        "dative": "den Farben",
+        "accusative": "die Farben"
+      }
+    }
+  ],
+  "服": [
+    {
+      "de": "Kleidung",
+      "gender": "die",
+      "pronunciation": "クライドゥング",
+      "forms": {
+        "nominative": "die Kleidung",
+        "genitive": "der Kleidung",
+        "dative": "der Kleidung",
+        "accusative": "die Kleidung"
+      },
+      "plural": {}
+    }
+  ],
+  "シャツ": [
+    {
+      "de": "Hemd",
+      "gender": "das",
+      "pronunciation": "ヘムト",
+      "forms": {
+        "nominative": "das Hemd",
+        "genitive": "des Hemdes",
+        "dative": "dem Hemd",
+        "accusative": "das Hemd"
+      },
+      "plural": {
+        "nominative": "die Hemden",
+        "genitive": "der Hemden",
+        "dative": "den Hemden",
+        "accusative": "die Hemden"
+      }
+    }
+  ],
+  "ズボン": [
+    {
+      "de": "Hose",
+      "gender": "die",
+      "pronunciation": "ホーゼ",
+      "forms": {
+        "nominative": "die Hose",
+        "genitive": "der Hose",
+        "dative": "der Hose",
+        "accusative": "die Hose"
+      },
+      "plural": {
+        "nominative": "die Hosen",
+        "genitive": "der Hosen",
+        "dative": "den Hosen",
+        "accusative": "die Hosen"
+      }
+    }
+  ],
+  "スカート": [
+    {
+      "de": "Rock",
+      "gender": "der",
+      "pronunciation": "ロック",
+      "forms": {
+        "nominative": "der Rock",
+        "genitive": "des Rockes",
+        "dative": "dem Rock",
+        "accusative": "den Rock"
+      },
+      "plural": {
+        "nominative": "die Röcke",
+        "genitive": "der Röcke",
+        "dative": "den Röcken",
+        "accusative": "die Röcke"
+      }
+    }
+  ],
+  "ドレス": [
+    {
+      "de": "Kleid",
+      "gender": "das",
+      "pronunciation": "クライト",
+      "forms": {
+        "nominative": "das Kleid",
+        "genitive": "des Kleides",
+        "dative": "dem Kleid",
+        "accusative": "das Kleid"
+      },
+      "plural": {
+        "nominative": "die Kleider",
+        "genitive": "der Kleider",
+        "dative": "den Kleidern",
+        "accusative": "die Kleider"
+      }
+    }
+  ],
+  "ジャケット": [
+    {
+      "de": "Jacke",
+      "gender": "die",
+      "pronunciation": "ヤッケ",
+      "forms": {
+        "nominative": "die Jacke",
+        "genitive": "der Jacke",
+        "dative": "der Jacke",
+        "accusative": "die Jacke"
+      },
+      "plural": {
+        "nominative": "die Jacken",
+        "genitive": "der Jacken",
+        "dative": "den Jacken",
+        "accusative": "die Jacken"
+      }
+    }
+  ],
+  "コート": [
+    {
+      "de": "Mantel",
+      "gender": "der",
+      "pronunciation": "マンテル",
+      "forms": {
+        "nominative": "der Mantel",
+        "genitive": "des Mantels",
+        "dative": "dem Mantel",
+        "accusative": "den Mantel"
+      },
+      "plural": {
+        "nominative": "die Mäntel",
+        "genitive": "der Mäntel",
+        "dative": "den Mänteln",
+        "accusative": "die Mäntel"
+      }
+    }
+  ],
+  "靴": [
+    {
+      "de": "Schuh",
+      "gender": "der",
+      "pronunciation": "シュー",
+      "forms": {
+        "nominative": "der Schuh",
+        "genitive": "des Schuhes",
+        "dative": "dem Schuh",
+        "accusative": "den Schuh"
+      },
+      "plural": {
+        "nominative": "die Schuhe",
+        "genitive": "der Schuhe",
+        "dative": "den Schuhen",
+        "accusative": "die Schuhe"
+      }
+    }
+  ],
+  "靴下": [
+    {
+      "de": "Socke",
+      "gender": "die",
+      "pronunciation": "ゾッケ",
+      "forms": {
+        "nominative": "die Socke",
+        "genitive": "der Socke",
+        "dative": "der Socke",
+        "accusative": "die Socke"
+      },
+      "plural": {
+        "nominative": "die Socken",
+        "genitive": "der Socken",
+        "dative": "den Socken",
+        "accusative": "die Socken"
+      }
+    }
+  ],
+  "帽子": [
+    {
+      "de": "Hut",
+      "gender": "der",
+      "pronunciation": "フート",
+      "forms": {
+        "nominative": "der Hut",
+        "genitive": "des Hutes",
+        "dative": "dem Hut",
+        "accusative": "den Hut"
+      },
+      "plural": {
+        "nominative": "die Hüte",
+        "genitive": "der Hüte",
+        "dative": "den Hüten",
+        "accusative": "die Hüte"
+      }
+    }
+  ],
+  "手袋": [
+    {
+      "de": "Handschuh",
+      "gender": "der",
+      "pronunciation": "ハンチュウ",
+      "forms": {
+        "nominative": "der Handschuh",
+        "genitive": "des Handschuhes",
+        "dative": "dem Handschuh",
+        "accusative": "den Handschuh"
+      },
+      "plural": {
+        "nominative": "die Handschuhe",
+        "genitive": "der Handschuhe",
+        "dative": "den Handschuhen",
+        "accusative": "die Handschuhe"
+      }
+    }
+  ],
+  "眼鏡": [
+    {
+      "de": "Brille",
+      "gender": "die",
+      "pronunciation": "ブリレ",
+      "forms": {
+        "nominative": "die Brille",
+        "genitive": "der Brille",
+        "dative": "der Brille",
+        "accusative": "die Brille"
+      },
+      "plural": {
+        "nominative": "die Brillen",
+        "genitive": "der Brillen",
+        "dative": "den Brillen",
+        "accusative": "die Brillen"
+      }
+    }
+  ],
+  "時計": [
+    {
+      "de": "Uhr",
+      "gender": "die",
+      "pronunciation": "ウーア",
+      "forms": {
+        "nominative": "die Uhr",
+        "genitive": "der Uhr",
+        "dative": "der Uhr",
+        "accusative": "die Uhr"
+      },
+      "plural": {
+        "nominative": "die Uhren",
+        "genitive": "der Uhren",
+        "dative": "den Uhren",
+        "accusative": "die Uhren"
+      }
+    }
+  ],
+  "鍵": [
+    {
+      "de": "Schlüssel",
+      "gender": "der",
+      "pronunciation": "シュリュッセル",
+      "forms": {
+        "nominative": "der Schlüssel",
+        "genitive": "des Schlüssels",
+        "dative": "dem Schlüssel",
+        "accusative": "den Schlüssel"
+      },
+      "plural": {
+        "nominative": "die Schlüssel",
+        "genitive": "der Schlüssel",
+        "dative": "den Schlüsseln",
+        "accusative": "die Schlüssel"
+      }
+    }
+  ],
+  "財布": [
+    {
+      "de": "Geldbeutel",
+      "gender": "der",
+      "pronunciation": "ゲルトボイテル",
+      "forms": {
+        "nominative": "der Geldbeutel",
+        "genitive": "des Geldbeutels",
+        "dative": "dem Geldbeutel",
+        "accusative": "den Geldbeutel"
+      },
+      "plural": {
+        "nominative": "die Geldbeutel",
+        "genitive": "der Geldbeutel",
+        "dative": "den Geldbeuteln",
+        "accusative": "die Geldbeutel"
+      }
+    }
+  ],
+  "バッグ": [
+    {
+      "de": "Tasche",
+      "gender": "die",
+      "pronunciation": "タッシェ",
+      "forms": {
+        "nominative": "die Tasche",
+        "genitive": "der Tasche",
+        "dative": "der Tasche",
+        "accusative": "die Tasche"
+      },
+      "plural": {
+        "nominative": "die Taschen",
+        "genitive": "der Taschen",
+        "dative": "den Taschen",
+        "accusative": "die Taschen"
+      }
+    }
+  ],
+  "傘": [
+    {
+      "de": "Regenschirm",
+      "gender": "der",
+      "pronunciation": "レーゲンシルム",
+      "forms": {
+        "nominative": "der Regenschirm",
+        "genitive": "des Regenschirmes",
+        "dative": "dem Regenschirm",
+        "accusative": "den Regenschirm"
+      },
+      "plural": {
+        "nominative": "die Regenschirme",
+        "genitive": "der Regenschirme",
+        "dative": "den Regenschirmen",
+        "accusative": "die Regenschirme"
+      }
+    }
+  ],
+  "新聞": [
+    {
+      "de": "Zeitung",
+      "gender": "die",
+      "pronunciation": "ツァイトゥング",
+      "forms": {
+        "nominative": "die Zeitung",
+        "genitive": "der Zeitung",
+        "dative": "der Zeitung",
+        "accusative": "die Zeitung"
+      },
+      "plural": {
+        "nominative": "die Zeitungen",
+        "genitive": "der Zeitungen",
+        "dative": "den Zeitungen",
+        "accusative": "die Zeitungen"
+      }
+    }
+  ],
+  "雑誌": [
+    {
+      "de": "Zeitschrift",
+      "gender": "die",
+      "pronunciation": "ツァイトシュリフト",
+      "forms": {
+        "nominative": "die Zeitschrift",
+        "genitive": "der Zeitschrift",
+        "dative": "der Zeitschrift",
+        "accusative": "die Zeitschrift"
+      },
+      "plural": {
+        "nominative": "die Zeitschriften",
+        "genitive": "der Zeitschriften",
+        "dative": "den Zeitschriften",
+        "accusative": "die Zeitschriften"
+      }
+    }
+  ],
+  "手紙": [
+    {
+      "de": "Brief",
+      "gender": "der",
+      "pronunciation": "ブリーフ",
+      "forms": {
+        "nominative": "der Brief",
+        "genitive": "des Briefes",
+        "dative": "dem Brief",
+        "accusative": "den Brief"
+      },
+      "plural": {
+        "nominative": "die Briefe",
+        "genitive": "der Briefe",
+        "dative": "den Briefen",
+        "accusative": "die Briefe"
+      }
+    }
+  ],
+  "切手": [
+    {
+      "de": "Briefmarke",
+      "gender": "die",
+      "pronunciation": "ブリーフマルケ",
+      "forms": {
+        "nominative": "die Briefmarke",
+        "genitive": "der Briefmarke",
+        "dative": "der Briefmarke",
+        "accusative": "die Briefmarke"
+      },
+      "plural": {
+        "nominative": "die Briefmarken",
+        "genitive": "der Briefmarken",
+        "dative": "den Briefmarken",
+        "accusative": "die Briefmarken"
+      }
+    }
+  ],
+  "郵便局": [
+    {
+      "de": "Postamt",
+      "gender": "das",
+      "pronunciation": "ポストアムト",
+      "forms": {
+        "nominative": "das Postamt",
+        "genitive": "des Postamtes",
+        "dative": "dem Postamt",
+        "accusative": "das Postamt"
+      },
+      "plural": {
+        "nominative": "die Postämter",
+        "genitive": "der Postämter",
+        "dative": "den Postämtern",
+        "accusative": "die Postämter"
+      }
+    }
+  ],
+  "薬": [
+    {
+      "de": "Medikament",
+      "gender": "das",
+      "pronunciation": "メディカメント",
+      "forms": {
+        "nominative": "das Medikament",
+        "genitive": "des Medikamentes",
+        "dative": "dem Medikament",
+        "accusative": "das Medikament"
+      },
+      "plural": {
+        "nominative": "die Medikamente",
+        "genitive": "der Medikamente",
+        "dative": "den Medikamenten",
+        "accusative": "die Medikamente"
+      }
+    }
+  ],
+  "消防署": [
+    {
+      "de": "Feuerwehr",
+      "gender": "die",
+      "pronunciation": "フォイアーヴェーア",
+      "forms": {
+        "nominative": "die Feuerwehr",
+        "genitive": "der Feuerwehr",
+        "dative": "der Feuerwehr",
+        "accusative": "die Feuerwehr"
+      },
+      "plural": {
+        "nominative": "die Feuerwehren",
+        "genitive": "der Feuerwehren",
+        "dative": "den Feuerwehren",
+        "accusative": "die Feuerwehren"
+      }
+    }
+  ],
+  "市役所": [
+    {
+      "de": "Rathaus",
+      "gender": "das",
+      "pronunciation": "ラートハウス",
+      "forms": {
+        "nominative": "das Rathaus",
+        "genitive": "des Rathauses",
+        "dative": "dem Rathaus",
+        "accusative": "das Rathaus"
+      },
+      "plural": {
+        "nominative": "die Rathäuser",
+        "genitive": "der Rathäuser",
+        "dative": "den Rathäusern",
+        "accusative": "die Rathäuser"
+      }
+    }
+  ],
+  "博物館": [
+    {
+      "de": "Museum",
+      "gender": "das",
+      "pronunciation": "ムゼーウム",
+      "forms": {
+        "nominative": "das Museum",
+        "genitive": "des Museums",
+        "dative": "dem Museum",
+        "accusative": "das Museum"
+      },
+      "plural": {
+        "nominative": "die Museen",
+        "genitive": "der Museen",
+        "dative": "den Museen",
+        "accusative": "die Museen"
+      }
+    }
+  ],
+  "映画館": [
+    {
+      "de": "Kino",
+      "gender": "das",
+      "pronunciation": "キーノ",
+      "forms": {
+        "nominative": "das Kino",
+        "genitive": "des Kinos",
+        "dative": "dem Kino",
+        "accusative": "das Kino"
+      },
+      "plural": {
+        "nominative": "die Kinos",
+        "genitive": "der Kinos",
+        "dative": "den Kinos",
+        "accusative": "die Kinos"
+      }
+    }
+  ],
+  "図書館": [
+    {
+      "de": "Bibliothek",
+      "gender": "die",
+      "pronunciation": "ビブリオテーク",
+      "forms": {
+        "nominative": "die Bibliothek",
+        "genitive": "der Bibliothek",
+        "dative": "der Bibliothek",
+        "accusative": "die Bibliothek"
+      },
+      "plural": {
+        "nominative": "die Bibliotheken",
+        "genitive": "der Bibliotheken",
+        "dative": "den Bibliotheken",
+        "accusative": "die Bibliotheken"
+      }
+    }
+  ],
+  "広場": [
+    {
+      "de": "Platz",
+      "gender": "der",
+      "pronunciation": "プラッツ",
+      "forms": {
+        "nominative": "der Platz",
+        "genitive": "des Platzes",
+        "dative": "dem Platz",
+        "accusative": "den Platz"
+      },
+      "plural": {
+        "nominative": "die Plätze",
+        "genitive": "der Plätze",
+        "dative": "den Plätzen",
+        "accusative": "die Plätze"
+      }
+    }
+  ],
+  "トイレ": [
+    {
+      "de": "Toilette",
+      "gender": "die",
+      "pronunciation": "トアレッテ",
+      "forms": {
+        "nominative": "die Toilette",
+        "genitive": "der Toilette",
+        "dative": "der Toilette",
+        "accusative": "die Toilette"
+      },
+      "plural": {
+        "nominative": "die Toiletten",
+        "genitive": "der Toiletten",
+        "dative": "den Toiletten",
+        "accusative": "die Toiletten"
+      }
+    }
+  ],
+  "バルコニー": [
+    {
+      "de": "Balkon",
+      "gender": "der",
+      "pronunciation": "バルコン",
+      "forms": {
+        "nominative": "der Balkon",
+        "genitive": "des Balkons",
+        "dative": "dem Balkon",
+        "accusative": "den Balkon"
+      },
+      "plural": {
+        "nominative": "die Balkone",
+        "genitive": "der Balkone",
+        "dative": "den Balkonen",
+        "accusative": "die Balkone"
+      }
+    }
+  ],
+  "階段": [
+    {
+      "de": "Treppe",
+      "gender": "die",
+      "pronunciation": "トレッペ",
+      "forms": {
+        "nominative": "die Treppe",
+        "genitive": "der Treppe",
+        "dative": "der Treppe",
+        "accusative": "die Treppe"
+      },
+      "plural": {
+        "nominative": "die Treppen",
+        "genitive": "der Treppen",
+        "dative": "den Treppen",
+        "accusative": "die Treppen"
+      }
+    }
+  ],
+  "電気": [
+    {
+      "de": "Licht",
+      "gender": "das",
+      "pronunciation": "リヒト",
+      "forms": {
+        "nominative": "das Licht",
+        "genitive": "des Lichtes",
+        "dative": "dem Licht",
+        "accusative": "das Licht"
+      },
+      "plural": {
+        "nominative": "die Lichter",
+        "genitive": "der Lichter",
+        "dative": "den Lichtern",
+        "accusative": "die Lichter"
+      }
+    }
+  ],
+  "ゴミ": [
+    {
+      "de": "Müll",
+      "gender": "der",
+      "pronunciation": "ミュル",
+      "forms": {
+        "nominative": "der Müll",
+        "genitive": "des Mülls",
+        "dative": "dem Müll",
+        "accusative": "den Müll"
+      },
+      "plural": {}
+    }
+  ],
+  "ゴミ箱": [
+    {
+      "de": "Mülleimer",
+      "gender": "der",
+      "pronunciation": "ミュルアイマー",
+      "forms": {
+        "nominative": "der Mülleimer",
+        "genitive": "des Mülleimers",
+        "dative": "dem Mülleimer",
+        "accusative": "den Mülleimer"
+      },
+      "plural": {
+        "nominative": "die Mülleimer",
+        "genitive": "der Mülleimer",
+        "dative": "den Mülleimern",
+        "accusative": "die Mülleimer"
+      }
+    }
+  ],
+  "掃除機": [
+    {
+      "de": "Staubsauger",
+      "gender": "der",
+      "pronunciation": "シュタウプザウガー",
+      "forms": {
+        "nominative": "der Staubsauger",
+        "genitive": "des Staubsaugers",
+        "dative": "dem Staubsauger",
+        "accusative": "den Staubsauger"
+      },
+      "plural": {
+        "nominative": "die Staubsauger",
+        "genitive": "der Staubsauger",
+        "dative": "den Staubsaugern",
+        "accusative": "die Staubsauger"
+      }
+    }
+  ],
+  "洗濯機": [
+    {
+      "de": "Waschmaschine",
+      "gender": "die",
+      "pronunciation": "ヴァッシュマシーネ",
+      "forms": {
+        "nominative": "die Waschmaschine",
+        "genitive": "der Waschmaschine",
+        "dative": "der Waschmaschine",
+        "accusative": "die Waschmaschine"
+      },
+      "plural": {
+        "nominative": "die Waschmaschinen",
+        "genitive": "der Waschmaschinen",
+        "dative": "den Waschmaschinen",
+        "accusative": "die Waschmaschinen"
+      }
+    }
+  ],
+  "乾燥機": [
+    {
+      "de": "Trockner",
+      "gender": "der",
+      "pronunciation": "トロックナー",
+      "forms": {
+        "nominative": "der Trockner",
+        "genitive": "des Trockners",
+        "dative": "dem Trockner",
+        "accusative": "den Trockner"
+      },
+      "plural": {
+        "nominative": "die Trockner",
+        "genitive": "der Trockner",
+        "dative": "den Trocknern",
+        "accusative": "die Trockner"
+      }
+    }
+  ],
+  "アイロン": [
+    {
+      "de": "Bügeleisen",
+      "gender": "das",
+      "pronunciation": "ビューゲルアイゼン",
+      "forms": {
+        "nominative": "das Bügeleisen",
+        "genitive": "des Bügeleisens",
+        "dative": "dem Bügeleisen",
+        "accusative": "das Bügeleisen"
+      },
+      "plural": {
+        "nominative": "die Bügeleisen",
+        "genitive": "der Bügeleisen",
+        "dative": "den Bügeleisen",
+        "accusative": "die Bügeleisen"
+      }
+    }
+  ],
+  "シャンプー": [
+    {
+      "de": "Shampoo",
+      "gender": "das",
+      "pronunciation": "シャンプー",
+      "forms": {
+        "nominative": "das Shampoo",
+        "genitive": "des Shampoos",
+        "dative": "dem Shampoo",
+        "accusative": "das Shampoo"
+      },
+      "plural": {
+        "nominative": "die Shampoos",
+        "genitive": "der Shampoos",
+        "dative": "den Shampoos",
+        "accusative": "die Shampoos"
+      }
+    }
+  ],
+  "歯ブラシ": [
+    {
+      "de": "Zahnbürste",
+      "gender": "die",
+      "pronunciation": "ツァーンビュルステ",
+      "forms": {
+        "nominative": "die Zahnbürste",
+        "genitive": "der Zahnbürste",
+        "dative": "der Zahnbürste",
+        "accusative": "die Zahnbürste"
+      },
+      "plural": {
+        "nominative": "die Zahnbürsten",
+        "genitive": "der Zahnbürsten",
+        "dative": "den Zahnbürsten",
+        "accusative": "die Zahnbürsten"
+      }
+    }
+  ],
+  "歯磨き粉": [
+    {
+      "de": "Zahnpasta",
+      "gender": "die",
+      "pronunciation": "ツァーンパスタ",
+      "forms": {
+        "nominative": "die Zahnpasta",
+        "genitive": "der Zahnpasta",
+        "dative": "der Zahnpasta",
+        "accusative": "die Zahnpasta"
+      },
+      "plural": {}
+    }
+  ],
+  "タオル": [
+    {
+      "de": "Handtuch",
+      "gender": "das",
+      "pronunciation": "ハントゥーフ",
+      "forms": {
+        "nominative": "das Handtuch",
+        "genitive": "des Handtuches",
+        "dative": "dem Handtuch",
+        "accusative": "das Handtuch"
+      },
+      "plural": {
+        "nominative": "die Handtücher",
+        "genitive": "der Handtücher",
+        "dative": "den Handtüchern",
+        "accusative": "die Handtücher"
+      }
+    }
+  ],
+  "鏡": [
+    {
+      "de": "Spiegel",
+      "gender": "der",
+      "pronunciation": "シュピーゲル",
+      "forms": {
+        "nominative": "der Spiegel",
+        "genitive": "des Spiegels",
+        "dative": "dem Spiegel",
+        "accusative": "den Spiegel"
+      },
+      "plural": {
+        "nominative": "die Spiegel",
+        "genitive": "der Spiegel",
+        "dative": "den Spiegeln",
+        "accusative": "die Spiegel"
+      }
+    }
+  ],
+  "枕": [
+    {
+      "de": "Kissen",
+      "gender": "das",
+      "pronunciation": "キッセン",
+      "forms": {
+        "nominative": "das Kissen",
+        "genitive": "des Kissens",
+        "dative": "dem Kissen",
+        "accusative": "das Kissen"
+      },
+      "plural": {
+        "nominative": "die Kissen",
+        "genitive": "der Kissen",
+        "dative": "den Kissen",
+        "accusative": "die Kissen"
+      }
+    }
+  ],
+  "毛布": [
+    {
+      "de": "Decke",
+      "gender": "die",
+      "pronunciation": "デッケ",
+      "forms": {
+        "nominative": "die Decke",
+        "genitive": "der Decke",
+        "dative": "der Decke",
+        "accusative": "die Decke"
+      },
+      "plural": {
+        "nominative": "die Decken",
+        "genitive": "der Decken",
+        "dative": "den Decken",
+        "accusative": "die Decken"
+      }
+    }
+  ],
+  "シーツ": [
+    {
+      "de": "Bettlaken",
+      "gender": "das",
+      "pronunciation": "ベットラーケン",
+      "forms": {
+        "nominative": "das Bettlaken",
+        "genitive": "des Bettlakens",
+        "dative": "dem Bettlaken",
+        "accusative": "das Bettlaken"
+      },
+      "plural": {
+        "nominative": "die Bettlaken",
+        "genitive": "der Bettlaken",
+        "dative": "den Bettlaken",
+        "accusative": "die Bettlaken"
+      }
+    }
+  ],
+  "目覚まし時計": [
+    {
+      "de": "Wecker",
+      "gender": "der",
+      "pronunciation": "ヴェッカー",
+      "forms": {
+        "nominative": "der Wecker",
+        "genitive": "des Weckers",
+        "dative": "dem Wecker",
+        "accusative": "den Wecker"
+      },
+      "plural": {
+        "nominative": "die Wecker",
+        "genitive": "der Wecker",
+        "dative": "den Weckern",
+        "accusative": "die Wecker"
+      }
+    }
+  ],
+  "洗濯": [
+    {
+      "de": "Wäsche",
+      "gender": "die",
+      "pronunciation": "ヴェッシェ",
+      "forms": {
+        "nominative": "die Wäsche",
+        "genitive": "der Wäsche",
+        "dative": "der Wäsche",
+        "accusative": "die Wäsche"
+      },
+      "plural": {}
+    }
+  ],
+  "アイロンをかける": [
+    {
+      "de": "bügeln",
+      "pronunciation": "ビューゲルン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "着る": [
+    {
+      "de": "anziehen",
+      "pronunciation": "アンツィーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "脱ぐ": [
+    {
+      "de": "ausziehen",
+      "pronunciation": "アウスツィーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "シャワーを浴びる": [
+    {
+      "de": "duschen",
+      "pronunciation": "ドゥッシェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "歯を磨く": [
+    {
+      "de": "Zähne putzen",
+      "pronunciation": "ツェーネ プッツェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "売る": [
+    {
+      "de": "verkaufen",
+      "pronunciation": "フェアカウフェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "助ける": [
+    {
+      "de": "helfen",
+      "pronunciation": "ヘルフェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "待つ": [
+    {
+      "de": "warten",
+      "pronunciation": "ヴァルテン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "探す": [
+    {
+      "de": "suchen",
+      "pronunciation": "ズーヘン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "開ける": [
+    {
+      "de": "öffnen",
+      "pronunciation": "エフネン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "閉める": [
+    {
+      "de": "schließen",
+      "pronunciation": "シュリーセン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "始める": [
+    {
+      "de": "beginnen",
+      "pronunciation": "ベギネン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "終わる": [
+    {
+      "de": "enden",
+      "pronunciation": "エンデン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜を始める": [
+    {
+      "de": "anfangen",
+      "pronunciation": "アンファンゲン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜をやめる": [
+    {
+      "de": "aufhören",
+      "pronunciation": "アウフヘーレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "忘れる": [
+    {
+      "de": "vergessen",
+      "pronunciation": "フェアゲッセン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "覚えている": [
+    {
+      "de": "erinnern",
+      "pronunciation": "エリンネルン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "理解する": [
+    {
+      "de": "verstehen",
+      "pronunciation": "フェアシュテーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "知っている": [
+    {
+      "de": "wissen",
+      "pronunciation": "ヴィッセン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "考える": [
+    {
+      "de": "denken",
+      "pronunciation": "デンケン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "信じる": [
+    {
+      "de": "glauben",
+      "pronunciation": "グラウベン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "感じる": [
+    {
+      "de": "fühlen",
+      "pronunciation": "フューレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "愛する": [
+    {
+      "de": "lieben",
+      "pronunciation": "リーベン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "好きである": [
+    {
+      "de": "mögen",
+      "pronunciation": "メーゲン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜したい": [
+    {
+      "de": "wollen",
+      "pronunciation": "ヴォレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜できる": [
+    {
+      "de": "können",
+      "pronunciation": "ケネン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜しなければならない": [
+    {
+      "de": "müssen",
+      "pronunciation": "ミュッセン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜してもよい": [
+    {
+      "de": "dürfen",
+      "pronunciation": "デュルフェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜することになっている": [
+    {
+      "de": "sollen",
+      "pronunciation": "ゾレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜したいと思う": [
+    {
+      "de": "möchten",
+      "pronunciation": "メヒテン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜である": [
+    {
+      "de": "sein",
+      "pronunciation": "ザイン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜を持っている": [
+    {
+      "de": "haben",
+      "pronunciation": "ハーベン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜になる": [
+    {
+      "de": "werden",
+      "pronunciation": "ヴェルデン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜する": [
+    {
+      "de": "tun",
+      "pronunciation": "トゥーン",
       "forms": {},
       "plural": {}
     }

@@ -12,7 +12,9 @@ def convert_dictionary():
         '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_B2_1.json',
         '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_C1_1.json',
         '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_C2_1.json',
-        '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_additional.json' # これを追加
+        '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_additional.json',
+        '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_daily_life_1.json',
+        '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_eating_1.json' # これを追加
     ]
 
     for file_path in dictionary_files:

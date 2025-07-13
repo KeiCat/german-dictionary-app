@@ -1,0 +1,599 @@
+{
+  "ドア": [
+    {
+      "de": "Tür",
+      "gender": "die",
+      "pronunciation": "テューア",
+      "forms": {
+        "nominative": "die Tür",
+        "genitive": "der Tür",
+        "dative": "der Tür",
+        "accusative": "die Tür"
+      },
+      "plural": {
+        "nominative": "die Türen",
+        "genitive": "der Türen",
+        "dative": "den Türen",
+        "accusative": "die Türen"
+      }
+    }
+  ],
+  "窓": [
+    {
+      "de": "Fenster",
+      "gender": "das",
+      "pronunciation": "フェンスター",
+      "forms": {
+        "nominative": "das Fenster",
+        "genitive": "des Fensters",
+        "dative": "dem Fenster",
+        "accusative": "das Fenster"
+      },
+      "plural": {
+        "nominative": "die Fenster",
+        "genitive": "der Fenster",
+        "dative": "den Fenstern",
+        "accusative": "die Fenster"
+      }
+    }
+  ],
+  "木": [
+    {
+      "de": "Baum",
+      "gender": "der",
+      "pronunciation": "バウム",
+      "forms": {
+        "nominative": "der Baum",
+        "genitive": "des Baumes",
+        "dative": "dem Baum",
+        "accusative": "den Baum"
+      },
+      "plural": {
+        "nominative": "die Bäume",
+        "genitive": "der Bäume",
+        "dative": "den Bäumen",
+        "accusative": "die Bäume"
+      }
+    }
+  ],
+  "花": [
+    {
+      "de": "Blume",
+      "gender": "die",
+      "pronunciation": "ブルーメ",
+      "forms": {
+        "nominative": "die Blume",
+        "genitive": "der Blume",
+        "dative": "der Blume",
+        "accusative": "die Blume"
+      },
+      "plural": {
+        "nominative": "die Blumen",
+        "genitive": "der Blumen",
+        "dative": "den Blumen",
+        "accusative": "die Blumen"
+      }
+    }
+  ],
+  "食べ物": [
+    {
+      "de": "Essen",
+      "gender": "das",
+      "pronunciation": "エッセン",
+      "forms": {
+        "nominative": "das Essen",
+        "genitive": "des Essens",
+        "dative": "dem Essen",
+        "accusative": "das Essen"
+      },
+      "plural": {
+        "nominative": "die Essen",
+        "genitive": "der Essen",
+        "dative": "den Essen",
+        "accusative": "die Essen"
+      }
+    }
+  ],
+  "夜": [
+    {
+      "de": "Nacht",
+      "gender": "die",
+      "pronunciation": "ナハト",
+      "forms": {
+        "nominative": "die Nacht",
+        "genitive": "der Nacht",
+        "dative": "der Nacht",
+        "accusative": "die Nacht"
+      },
+      "plural": {
+        "nominative": "die Nächte",
+        "genitive": "der Nächte",
+        "dative": "den Nächten",
+        "accusative": "die Nächte"
+      }
+    }
+  ],
+  "携帯電話": [
+    {
+      "de": "Handy",
+      "gender": "das",
+      "pronunciation": "ハンディ",
+      "forms": {
+        "nominative": "das Handy",
+        "genitive": "des Handys",
+        "dative": "dem Handy",
+        "accusative": "das Handy"
+      },
+      "plural": {
+        "nominative": "die Handys",
+        "genitive": "der Handys",
+        "dative": "den Handys",
+        "accusative": "die Handys"
+      }
+    }
+  ],
+  "音楽": [
+    {
+      "de": "Musik",
+      "gender": "die",
+      "pronunciation": "ムズィーク",
+      "forms": {
+        "nominative": "die Musik",
+        "genitive": "der Musik",
+        "dative": "der Musik",
+        "accusative": "die Musik"
+      },
+      "plural": {}
+    }
+  ],
+  "猫": [
+    {
+      "de": "Katze",
+      "gender": "die",
+      "pronunciation": "カッツェ",
+      "forms": {
+        "nominative": "die Katze",
+        "genitive": "der Katze",
+        "dative": "der Katze",
+        "accusative": "die Katze"
+      },
+      "plural": {
+        "nominative": "die Katzen",
+        "genitive": "der Katzen",
+        "dative": "den Katzen",
+        "accusative": "die Katzen"
+      }
+    }
+  ],
+  "〜から": [
+    {
+      "de": "ab",
+      "pronunciation": "アプ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "しかし": [
+    {
+      "de": "aber",
+      "pronunciation": "アーバー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "出発する": [
+    {
+      "de": "abfahren",
+      "pronunciation": "アプファーレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "手渡す": [
+    {
+      "de": "abgeben",
+      "pronunciation": "アプゲーベン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "迎えに行く": [
+    {
+      "de": "abholen",
+      "pronunciation": "アプホーレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "注意": [
+    {
+      "de": "Achtung",
+      "pronunciation": "アハトゥング",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "全て": [
+    {
+      "de": "all-",
+      "pronunciation": "アル",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "一人で": [
+    {
+      "de": "allein",
+      "pronunciation": "アライン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "したがって": [
+    {
+      "de": "also",
+      "pronunciation": "アルゾー",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜に": [
+    {
+      "de": "an",
+      "pronunciation": "アン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "クリックする": [
+    {
+      "de": "anklicken",
+      "pronunciation": "アンクリッケン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "到着する": [
+    {
+      "de": "ankommen",
+      "pronunciation": "アンコメン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "チェックする": [
+    {
+      "de": "ankreuzen",
+      "pronunciation": "アンクロイツェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電源を入れる": [
+    {
+      "de": "anmachen",
+      "pronunciation": "アンマッヘン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "登録する": [
+    {
+      "de": "anmelden",
+      "pronunciation": "アンメルデン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電話をかける": [
+    {
+      "de": "anrufen",
+      "pronunciation": "アンルーフェン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電源が入っている": [
+    {
+      "de": "an sein",
+      "pronunciation": "アン ザイン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "答える": [
+    {
+      "de": "antworten",
+      "pronunciation": "アントヴォルテン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "着替える": [
+    {
+      "de": "anziehen",
+      "pronunciation": "アンツィーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "食欲": [
+    {
+      "de": "Appetit",
+      "gender": "der",
+      "pronunciation": "アペティート",
+      "forms": {
+        "nominative": "der Appetit",
+        "genitive": "des Appetits",
+        "dative": "dem Appetit",
+        "accusative": "den Appetit"
+      },
+      "plural": {}
+    }
+  ],
+  "失業中の": [
+    {
+      "de": "arbeitslos",
+      "pronunciation": "アルバイツロース",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "〜の上に": [
+    {
+      "de": "auf",
+      "pronunciation": "アウフ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "やめる": [
+    {
+      "de": "aufhören",
+      "pronunciation": "アウフヘーレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "開いている": [
+    {
+      "de": "auf sein",
+      "pronunciation": "アウフ ザイン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "起きる": [
+    {
+      "de": "aufstehen",
+      "pronunciation": "アウフシュテーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "エレベーター": [
+    {
+      "de": "Aufzug",
+      "gender": "der",
+      "pronunciation": "アウフツーク",
+      "forms": {
+        "nominative": "der Aufzug",
+        "genitive": "des Aufzuges",
+        "dative": "dem Aufzug",
+        "accusative": "den Aufzug"
+      },
+      "plural": {
+        "nominative": "die Aufzüge",
+        "genitive": "der Aufzüge",
+        "dative": "den Aufzügen",
+        "accusative": "die Aufzüge"
+      }
+    }
+  ],
+  "〜から（出身）": [
+    {
+      "de": "aus",
+      "pronunciation": "アウス",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "小旅行": [
+    {
+      "de": "Ausflug",
+      "gender": "der",
+      "pronunciation": "アウスフルーク",
+      "forms": {
+        "nominative": "der Ausflug",
+        "genitive": "des Ausfluges",
+        "dative": "dem Ausflug",
+        "accusative": "den Ausflug"
+      },
+      "plural": {
+        "nominative": "die Ausflüge",
+        "genitive": "der Ausflüge",
+        "dative": "den Ausflügen",
+        "accusative": "die Ausflüge"
+      }
+    }
+  ],
+  "記入する": [
+    {
+      "de": "ausfüllen",
+      "pronunciation": "アウスフュレン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "情報": [
+    {
+      "de": "Auskunft",
+      "gender": "die",
+      "pronunciation": "アウスクンフト",
+      "forms": {
+        "nominative": "die Auskunft",
+        "genitive": "der Auskunft",
+        "dative": "der Auskunft",
+        "accusative": "die Auskunft"
+      },
+      "plural": {}
+    }
+  ],
+  "外国": [
+    {
+      "de": "Ausland",
+      "gender": "das",
+      "pronunciation": "アウスラント",
+      "forms": {
+        "nominative": "das Ausland",
+        "genitive": "des Auslandes",
+        "dative": "dem Ausland",
+        "accusative": "das Ausland"
+      },
+      "plural": {}
+    }
+  ],
+  "外国人": [
+    {
+      "de": "Ausländer",
+      "gender": "der",
+      "pronunciation": "アウスレンダー",
+      "forms": {
+        "nominative": "der Ausländer",
+        "genitive": "des Ausländers",
+        "dative": "dem Ausländer",
+        "accusative": "den Ausländer"
+      },
+      "plural": {
+        "nominative": "die Ausländer",
+        "genitive": "der Ausländer",
+        "dative": "den Ausländern",
+        "accusative": "die Ausländer"
+      }
+    }
+  ],
+  "外国の": [
+    {
+      "de": "ausländisch",
+      "pronunciation": "アウスレンディッシュ",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電源を切る": [
+    {
+      "de": "ausmachen",
+      "pronunciation": "アウスマッヘン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "発言": [
+    {
+      "de": "Aussage",
+      "gender": "die",
+      "pronunciation": "アウスザーゲ",
+      "forms": {
+        "nominative": "die Aussage",
+        "genitive": "der Aussage",
+        "dative": "der Aussage",
+        "accusative": "die Aussage"
+      },
+      "plural": {
+        "nominative": "die Aussagen",
+        "genitive": "der Aussagen",
+        "dative": "den Aussagen",
+        "accusative": "die Aussagen"
+      }
+    }
+  ],
+  "〜のように見える": [
+    {
+      "de": "aussehen",
+      "pronunciation": "アウスゼーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "電源が切れている": [
+    {
+      "de": "aus sein",
+      "pronunciation": "アウス ザイン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "身分証明書": [
+    {
+      "de": "Ausweis",
+      "gender": "der",
+      "pronunciation": "アウスヴァイス",
+      "forms": {
+        "nominative": "der Ausweis",
+        "genitive": "des Ausweises",
+        "dative": "dem Ausweis",
+        "accusative": "den Ausweis"
+      },
+      "plural": {
+        "nominative": "die Ausweise",
+        "genitive": "der Ausweise",
+        "dative": "den Ausweisen",
+        "accusative": "die Ausweise"
+      }
+    }
+  ],
+  "服を脱ぐ": [
+    {
+      "de": "ausziehen",
+      "pronunciation": "アウスツィーエン",
+      "forms": {},
+      "plural": {}
+    }
+  ],
+  "高速道路": [
+    {
+      "de": "Autobahn",
+      "gender": "die",
+      "pronunciation": "アウトバーン",
+      "forms": {
+        "nominative": "die Autobahn",
+        "genitive": "der Autobahn",
+        "dative": "der Autobahn",
+        "accusative": "die Autobahn"
+      },
+      "plural": {
+        "nominative": "die Autobahnen",
+        "genitive": "der Autobahnen",
+        "dative": "den Autobahnen",
+        "accusative": "die Autobahnen"
+      }
+    }
+  ],
+  "自動販売機": [
+    {
+      "de": "Automat",
+      "gender": "der",
+      "pronunciation": "アウトマート",
+      "forms": {
+        "nominative": "der Automat",
+        "genitive": "des Automaten",
+        "dative": "dem Automaten",
+        "accusative": "den Automaten"
+      },
+      "plural": {
+        "nominative": "die Automaten",
+        "genitive": "der Automaten",
+        "dative": "den Automaten",
+        "accusative": "die Automaten"
+      }
+    }
+  ],
+  "自動の": [
+    {
+      "de": "automatisch",
+      "pronunciation": "アウトマーティッシュ",
+      "forms": {},
+      "plural": {}
+    }
+  ]
+}
