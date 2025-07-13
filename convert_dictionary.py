@@ -14,7 +14,7 @@ def convert_dictionary():
         '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_C2_1.json',
         '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_additional.json',
         '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_daily_life_1.json',
-        '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_eating_1.json' # これを追加
+        '/Users/yamada-kei/Desktop/ドイツ語辞書/dictionary_eating_1.json'
     ]
 
     for file_path in dictionary_files:
@@ -22,18 +22,32 @@ def convert_dictionary():
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 for jp_word, entry_value in data.items():
-                    # エントリの値がリストの場合（dictionary_A2_1.jsonなど）
+                    if jp_word not in combined_data:
+                        combined_data[jp_word] = []
+
+                    # entry_value がリストの場合（複数のドイツ語訳がある場合）
                     if isinstance(entry_value, list):
-                        if jp_word in combined_data:
-                            combined_data[jp_word].extend(entry_value)
-                        else:
-                            combined_data[jp_word] = entry_value
-                    # エントリの値が辞書の場合（dictionary_A1_1.json, dictionary_A1_2.jsonなど）
+                        for new_entry in entry_value:
+                            # 既存のエントリと重複しないかチェック
+                            is_duplicate = False
+                            for existing_entry in combined_data[jp_word]:
+                                if existing_entry.get('de') == new_entry.get('de') and \
+                                   existing_entry.get('gender') == new_entry.get('gender'):
+                                    is_duplicate = True
+                                    break
+                            if not is_duplicate:
+                                combined_data[jp_word].append(new_entry)
+                    # entry_value が辞書の場合（単一のドイツ語訳がある場合）
                     elif isinstance(entry_value, dict):
-                        if jp_word in combined_data:
-                            combined_data[jp_word].append(entry_value)
-                        else:
-                            combined_data[jp_word] = [entry_value]
+                        new_entry = entry_value
+                        is_duplicate = False
+                        for existing_entry in combined_data[jp_word]:
+                            if existing_entry.get('de') == new_entry.get('de') and \
+                               existing_entry.get('gender') == new_entry.get('gender'):
+                                is_duplicate = True
+                                break
+                        if not is_duplicate:
+                            combined_data[jp_word].append(new_entry)
                     else:
                         print(f"Warning: Unexpected data type for {jp_word} in {file_path}. Skipping.")
 
