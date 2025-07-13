@@ -28,9 +28,10 @@ def convert_dictionary():
                     # entry_value がリストの場合（複数のドイツ語訳がある場合）
                     if isinstance(entry_value, list):
                         for new_entry in entry_value:
-                            # 既存のエントリと重複しないかチェック
+                            # 重複しないかチェック
                             is_duplicate = False
                             for existing_entry in combined_data[jp_word]:
+                                # de と gender が同じであれば重複とみなす
                                 if existing_entry.get('de') == new_entry.get('de') and \
                                    existing_entry.get('gender') == new_entry.get('gender'):
                                     is_duplicate = True
@@ -42,6 +43,7 @@ def convert_dictionary():
                         new_entry = entry_value
                         is_duplicate = False
                         for existing_entry in combined_data[jp_word]:
+                            # de と gender が同じであれば重複とみなす
                             if existing_entry.get('de') == new_entry.get('de') and \
                                existing_entry.get('gender') == new_entry.get('gender'):
                                 is_duplicate = True
